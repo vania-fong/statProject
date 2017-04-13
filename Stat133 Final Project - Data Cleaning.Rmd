@@ -54,7 +54,19 @@ summary(houseprices$SalePrice)
 
 ggplot(houseprices, aes(x = YearBuilt)) + geom_histogram(bins = 55, col = "blue", fill = "orange") + labs(title = "Distribution of Years Built")
 
-ggplot(houseprices, aes(YearBuilt,  RoofMatl))
+ ggplot(houseprices, aes(YearBuilt,  RoofMatl))
+
+
+```
+
+
+
+```{R}
+matl = houseprices %>% 
+  group_by(YearBuilt, RoofMatl) %>% 
+  summarise(count = n())
+  
+ggplot(matl, aes(YearBuilt, count)) + geom_line(aes(col = RoofMatl),linetype = 2)
 
 
 ```
