@@ -1,0 +1,62 @@
+---
+title: "Stat133 Final Project: Data Cleaning"
+author: "Buy R House"
+date: ""
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+library(dplyr)
+library(ggplot2)
+```
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+
+```{r}
+library(readr)
+houseprices <- read_csv("~/College Academics/3rd Year/Stat 133/project/houseprices.csv")
+```
+
+##Basic Information about Dataset
+
+```{r}
+head(houseprices)
+dim(houseprices)
+names(houseprices)
+```
+
+## Levels from Categorical Variables
+
+```{r}
+houseprices$KitchenQual = factor(houseprices$KitchenQual, levels = c("Po", "Fa", "TA", "Gd", "Ex"), ordered = TRUE)
+max(houseprices$KitchenQual)
+
+#list(houseprices$GarageQual,houseprices$GarageCond) = 
+houseprices[,c(28, 32,41, 58, 64:65, 73)] = houseprices[,c(28, 32,41, 58, 64:65, 73)] %>% 
+  lapply(factor, levels = c(NA, "Po", "Fa", "TA", "Gd", "Ex"), ordered = TRUE)
+
+```
+
+```{r}
+
+ggplot(houseprices, aes(x = SalePrice)) + geom_density(col = "blue") + labs(title = "Distribution of House Prices")
+
+summary(houseprices$SalePrice)
+
+ggplot(houseprices, aes(x = YearBuilt)) + geom_histogram(bins = 55, col = "blue", fill = "orange") + labs(title = "Distribution of Years Built")
+
+ggplot(houseprices, aes(YearBuilt,  RoofMatl))
+
+
+```
+
+
