@@ -30,8 +30,10 @@ mainPage <- mainUrl %>%
   htmlParse() %>%
   get_links()
 
-links = c()
+links = c() #get all the links in one page (the main page)
   
+#Note: Will add all pages later. One page take significant amoutn of time to load already... 
+
 for (i in 1:length(mainPage)) {
   
   new_link <- paste(baseURL, mainPage[i], sep = "")
@@ -39,7 +41,7 @@ for (i in 1:length(mainPage)) {
   
 }
 
-
+#This function is not too useful. Leaving here for now. 
 get_param <- 
   function(name) {
 
@@ -59,6 +61,7 @@ get_param <-
 ```{r}
 #Facts and Features asset 
 
+#Different parameters 
 type <- c()
 laundry <- c()
 heating <- c()
@@ -97,8 +100,12 @@ for (elem in 1:length(links)){
 ```
 
 ```{r}
+
+#table of above parameters
 df <- data.frame(type, laundry, heating, cooling, parking, prices, num_beds, num_baths, sqft)
 
 df
+
+#Note: Above parameters are parameters that are common to all the houses. Found that some/most parameters are not. Will look through to see what parameters seem useful. 
 ```
 
