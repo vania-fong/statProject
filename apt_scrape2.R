@@ -68,9 +68,28 @@ main_df <-  read.csv("~/College Academics/3rd Year/Stat 133/statProject/apt.csv"
 
 
 library(dplyr)
+library(DataComputing)
+empt = "Incomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property, please contact the listing agent, brokerage, or listing provider."
+
 main_df1 <- main_df %>% 
-  mutate(Area = gsub("(sqft)|-", "", Area), Rent = gsub("[///mo]", "", Rent), Ba = gsub("[baths]", "", Ba), 
-         Beds = gsub("(beds|bed)", "",  Beds))
+  mutate(Area = as.numeric(gsub("(sqft)|-|,", "", Area)), Rent = as.numeric(gsub("[///mo$,]", "", Rent)), Ba = gsub("[baths]", "", Ba), 
+         Beds = gsub("(beds|bed)", "",  Beds), Address = as.character(Address)) %>% 
+  mutate(zip = as.numeric(substr(Address, nchar(Address) - 5, nchar(Address))))
+
 main_df1[main_df1 == "No Data"] = NA
 main_df1[main_df1 == " "] = NA
-View(main_df1)
+write.csv(main_df1,"~/College Academics/3rd Year/Stat 133/statProject/apt1.csv")
+
+
+#after doing some excel cleaning 
+apt1 <- read.csv("~/College Academics/3rd Year/Stat 133/statProject/apt2.csv")
+View(apt1)
+
+#Summary histogram plot
+ggplot(apt1, aes(Rent)) + geom_histogram(aes(fill = Laundry), bins = 50)
+
+#build rpart model 
+library(statisticalModeling)
+library(rpart)
+library("rpart.plot")
+rpart(Rent ~ Laundry + Pets + Area + Beds + Ba + zip + Type + Heating + Cooling + Parking,  data=apt1, cp = 0.01) %>% rpart.plot::prp(type=3)
