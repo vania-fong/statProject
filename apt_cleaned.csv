@@ -1,0 +1,423 @@
+Column1,X,Address,Rent,Beds,Ba,Area,Type,Laundry,Heating,Cooling,Pets,Parking,zip
+296,296,Waller St,4100,2,1,NA,Apartment,Shared,Forced air,NA,"Cats, large dogs, small dogs","Carport, Off street",94117
+297,297,Waller St,3500,1,1,NA,Apartment,Shared,NA,NA,"Cats, large dogs, small dogs",Off street,94117
+23,23,"Venn,The Haight Ashbury floorplan 1844 Market St",NA,1,1,676,Apartment,In Unit,NA,NA,NA,NA,94102
+307,307,Van Ness Ave,4700,1,1,830,Multi Family,In Unit,NA,NA,No,NA,94102
+28,28,Vallejo St,5350,2,2,1500,Multi Family,Shared,Baseboard,Central,No,Garage - Attached,94123
+184,184,Vallejo St,3900,2,1,NA,Multi Family,Shared,Wall,None,No,Garage - Attached,94123
+13,13,Union St,5500,Studio,1,1500,Multi Family,Shared,Forced air,None,No,On street,94123
+270,270,Tehama St,4000,1,1,NA,Multi Family,NA,Forced air,None,"Cats, small dogs",None,94105
+245,245,Sutter St,2295,Studio,1,NA,Multi Family,Shared,Baseboard,None,No,On street,94109
+41,41,Sacramento St,5495,2,2,1550,Multi Family,Shared,Radiant,NA,No,Garage - Attached,94115
+21,21,Russia Ave,3000,2,1,940,Apartment,Shared,Forced air,NA,No,NA,94112
+143,143,Rausch St,2550,1,1,NA,Multi Family,In Unit,Wall,None,No,On street,94103
+160,160,Quesada Ave,1900,1,1,650,Apartment,Shared,NA,NA,No,On street,94124
+239,239,Pine St,2295,1,1,NA,Multi Family,Shared,Wall,None,No,On street,94109
+221,221,Pacific Ave,4250,2,2,NA,Multi Family,Shared,Forced air,None,No,Garage - Attached,94109
+180,180,Octavia St,4200,2,2,NA,Apartment,Shared,NA,NA,No,Off street,94123
+252,252,Noe St,3499,2,1,NA,Apartment,Shared,Forced air,NA,No,"Garage - Attached, On street",94131
+308,308,New Montgomery St,5500,1,1,700,Multi Family,In Unit,NA,NA,NA,NA,94105
+269,269,Murray St,3800,3,1,NA,Multi Family,Shared,Forced air,NA,Cats,On street,94110
+120,120,Mission St,3095,1,1,765,Multi Family,In Unit,Forced air,None,No,Garage - Attached,94103
+142,142,Mission St,3175,1,1,NA,Multi Family,In Unit,Forced air,Central,No,On street,94103
+378,378,Mission St,4495,2,2,1075,Multi Family,In Unit,Forced air,Central,"Cats, small dogs",Garage - Attached,94103
+379,379,Mission St,5900,2,2,1031,Multi Family,In Unit,Forced air,Central,NA,NA,94103
+380,380,Mission St,3195,1,1,756,Multi Family,In Unit,Forced air,None,No,On street,94103
+11,11,Mcallister St,4500,1,1,645,Multi Family,In Unit,NA,NA,NA,NA,94118
+111,111,Masonic Ave,4675,2,2,1250,Multi Family,Shared,NA,NA,Cats,Garage - Attached,94117
+128,128,Lombard St,2250,Studio,1,NA,Multi Family,Shared,Forced air,NA,No,Carport,94123
+398,398,Lincoln Way,2750,1,1,NA,Apartment,Shared,NA,NA,No,On street,94122
+246,246,Laguna St,2400,Studio,1,NA,Multi Family,Shared,Baseboard,None,No,Garage - Attached,94123
+400,400,Hayes St,5750,3,2,NA,Multi Family,Shared,Wall,None,"Cats, small dogs",On street,94102
+284,284,Harrison St,3299,1,1,658,Multi Family,In Unit,NA,NA,Small dogs,Garage - Detached,94105
+263,263,Greenwich St,2850,1,1,NA,Multi Family,Shared,Forced air,NA,"Cats, small dogs",Garage - Attached,94123
+382,382,Greenwich St,5900,2,1,1100,Multi Family,In Unit,NA,NA,NA,NA,94123
+420,420,Greenwich St,4250,2,1,NA,Multi Family,Shared,Forced air,NA,No,Garage - Attached,94123
+365,365,Golden Gate Ave,2150,1,1,NA,Multi Family,Shared,Forced air,None,No,On street,94118
+383,383,Funston Ave,3600,2,2,NA,Apartment,Shared,NA,NA,Cats,Off street,94118
+350,350,Francisco St,10000,2,2,1400,Multi Family,NA,Radiant,Central,No,Garage - Attached,94133
+323,323,Folsom St,3000,1,1,1632,Apartment,NA,NA,NA,No,On street,94110
+273,273,Fillmore St,4500,2,1,NA,Apartment,Shared,NA,NA,No,Garage - Attached,94115
+3,3,Divisadero St,6950,3,1,NA,Apartment,Shared,NA,NA,No,Off street,94115
+346,346,Dalewood Way #,2800,1,1,825,Apartment,Shared,Forced air,NA,No,Garage - Attached,94127
+118,118,Clement St,2495,1,1,NA,Multi Family,Shared,Radiant,None,No,On street,94118
+125,125,Clement St,4500,4,2,NA,Apartment,NA,NA,NA,No,NA,94118
+290,290,Clayton St,2800,1,1,NA,Multi Family,Shared,Forced air,Central,Cats,Garage - Attached,94114
+351,351,Cervantes Blvd,3900,1,1,NA,Apartment,Shared,NA,NA,No,NA,94123
+147,147,California St,2795,1,1,NA,Multi Family,Shared,Baseboard,Central,"Cats, small dogs",Garage - Attached,94109
+352,352,California St,2650,1,1,NA,Apartment,Shared,NA,NA,Cats,On street,94109
+419,419,California St,3645,1,1,NA,Multi Family,In Unit,Forced air,NA,"Cats, small dogs",Garage - Attached,94109
+12,12,Buena Vista Ter,5400,2,2,1100,Multi Family,In Unit,NA,NA,Small dogs,NA,94117
+162,162,Buchanan St,4750,2,2,NA,Multi Family,In Unit,Forced air,NA,"Cats, small dogs",Garage - Attached,94102
+324,324,Buchanan St,4650,1,1,600,Multi Family,In Unit,NA,NA,NA,Garage - Attached,94102
+42,42,Brosnan St,8500,3,3.5,NA,Multi Family,In Unit,Forced air,None,"Cats, small dogs",Garage - Attached,94103
+82,82,Broadway,4200,1,1,NA,Multi Family,Shared,Radiant,None,No,Garage - Attached,94109
+144,144,Broadway St,4500,1,1,NA,Multi Family,Shared,Forced air,None,No,Garage - Attached,94115
+208,208,Brannan St,6000,2,2,1200,Multi Family,NA,Forced air,Central,"Cats, small dogs",Garage - Attached,94107
+119,119,Bay St,2895,1,1,850,Multi Family,Shared,Forced air,Central,No,Garage - Attached,94133
+266,266,Ashbury St,3595,2,1,NA,Multi Family,Shared,Wall,None,No,On street,94117
+153,153,995 Clayton St,3850,2,1,1200,Apartment,Shared,NA,Central,No,Garage - Attached,94117
+374,374,980 Capp St,2300,1,1,4882,Apartment,NA,Forced air,Wall,No,NA,94110
+389,389,955 Bush St APT 506,1850,Studio,1,NA,Multi Family,NA,NA,NA,NA,NA,94109
+171,171,95 Orange Aly # 101,4600,2,1,NA,Multi Family,In Unit,NA,NA,"Cats, large dogs, small dogs",NA,94110
+405,405,95 Grand View Ave,3550,1,1,623,Multi Family,NA,NA,NA,NA,Garage - Attached,94114
+338,338,940-942 Hayes,4595,2,1,879,Multi Family,NA,NA,NA,NA,NA,94117
+100,100,94 Sussex St,3900,1,1,1200,Apartment,In Unit,Forced air,NA,"Cats, small dogs",1 space,94131
+403,403,919 Sutter St,1895,Studio,1,575,Apartment,Shared,NA,NA,No,On street,94109
+406,406,904 Corbett Ave,3245,2,1,NA,Apartment,NA,NA,NA,No,Garage - Attached,94131
+163,163,90 Alhambra St APT 201,2330,Studio,1,480,Apartment,Shared,NA,NA,No,Garage - Attached,94123
+306,306,899 Green St APT 110,3400,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94133
+107,107,875 Le Conte Avenue # First Floor,2850,2,2,NA,Apartment,NA,NA,NA,No,On street,94124
+291,291,855 Folsom St APT 903,4799,2,2,1100,Apartment,In Unit,Forced air,NA,"Cats, small dogs",Carport,94107
+4,4,85 Richland Ave APT 1,2195,1,1,NA,Apartment,NA,NA,NA,No,NA,94110
+83,83,85 Carl St APT 14,2795,2,1,700,Multi Family,NA,NA,NA,Cats,On street,94117
+166,166,839 Jones St APT 11,2245,Studio,1,NA,Multi Family,NA,NA,NA,No,NA,94109
+47,47,833 Ashbury St APT 4,4500,2,1,1000,Apartment,Shared,NA,NA,"Cats, large dogs, small dogs",NA,94117
+375,375,83 Mcallister St APT 505,2995,1,1,409,Multi Family,Shared,NA,NA,No,On street,94102
+61,61,829 Leavenworth St APT 600,4195,2,1,NA,Apartment,NA,NA,NA,"Cats, small dogs",NA,94109
+197,197,825 Geary St,2795,1,1,1000,Apartment,Shared,Forced air,NA,"Cats, small dogs",NA,94109
+242,242,824 Brazil Ave,4600,3,2,NA,Multi Family,Shared,NA,NA,Cats,NA,94112
+340,340,823 Carolina St,2500,Studio,1,800,Apartment,Shared,Forced air,NA,No,Off street,94107
+301,301,821 Geary St APT 4,2095,Studio,1,NA,Apartment,NA,NA,NA,Cats,NA,94109
+404,404,8200 Oceanview Ter APT 213,2880,1,1,784,Multi Family,In Unit,NA,NA,No,NA,94132
+332,332,811 14th St,3750,2,1,NA,Multi Family,NA,NA,NA,No,NA,94114
+207,207,810 Eddy St,2150,Studio,1,NA,Apartment,Shared,NA,NA,Cats,NA,94109
+299,299,807 Burnett Ave APT 3,5950,2,2,NA,Apartment,Shared,Forced air,NA,"Cats, small dogs",Garage - Attached,94131
+50,50,802 Hayes St APT 6,2250,1,1,NA,Multi Family,NA,NA,NA,Cats,NA,94117
+217,217,8 Steiner St,4100,1,1,640,Apartment,In Unit,Forced air,NA,No,Garage - Attached,94117
+40,40,795 Pine St,2795,Studio,1,892,Apartment,In Unit,Forced air,Other,NA,"Off street, On street",94108
+5,5,791 7th Ave # 2ND,2800,1,1,NA,Apartment,NA,NA,NA,No,On street,94118
+32,32,790 California St,2450,Studio,1,300,Apartment,Shared,NA,NA,"Cats, small dogs",NA,94108
+312,312,790 43rd Ave # INLAW,2300,2,1,460,Apartment,NA,Forced air,NA,No,On street,94121
+348,348,781 Guerrero St,3450,2,1,NA,Multi Family,NA,NA,NA,NA,NA,94110
+16,16,775 Post St,3800,2,1,1000,Apartment,Shared,NA,NA,Cats,NA,94109
+30,30,7700 Geary Blvd,2595,1,1,NA,Apartment,NA,NA,NA,"Cats, small dogs",Garage - Attached,94121
+373,373,770 Natoma St APT 5,3590,2,1,560,Multi Family,NA,NA,NA,No,On street,94103
+9,9,77 Bluxome St,2452,Studio,1,233,Apartment,NA,NA,NA,NA,NA,94107
+87,87,765 Ofarrell St APT 7,1850,Studio,NA,475,Apartment,NA,NA,Wall,NA,On street,94109
+354,354,760 12th Avenue # Top Floor,5200,2,2,1600,Apartment,In Unit,Forced air,Central,"Cats, small dogs",Garage - Attached,94118
+48,48,756 Page St APT 5,5895,3,2,NA,Apartment,NA,NA,NA,"Cats, large dogs, small dogs",NA,94117
+339,339,747 Geary St,2895,1,1,860,Apartment,Shared,NA,NA,Cats,NA,94109
+243,243,747 16th Ave,4200,3,2,4351,Apartment,Shared,Forced air,Central,No,"Garage - Attached, On street",94118
+280,280,74 Cook St,4200,3,2,NA,Apartment,NA,Forced air,NA,No,Off street,94118
+288,288,738 Long Bridge St APT 512,5495,2,2,1210,Multi Family,NA,Forced air,Central,No,NA,94158
+259,259,733 Front St UNIT 507,4295,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94111
+122,122,731 Waller St # B,3195,1,1,NA,Apartment,Shared,Forced air,NA,No,NA,94117
+189,189,729 18th Ave,4500,2,1,1600,Multi Family,In Unit,Forced air,NA,No,NA,94121
+407,407,722 Larkin St APT 7,2700,2,1,NA,Apartment,NA,NA,NA,Cats,NA,94109
+287,287,716 2nd Ave APT 3,3495,1,1,550,Multi Family,NA,NA,NA,"Cats, small dogs",1 space,94118
+412,412,711 22nd St,2500,1,1,550,Apartment,Shared,NA,NA,No,NA,94107
+115,115,709 Clayton St,3450,1,1,800,Apartment,NA,NA,NA,"Cats, small dogs",NA,94117
+178,178,690 Pennsylvania Ave APT 119,3900,1,1.5,1152,Multi Family,NA,NA,NA,NA,NA,94107
+300,300,633 Masonic Ave,6500,2,1,3110,Apartment,NA,Forced air,NA,Cats,On street,94117
+413,413,628 Hyde Street # FL GROUND,2400,Studio,1,550,Apartment,NA,Forced air,NA,No,NA,94109
+333,333,627 Corbett Ave APT 5,2200,Studio,1,200,Apartment,Shared,Forced air,NA,No,"Garage - Attached, Garage - Detached",94114
+46,46,625 Leavenworth St APT 303,2095,Studio,1,NA,Apartment,Shared,NA,NA,No,NA,94109
+196,196,615 Minna St APT B,3500,2,1,650,Multi Family,NA,NA,NA,"Cats, large dogs, small dogs",NA,94103
+231,231,615 Greenwich St,3900,1,1,NA,Apartment,In Unit,NA,NA,"Cats, small dogs",NA,94133
+223,223,615 15th Ave # B,2000,Studio,1,NA,Apartment,NA,NA,NA,NA,NA,94118
+134,134,614 4th Ave # A,2600,1,1,500,Apartment,NA,NA,NA,No,"Off street, On street",94118
+43,43,605 Washington St,3050,1,1,983,Apartment,NA,NA,NA,"Cats, small dogs",On street,94111
+256,256,601 Burnett Ave APT 6,3095,1,1,500,Multi Family,NA,NA,NA,No,NA,94131
+148,148,6 Mint Plz APT 303A,5000,2,1,712,Apartment,NA,NA,NA,NA,NA,94103
+141,141,5900 3rd St UNIT 2308,3490,2,2,1016,Multi Family,In Unit,NA,NA,"Cats, small dogs",Garage - Detached,94124
+262,262,571 Minna St,3795,2,2,NA,Apartment,Shared,NA,NA,"Cats, small dogs",NA,94103
+64,64,562 Belvedere St APT 4,3795,2,1,850,Multi Family,Shared,NA,NA,No,"Garage - Attached, Garage - Detached",94117
+53,53,560 26th Ave,3100,2,1,NA,Apartment,NA,Forced air,NA,No,"Garage - Attached, On street",94121
+106,106,549 Lombard St,4950,2,1,1180,Apartment,NA,NA,NA,No,On street,94133
+281,281,530 Grove St APT 3,2500,Studio,1,NA,Apartment,NA,NA,NA,No,On street,94102
+114,114,527 3rd St APT 301,2250,1,1,350,Apartment,Shared,NA,NA,Cats,On street,94107
+205,205,525 7th Ave,5800,4,2,2125,Apartment,NA,Forced air,NA,No,NA,94118
+254,254,521 Dolores St,7500,3,2,1750,Apartment,In Unit,NA,NA,No,Garage - Attached,94110
+235,235,52 Rausch St APT 103,3346,1,1.5,756,Multi Family,NA,NA,NA,NA,NA,94103
+230,230,52 Edith St,3595,2,1,600,Apartment,NA,NA,NA,NA,NA,94133
+112,112,509 Sanchez St,4250,2,1,NA,Apartment,In Unit,Forced air,NA,No,NA,94114
+409,409,508 Octavia St APT 9,2795,1,1,NA,Apartment,NA,NA,NA,Cats,NA,94102
+127,127,500A 19th Ave,3000,2,1,NA,Apartment,NA,NA,NA,No,Garage - Attached,94121
+210,210,5 Alma St APT 3,3750,1,1,962,Multi Family,NA,NA,NA,No,NA,94117
+191,191,499 Marina Blvd APT 104,4000,1,1,1200,Multi Family,NA,NA,NA,Cats,18 spaces,94123
+70,70,497 Monterey Blvd,3200,2,1,2532,Apartment,In Unit,Forced air,NA,No,On street,94127
+385,385,495 Francisco St # D,2900,1,1,700,Apartment,NA,NA,NA,Cats,On street,94133
+384,384,480 Mission Bay Blvd N UNIT 512,5100,2,2,1226,Apartment,In Unit,Forced air,Central,NA,Garage - Attached,94158
+76,76,476 25th Ave,3450,2,1,1000,Apartment,In Unit,NA,NA,No,On street,94121
+66,66,4740 Balboa St APT 210,2495,1,1,NA,Multi Family,NA,NA,NA,No,On street,94121
+29,29,473 Elizabeth St APT 1,3995,2,1,875,Apartment,In Unit,Forced air,NA,No,Carport,94114
+358,358,469 Clementina St,3195,1,1,700,Apartment,Shared,Forced air,Central,No,Garage - Attached,94103
+349,349,467 8th Ave APT 1,2825,1,1,750,Multi Family,Shared,NA,NA,No,NA,94118
+212,212,463 Central Ave,4500,3,1,NA,Apartment,NA,Forced air,NA,No,On street,94117
+154,154,458 Sanchez St # B,3670,1,1,625,Apartment,Shared,Forced air,NA,"Cats, small dogs",Garage - Attached,94114
+279,279,455 Burnett Ave,2800,1,1,NA,Apartment,Shared,NA,NA,Cats,Garage - Attached,94131
+318,318,455 14th St # 3RD,6495,3,2,NA,Apartment,In Unit,NA,NA,"Cats, small dogs",NA,94103
+357,357,453 Union St # 453A,2800,1,1,600,Apartment,NA,NA,NA,No,NA,94133
+410,410,451A 26th Ave,5000,4,2,NA,Multi Family,NA,NA,NA,No,NA,94121
+168,168,437 Spruce St,4195,2,1.5,1000,Apartment,Shared,Forced air,NA,"Large dogs, small dogs",On street,94118
+209,209,435 Euclid Ave,2950,1,1,NA,Apartment,NA,Forced air,NA,Cats,"Carport, Garage - Attached, On street",94118
+14,14,435 China Basin St,4800,2,2,1170,Multi Family,In Unit,Forced air,Other,NA,Garage - Attached,94158
+89,89,435 China Basin St UNIT 428,4800,2,2,1185,Multi Family,NA,NA,NA,NA,NA,94158
+190,190,431 Capistrano Ave,2300,2,1,NA,Apartment,Shared,Forced air,NA,Cats,On street,94112
+69,69,43 Lobos St,2700,2,1,900,Apartment,NA,NA,Central,No,On street,94112
+331,331,429 Corbett Avenue # FL 3RD,3770,2,1,980,Apartment,Shared,Forced air,NA,Cats,On street,94114
+355,355,425 Marina Blvd,20000,4,4,4610,Multi Family,In Unit,Forced air,Central,NA,NA,94123
+133,133,423 Waller Street 9 423 Waller St # 9,3500,2,1,NA,Multi Family,NA,NA,NA,NA,NA,94117
+186,186,4220 Cesar Chavez St APT 105,3795,2,2,NA,Multi Family,NA,NA,NA,No,NA,94131
+26,26,42 Terra Vista Ave APT 3,4000,1,1,880,Multi Family,In Unit,NA,NA,NA,"Garage - Detached, Off street",94115
+361,361,42 Castro St APT 6,2675,Studio,1,NA,Apartment,Shared,NA,NA,"Cats, small dogs",NA,94114
+241,241,419 Fulton St APT G,4295,2,1,940,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94102
+129,129,4156 25th St,5350,3,1,3540,Apartment,In Unit,Forced air,NA,No,On street,94114
+360,360,4126 17th St,9000,3,3.5,2100,Multi Family,In Unit,NA,NA,NA,Garage - Attached,94114
+39,39,41 Cervantes Blvd,8950,3,2,1750,Apartment,In Unit,Forced air,NA,No,NA,94123
+126,126,403 Main St APT 504N,3150,1,1,483,Multi Family,In Unit,Forced air,Central,"Cats, small dogs",NA,94105
+240,240,401 Duncan St,3595,2,1,NA,Multi Family,NA,NA,NA,No,NA,94131
+136,136,400 Monterey Blvd APT 1,3350,2,NA,NA,Multi Family,NA,NA,NA,No,Carport,94127
+104,104,3rd AveIncomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property,2750,1,1,NA,Multi Family,Shared,Wall,None,No,On street,94118
+176,176,388 Potrero Ave # 306,3850,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94103
+7,7,388 Beale,4184,1,1,808,Apartment,In Unit,NA,NA,"Cats, large dogs, small dogs",Garage - Attached,94105
+8,8,388 Beale,5897,2,2,1224,Apartment,In Unit,NA,NA,"Cats, large dogs, small dogs",Garage - Attached,94105
+216,216,3825 Scott St APT 203,3695,1,1,865,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94123
+71,71,3789 Fillmore St,3500,1,1,1100,Apartment,Shared,Forced air,NA,No,On street,94123
+249,249,375 27th Ave APT 2,3100,2,1,1000,Apartment,Shared,NA,NA,No,Garage - Attached,94121
+27,27,3726 Broderick St APT 2,3400,1,1,NA,Apartment,Shared,NA,NA,No,Garage - Attached,94123
+86,86,3711 Fillmore St APT 304,3800,2,1,NA,Multi Family,NA,NA,NA,Cats,15 spaces,94123
+353,353,37 States St APT 8,2495,Studio,1,NA,Multi Family,NA,NA,NA,NA,NA,94114
+347,347,3673-3675 19th Street 3673a 19th St,3800,2,1,NA,Apartment,NA,NA,NA,"Cats, small dogs",NA,94110
+130,130,366 22nd Ave # A1,2395,1,1,NA,Apartment,Shared,Forced air,NA,No,"Carport, Off street",94121
+388,388,36 Sheridan St,5700,3,2,1600,Apartment,In Unit,NA,NA,No,NA,94103
+15,15,358 12th Ave,3800,3,1,1300,Apartment,Shared,Forced air,NA,"Cats, small dogs",On street,94118
+96,96,356 12th Ave APT 6,2900,2,1,NA,Multi Family,Shared,NA,NA,No,Garage - Detached,94118
+94,94,3550 23rd St APT 6,4195,2,1,NA,Apartment,NA,NA,NA,"Cats, small dogs","Garage - Attached, On street",94110
+58,58,3546 21st St,2300,Studio,1,500,Apartment,Shared,NA,NA,No,NA,94114
+371,371,3543 23rd St # B,3095,1,1,NA,Multi Family,Shared,NA,NA,No,On street,94110
+194,194,3518 16th St APT 2,1995,Studio,1,525,Apartment,NA,NA,NA,Cats,NA,94114
+203,203,351 Grove St APT 4,2695,1,1,NA,Multi Family,NA,NA,NA,Cats,NA,94102
+150,150,350 Fremont St,3925,1,1,NA,Apartment,In Unit,Forced air,Other,"Cats, small dogs","Carport, Garage - Attached, On street",94105
+33,33,3476 18th St APT 26,1495,Studio,1,NA,Apartment,NA,NA,NA,No,On street,94110
+45,45,345 Texas St,4200,2,1,3250,Apartment,NA,NA,NA,Cats,NA,94107
+322,322,34 Joice St APT 2,2350,1,1,450,Apartment,NA,Forced air,NA,No,NA,94108
+72,72,33rd Ave,3200,2,2,1200,Apartment,Shared,NA,NA,No,Garage - Attached,94116
+124,124,338 Potrero Ave #402,3950,1,1,673,Multi Family,In Unit,Forced air,Other,NA,NA,94103
+165,165,3350 21st St # A,3695,1,1,5210,Apartment,In Unit,Forced air,NA,"Cats, small dogs",NA,94110
+376,376,3346 Clay St,14995,5,3,2754,Multi Family,NA,NA,NA,No,NA,94118
+145,145,3340 Taraval St,3795,3,2,NA,Multi Family,NA,NA,NA,No,On street,94116
+10,10,3322 Buchanan St APT 311,3300,1,1,NA,Multi Family,NA,NA,NA,Cats,27 spaces,94123
+362,362,3317 Anza St,5800,4,2,1500,Apartment,NA,Forced air,NA,No,NA,94121
+75,75,330 Mission Bay Blvd N,4800,2,2,1100,Multi Family,In Unit,NA,NA,NA,Garage - Detached,94158
+195,195,328 Pennsylvania Ave APT 3,3300,2,1,NA,Multi Family,NA,NA,NA,No,"Carport, Off street",94107
+192,192,3250 Market St APT 5,4750,2,2,1100,Apartment,NA,Forced air,NA,Cats,Off street,94114
+179,179,3158 Mission St APT 1,4500,4,1.5,800,Apartment,NA,NA,NA,NA,NA,94110
+52,52,3035 Baker St,5395,2,2,830,Apartment,In Unit,NA,NA,"Cats, small dogs",Garage - Attached,94123
+402,402,3026 Clement St,5595,4,3.5,1600,Apartment,NA,Forced air,NA,No,On street,94121
+17,17,300 Berry St 1503 300 Berry St # 1503,3600,1,1,732,Multi Family,NA,NA,NA,NA,NA,94158
+36,36,30 Liberty St,2525,Studio,1,NA,Multi Family,NA,Wall,NA,No,NA,94110
+99,99,29th Ave,1950,1,1,600,Multi Family,Shared,NA,NA,"Cats, small dogs",Off street,94122
+295,295,2995 22nd St,5000,3,1,NA,Apartment,NA,NA,NA,No,NA,94110
+261,261,2919 Pacheco St,3995,3,2,1356,Apartment,Shared,NA,NA,Cats,Garage - Attached,94116
+232,232,291 Santos St APT 08,2500,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94134
+123,123,2900 Turk Blvd,4900,2,2,1600,Multi Family,NA,NA,NA,NA,NA,94118
+265,265,2844 Harrison Street # Top Floor,6695,5,1.5,NA,Apartment,NA,NA,NA,Cats,NA,94110
+140,140,283 4th Ave APT 4,2550,1,1,NA,Multi Family,NA,NA,NA,No,NA,94118
+328,328,2808 Market St,2995,1,1,500,Apartment,In Unit,Forced air,NA,No,Garage - Attached,94114
+282,282,2801 Jackson St APT 304,6000,2,1,1200,Apartment,Shared,NA,NA,"Cats, small dogs","Garage - Attached, Garage - Detached",94115
+121,121,2801 Greenwich St,7995,5,2,1650,Apartment,In Unit,NA,NA,No,NA,94123
+81,81,2775 Market St,3995,2,1,NA,Multi Family,NA,NA,NA,NA,NA,94114
+342,342,2755 Franklin St APT 4,3300,1,1,NA,Apartment,Shared,NA,NA,No,Garage - Attached,94123
+105,105,2750 Mcallister St APT 302,2200,Studio,1,400,Apartment,NA,Forced air,NA,No,"Garage - Detached, Off street",94118
+233,233,2703 Laguna St # 1,2450,Studio,1,NA,Apartment,NA,NA,NA,Cats,On street,94123
+51,51,2669 California St APT 1,3000,1,1,850,Apartment,Shared,Forced air,NA,No,On street,94115
+229,229,2661 California St APT 4,3500,2,1,1000,Apartment,NA,NA,NA,No,NA,94115
+391,391,2655 Pine St,2650,1,1,NA,Apartment,Shared,NA,NA,No,On street,94115
+369,369,2652 Harrison St APT 306,3895,1,1.5,NA,Apartment,In Unit,Forced air,NA,No,Garage - Attached,94110
+199,199,2652 Greenwich St # 1,3000,Studio,1,NA,Apartment,NA,Forced air,NA,No,On street,94123
+92,92,2650 Franklin St,2195,Studio,1,NA,Apartment,NA,Forced air,NA,No,Garage - Attached,94123
+152,152,265 N Point St,2390,Studio,1,NA,Apartment,NA,Forced air,NA,Cats,"Carport, Garage - Attached, Off street, On street",94133
+421,421,2629 Folsom St,2550,1,1,550,Apartment,Shared,NA,NA,Cats,Carport,94110
+91,91,2626 Great Hwy,3999,2,1,1250,Apartment,Shared,Forced air,NA,"Cats, small dogs",Garage - Attached,94116
+334,334,2625 Hyde St,5250,4,1,NA,Apartment,In Unit,NA,NA,Cats,NA,94109
+1,1,259 Dolores Street # FL 3RD,2850,1,1,600,Apartment,Shared,NA,NA,No,Off street,94103
+386,386,2576 Washington St APT 4,3000,1,1,NA,Apartment,Shared,Forced air,NA,Cats,NA,94115
+68,68,257 S Van Ness Ave,6950,Studio,1,4734,Multi Family,NA,Forced air,NA,NA,NA,94103
+79,79,2539 Polk St APT 5,2575,1,1,NA,Apartment,Shared,NA,NA,No,On street,94109
+303,303,2539 Lombard St,3499,1,1,900,Apartment,Shared,Forced air,NA,"Cats, small dogs",Off street,94123
+219,219,249 Shipley St APT 9,3800,1,1.5,892,Multi Family,In Unit,NA,NA,NA,Garage - Attached,94107
+395,395,2477 California St,4500,1,1,1100,Apartment,Shared,Forced air,NA,"Cats, small dogs",On street,94115
+2,2,2450 Greenwich St # A,2550,Studio,1,NA,Apartment,NA,NA,NA,No,On street,94123
+149,149,2433 Polk St APT 4,3900,1,1,NA,Multi Family,NA,NA,NA,"Cats, large dogs, small dogs",NA,94109
+415,415,2425 Buchanan St APT 101,3200,1,1,NA,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94115
+227,227,2401 23rd Ave APT 4,2095,1,1,NA,Multi Family,Shared,NA,NA,No,NA,94116
+93,93,240 Clinton Park # A,2600,1,1,NA,Apartment,Shared,NA,NA,No,NA,94103
+74,74,240 Chattanooga St,3295,1,1,650,Apartment,Shared,NA,NA,No,On street,94114
+321,321,2379 20th Ave APT 6,3197,2,1,NA,Multi Family,NA,NA,NA,No,NA,94116
+175,175,2370 Chestnut St,2450,Studio,1,NA,Multi Family,NA,NA,NA,NA,NA,94123
+90,90,237 Miramar Ave,2850,2,1,NA,Apartment,NA,Forced air,NA,No,Off street,94112
+146,146,2369 Union St APT 4,3495,1,1,700,Multi Family,NA,NA,NA,No,On street,94123
+73,73,2358 Bryant Street # FL 3RD,3650,1,1,900,Apartment,Shared,Forced air,NA,"Cats, small dogs",On street,94110
+416,416,2350 Van Ness Ave,2495,Studio,1,NA,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94109
+67,67,2350 Union St APT 7,4195,2,1,NA,Apartment,Shared,NA,NA,"Cats, small dogs",NA,94123
+228,228,235 Berry St APT 518,5995,2,2,NA,Multi Family,NA,NA,NA,No,NA,94158
+56,56,2342 Franklin St,7195,4,2,1964,Apartment,In Unit,Forced air,NA,"Cats, large dogs, small dogs",On street,94123
+344,344,2341 Union St APT 3,3495,1,1,650,Apartment,Shared,Forced air,NA,No,Garage - Attached,94123
+198,198,2323 Larkin St APT 2,3400,2,1,NA,Apartment,Shared,NA,NA,No,On street,94109
+55,55,2311 24th Ave # 1,3750,2,2,1300,Apartment,In Unit,Forced air,NA,No,Off street,94116
+157,157,227 Sanchez Street # FL 3RD,2350,Studio,1,NA,Apartment,NA,Forced air,NA,No,NA,94114
+305,305,2266 Washington St APT 8,3900,2,2,NA,Multi Family,NA,NA,NA,NA,Off street,94115
+187,187,2261 Filbert 2261 Filbert,6950,4,2,NA,Multi Family,NA,NA,NA,NA,NA,94123
+155,155,2240 Bryant St APT 31,2595,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94110
+366,366,2192 15th St,5995,3,2,1600,Apartment,In Unit,NA,NA,"Cats, small dogs",NA,94114
+182,182,2189 Market St APT 5,4500,2,2,990,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94114
+326,326,2125 20th Ave # IN,2000,1,1,NA,Apartment,Shared,NA,NA,No,"Off street, On street",94116
+25,25,2121 Turk Blvd APT 4,4000,2,1,980,Apartment,Shared,NA,NA,No,Garage - Attached,94115
+309,309,2101 Baker St APT 8,3500,1,1,815,Multi Family,NA,NA,NA,No,NA,94115
+336,336,2086 Bush St # 5,3800,2,1,800,Apartment,NA,NA,NA,"Cats, small dogs",On street,94115
+316,316,2085 Sacramento St,2295,Studio,1,NA,Multi Family,Shared,NA,NA,No,NA,94109
+408,408,208 28th St APT 203,5250,2,2,1000,Apartment,In Unit,NA,NA,No,Garage - Attached,94131
+151,151,2060 Sutter St APT 205,4500,2,2,1215,Apartment,NA,Baseboard,NA,NA,Carport,94115
+298,298,2033 Oak St # B,4900,3,2,1200,Multi Family,Shared,Forced air,NA,"Cats, large dogs, small dogs",NA,94117
+247,247,2025 Stockton St APT 5,2495,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94133
+34,34,2025 Pine St APT 10,3095,1,1,700,Apartment,NA,NA,NA,Cats,Carport,94115
+188,188,2025 Balboa St # 1,2850,2,1,868,Apartment,NA,Forced air,NA,No,On street,94121
+393,393,2016 California St APT 2,2995,1,1,NA,Apartment,NA,NA,NA,No,On street,94109
+161,161,2010 Pacific Ave APT 12,8000,3,3,NA,Apartment,In Unit,Forced air,NA,"Cats, small dogs",Garage - Attached,94109
+77,77,2001 Pierce St APT 64,3100,Studio,1,NA,Apartment,NA,NA,NA,"Cats, small dogs",NA,94115
+255,255,200 29th St UNIT 2,4995,2,2.5,1294,Multi Family,In Unit,NA,NA,"Cats, large dogs, small dogs",2 spaces,94131
+418,418,20 Natick St # 1A,5185,3,2,1392,Apartment,In Unit,NA,NA,"Cats, large dogs, small dogs","Carport, Garage - Detached",94131
+248,248,2 Mint Plz STE 407,3400,1,1,658,Multi Family,NA,Forced air,Central,NA,"Carport, Garage - Attached, Off street, On street",94103
+218,218,2 Crestline Dr APT 4,2495,1,1,NA,Apartment,NA,NA,Central,No,"Carport, Off street",94131
+183,183,19th Ave,3695,2,1,NA,Multi Family,Shared,Radiant,None,"Cats, small dogs",Garage - Attached,94121
+330,330,1998 Broadway APT 701,4950,2,2,1030,Multi Family,Shared,NA,NA,"Cats, small dogs",Garage - Detached,94109
+6,6,1980 Washington St,4600,1,1,900,Apartment,Shared,NA,NA,Cats,Garage - Attached,94109
+401,401,1966 Pacific Ave,6200,2,2,1115,Multi Family,In Unit,NA,NA,No,"Carport, Garage - Attached, Off street",94109
+341,341,1951 48th Ave,2900,2,1,2200,Apartment,NA,NA,NA,No,Garage - Attached,94116
+215,215,195 Collingwood St,3250,1,1,NA,Apartment,NA,Forced air,NA,No,NA,94114
+335,335,191 Frederick St APT 14,2250,Studio,1,NA,Multi Family,Shared,NA,NA,Cats,NA,94117
+65,65,1887 Hayes St,2695,1,1,NA,Multi Family,NA,NA,NA,No,NA,94117
+286,286,188 15th Ave,5195,2,2,1600,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94118
+177,177,1870 Washington St,2250,Studio,1,300,Multi Family,NA,NA,NA,NA,NA,94109
+137,137,1865 Bush St APT 104,3600,2,1.5,NA,Multi Family,NA,NA,NA,No,NA,94109
+37,37,1862 23rd Ave,4500,2,2,2278,Apartment,Shared,Forced air,Other,No,"Garage - Attached, Off street, On street",94122
+251,251,1849 Clay St APT 5,4200,2,1,NA,Multi Family,NA,NA,NA,NA,NA,94109
+244,244,1845 Gough St,3450,2,1,NA,Apartment,Shared,Forced air,NA,No,NA,94109
+24,24,1834 Eddy St,2500,1,1,1396,Multi Family,NA,NA,NA,NA,NA,94115
+102,102,183 Castro St,2995,1,1,NA,Apartment,NA,NA,NA,Cats,NA,94114
+414,414,1816 Filbert St,2350,1,1,NA,Apartment,Shared,NA,NA,No,On street,94123
+390,390,1815 Powell St APT 11,1900,Studio,1,NA,Apartment,NA,NA,NA,Cats,NA,94133
+304,304,1769 Lombard St # A,2800,1,1,775,Apartment,NA,Forced air,NA,"Cats, large dogs, small dogs",NA,94123
+394,394,1740 Filbert St # 1ST,3499,2,1,700,Apartment,NA,Forced air,NA,"Cats, small dogs",Garage - Attached,94123
+193,193,1740 Beach St APT 16,2600,1,1,NA,Multi Family,NA,NA,NA,Cats,9 spaces,94123
+292,292,1737 Scott St,3995,2,2,NA,Apartment,In Unit,Forced air,NA,No,NA,94115
+181,181,1735 Dolores St # A,3000,1,1,300,Apartment,Shared,NA,NA,No,NA,94110
+327,327,1728 Bryant St # COMMERCIAL,3900,1,1,NA,Apartment,NA,NA,NA,No,NA,94110
+260,260,1700 Beach St APT 304,3000,1,1,NA,Multi Family,NA,NA,NA,Cats,15 spaces,94123
+320,320,16th Ave,2100,1,1,NA,Multi Family,Shared,Radiant,None,No,On street,94118
+368,368,1695 10th Ave APT 2,2350,1,1,NA,Apartment,Shared,NA,Central,No,On street,94122
+85,85,1690 Golden Gate Ave APT 03,2975,1,1,NA,Multi Family,NA,NA,NA,Small dogs,NA,94115
+138,138,1681 Union St,4500,2,1,1235,Apartment,Shared,Forced air,NA,No,Garage - Attached,94123
+337,337,168 Hyde St APT 407,1700,Studio,1,225,Apartment,Shared,Forced air,NA,No,On street,94102
+213,213,1678 Dolores St,4300,2,1,3100,Apartment,In Unit,Forced air,NA,No,Garage - Attached,94110
+35,35,166 Middlefield Dr # 166,5000,4,3,NA,Multi Family,NA,NA,NA,NA,NA,94132
+283,283,1645 Golden Gate Ave APT 2,3395,1,1,775,Apartment,Shared,NA,NA,No,NA,94115
+62,62,1640 Vallejo St APT 2,2845,1,1,NA,Apartment,NA,NA,NA,"Cats, small dogs",NA,94123
+364,364,1640 Golden Gate Ave # 10,1750,Studio,1,NA,Multi Family,NA,NA,NA,No,NA,94115
+238,238,1635 Gough St APT 501,2895,1,1,775,Multi Family,NA,NA,NA,NA,Garage - Detached,94109
+293,293,1633 California St APT 114,2600,1,1,NA,Apartment,NA,NA,NA,No,NA,94109
+97,97,1619 Fulton St,5800,3,1.5,1640,Multi Family,In Unit,NA,NA,NA,NA,94117
+250,250,1611 Vallejo St APT 402,4000,2,1,NA,Multi Family,NA,NA,NA,No,NA,94123
+98,98,1608 Cayuga Ave,3195,2,1,1198,Apartment,NA,NA,NA,No,Off street,94112
+271,271,15th StIncomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property,5850,3,1.5,1800,Multi Family,In Unit,Forced air,None,No,Garage - Attached,94114
+59,59,1588 Stillwell Rd APT F,3775,3,1,840,Apartment,In Unit,Forced air,NA,No,Carport,94129
+44,44,1580 Lombard St APT 1,3950,2,1,725,Multi Family,NA,NA,NA,No,Garage - Attached,94123
+159,159,1580 Beach St APT 104,3995,1,1,1000,Apartment,NA,NA,NA,Cats,Garage - Attached,94123
+116,116,1573 48th Ave APT 6,2750,2,1,840,Apartment,Shared,NA,NA,No,Garage - Attached,94122
+314,314,1531 Francisco St,2495,Studio,1,600,Apartment,NA,NA,NA,No,On street,94123
+319,319,1530 Pershing Dr APT A,3385,2,1,835,Apartment,In Unit,NA,NA,No,"Carport, Off street",94129
+370,370,1530 Irving St APT 1,2395,1,1,NA,Multi Family,Shared,NA,NA,No,NA,94122
+417,417,1530 Gough St APT 405,2400,Studio,1,600,Multi Family,NA,NA,NA,NA,NA,94109
+164,164,1530 Dolores St APT 2,4950,3,1,NA,Apartment,In Unit,Forced air,NA,No,NA,94110
+214,214,1522 46th Ave # STUDIO,2000,Studio,1,350,Multi Family,Shared,NA,NA,NA,NA,94122
+113,113,1512 Great Hwy # 1,2350,1,1,600,Apartment,Shared,Forced air,NA,No,NA,94122
+84,84,1499 Union St APT 05,2975,1,1,NA,Multi Family,NA,NA,NA,Small dogs,NA,94109
+108,108,1493 Francisco St,4000,2,1,NA,Apartment,NA,NA,NA,No,Garage - Attached,94123
+117,117,149 Dore St,3995,2,2,NA,Apartment,NA,NA,NA,Cats,NA,94103
+18,18,146 Connecticut St APT 2,6000,3,2,1516,Multi Family,NA,NA,NA,No,NA,94107
+276,276,145 Bella Vista Way # A,5995,3,2,1700,Apartment,In Unit,NA,NA,"Cats, large dogs, small dogs",Garage - Attached,94127
+110,110,1446 Washington St,3150,1,1,NA,Apartment,Shared,NA,NA,No,NA,94109
+258,258,1446 Jackson St APT 6,3995,2,1,1250,Multi Family,NA,NA,NA,No,NA,94109
+60,60,1446 18th Ave,4600,3,1,1500,Apartment,Shared,Forced air,NA,"Cats, small dogs","Garage - Attached, Off street",94122
+109,109,1443 17th Ave,3888,2,2,1400,Apartment,In Unit,Forced air,NA,No,"Off street, On street",94122
+95,95,1441 Clay St,3550,2,1,NA,Multi Family,NA,NA,NA,No,NA,94109
+268,268,1440 Clement St,3995,3,2,825,Apartment,NA,Forced air,NA,No,On street,94118
+310,310,1437 17th Avenue # FL 1ST,4000,2,2,NA,Apartment,NA,Forced air,NA,No,Off street,94122
+131,131,1435 Fulton St APT A,2895,1,1,NA,Multi Family,NA,NA,NA,No,NA,94117
+226,226,1434 Washington St,4850,2,1,1396,Multi Family,In Unit,Forced air,NA,NA,Garage - Attached,94109
+49,49,1433 Clay St APT 15,5995,3,2,NA,Apartment,In Unit,NA,NA,"Cats, large dogs, small dogs",NA,94109
+201,201,1429 Leavenworth St APT 304,2195,Studio,1,NA,Apartment,NA,NA,NA,No,NA,94109
+253,253,1420 Jones St,3000,1,1,NA,Apartment,NA,NA,NA,No,Off street,94109
+396,396,1415 5th Ave APT 2,2600,1,1,NA,Multi Family,NA,NA,NA,No,NA,94122
+313,313,1405 Van Ness Ave,3595,2,1,NA,Apartment,Shared,Forced air,NA,"Cats, small dogs",Off street,94109
+170,170,1403 Jackson St,2850,1,1,490,Apartment,NA,NA,NA,No,Garage - Attached,94109
+88,88,1401 41st Ave,3300,3,1,2279,Apartment,Shared,NA,NA,No,On street,94122
+363,363,140 Jersey St,5195,3,1,1200,Apartment,In Unit,NA,NA,"Cats, small dogs",Garage - Attached,94114
+387,387,139 Porter St,2950,2,2,NA,Apartment,In Unit,NA,NA,No,Garage - Attached,94110
+264,264,1386 Mcallister St # 5,3999,2,1,NA,Apartment,NA,Forced air,NA,"Cats, large dogs, small dogs",On street,94115
+173,173,1375 Green St APT 10,2900,Studio,1,500,Multi Family,NA,Forced air,NA,NA,On street,94109
+236,236,1351 Divisadero St APT 1,3300,2,1,900,Apartment,Shared,NA,NA,"Cats, small dogs",NA,94115
+20,20,135 Evelyn Way # DETACH,5880,5,3,1650,Apartment,In Unit,Forced air,NA,No,On street,94127
+274,274,135 Corwin St,2795,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94114
+78,78,135 8th St APT 5,2995,2,1,NA,Multi Family,NA,NA,NA,NA,NA,94103
+325,325,1335 Bay St APT 3,3600,1,1,567,Apartment,Shared,Forced air,Other,No,Garage - Attached,94123
+329,329,1333 Hayes St,10895,5,2,1700,Multi Family,NA,NA,NA,"Cats, small dogs",On street,94117
+267,267,1330 Pine St APT 8,2100,Studio,1,NA,Apartment,NA,Forced air,NA,No,NA,94109
+211,211,1328 Larkin St # TOP,12000,8,3,1635,Apartment,In Unit,Forced air,Central,NA,On street,94109
+372,372,1315 Cole St,6290,3,1,1900,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94117
+392,392,131 Hartford St # B,4000,2,1,900,Multi Family,In Unit,NA,NA,"Cats, large dogs, small dogs",Garage - Detached,94114
+272,272,1293 6th Ave,2700,Studio,1,NA,Apartment,NA,Forced air,NA,No,On street,94122
+397,397,1289 22nd Ave APT 103,2650,2,1,NA,Multi Family,NA,Forced air,NA,No,"Carport, Garage - Attached",94122
+275,275,1280 Minnesota St APT 103,4650,2,2,1125,Multi Family,NA,NA,NA,No,NA,94107
+169,169,1278 Jackson St,3950,1,1,800,Apartment,NA,NA,NA,No,Off street,94109
+22,22,1257 Bush St,7000,Studio,1,NA,Apartment,Shared,NA,NA,NA,NA,94109
+422,422,1255 Taylor St APT 1,3500,1,1,750,Apartment,NA,Forced air,Central,No,On street,94108
+359,359,125 Gilbert St APT 8,5000,2,2.5,1540,Multi Family,In Unit,Forced air,NA,NA,Garage - Attached,94103
+38,38,124 Locksley Ave APT 1,2795,1,1,800,Multi Family,Shared,NA,NA,NA,"Garage - Detached, Off street",94122
+167,167,1233 California St APT 306,2400,Studio,1,NA,Apartment,Shared,NA,NA,No,NA,94109
+101,101,123 Guerrero St APT 3,2995,1,1,NA,Multi Family,NA,NA,NA,NA,NA,94103
+202,202,1225 Bay St,3995,2,1,NA,Apartment,Shared,NA,NA,No,Garage - Attached,94123
+399,399,1220 14th Ave,2550,1,1,NA,Apartment,Shared,Forced air,NA,Cats,Carport,94122
+185,185,120 Parker Ave APT 301,4000,2,2,1000,Multi Family,Shared,Forced air,Central,Cats,NA,94118
+156,156,1190 Haight Street 10 Lyon # 208,2995,Studio,1,NA,Multi Family,NA,NA,NA,NA,NA,94117
+311,311,1184 Alabama St,3600,3,1,900,Apartment,NA,Forced air,NA,Cats,NA,94110
+356,356,1177 California St APT 814,5500,2,2.5,1399,Multi Family,NA,NA,NA,NA,NA,94108
+285,285,1170 Sacramento St APT 16A,14000,2,2,2070,Multi Family,NA,NA,NA,"Cats, small dogs",NA,94108
+103,103,1161 Stanyan St APT 1B,2240,1,1,700,Apartment,Shared,Forced air,NA,No,On street,94117
+225,225,1160 Mission St UNIT 1212,3400,1,1,660,Multi Family,NA,NA,NA,NA,1 space,94103
+317,317,1153 Fell St,4500,3,1,2788,Apartment,Shared,Forced air,NA,"Cats, small dogs",NA,94117
+411,411,113 Laidley St # A,2750,1,1,700,Multi Family,NA,NA,NA,Cats,NA,94131
+174,174,1124 Greenwich St,3750,1,1,1800,Multi Family,NA,NA,NA,NA,Garage - Attached,94109
+200,200,1123 Green St,17900,8,4,3451,Apartment,In Unit,Forced air,Central,NA,On street,94109
+19,19,1122 Sutter St APT 12,1800,Studio,1,NA,Apartment,NA,Forced air,NA,No,NA,94109
+57,57,1117 Ocean Ave,5695,Studio,NA,19486,Multi Family,"In Unit, Shared",Forced air,Central,"Cats, small dogs","Garage - Attached, On street",94112
+377,377,1115 Polk St APT 31,2495,1,1,500,Multi Family,NA,NA,NA,NA,On street,94109
+158,158,1114 Sutter St APT 503,1695,Studio,1,350,Apartment,Shared,Forced air,NA,Cats,NA,94109
+132,132,1114 Broadway # 2,2700,1,1,NA,Apartment,NA,NA,NA,No,NA,94109
+367,367,1108 Lake St,2975,2,1,NA,Apartment,NA,NA,Central,No,On street,94118
+315,315,1101 999 Pine St # 1101,3595,1,1,650,Multi Family,In Unit,NA,NA,NA,Garage - Attached,94108
+206,206,1100-1104 Fell Street 1100 Fell Street 501-505 S,5795,3,2,NA,Apartment,NA,NA,NA,No,NA,94117
+172,172,110 Gardenside Drive # Top Floor,2995,1,1,NA,Apartment,Shared,NA,NA,Cats,Garage - Detached,94131
+135,135,1096 Pine St APT 106,1895,Studio,1,380,Apartment,Shared,NA,NA,No,NA,94109
+302,302,1091 Bush St,1800,Studio,1,NA,Apartment,NA,NA,NA,No,NA,94109
+204,204,1078 Potrero Ave,4395,3,2,NA,Apartment,NA,NA,NA,Cats,NA,94110
+277,277,1069 Francisco St,6200,3,2,1708,Apartment,In Unit,Forced air,NA,No,"Off street, On street",94109
+63,63,1065 Bush St # 211,2995,1,1,NA,Apartment,Shared,NA,NA,"Cats, small dogs",NA,94109
+80,80,1053 Bush St APT B,1895,Studio,1,NA,Multi Family,Shared,NA,NA,Cats,On street,94109
+139,139,1049A Page St,3500,2,1,NA,Apartment,NA,NA,NA,No,NA,94117
+278,278,1023 Church St APT 4,3900,2,1,722,Multi Family,NA,NA,NA,No,NA,94114
+31,31,101 Leland Ave,3650,3,2,800,Apartment,NA,NA,NA,No,NA,94134
+343,343,101 Leland Ave # 99101,3500,3,2,1100,Apartment,Shared,NA,NA,No,NA,94134
+234,234,101 Crescent Way APT 2315,3599,2,2,1337,Multi Family,NA,NA,NA,NA,NA,94134
+224,224,1000 Union St APT 106,3200,1,1,NA,Apartment,Shared,NA,NA,Cats,NA,94133
+237,237,1000 Powell St APT 43,2795,1,1,NA,Apartment,NA,NA,NA,No,NA,94108
+345,345,1000 Judah St APT 303,2725,1,1,750,Multi Family,Shared,NA,NA,No,NA,94122
+257,257,1000 Howard St APT 408,1699,1,1,420,Multi Family,NA,NA,NA,NA,NA,94103
+54,54,1 Hawthorne Street 23c # 23C,5850,2,2,NA,Multi Family,NA,NA,NA,NA,NA,94105
+294,294,1 Hawthorne St UNIT 3F,3500,1,1,498,Multi Family,NA,NA,NA,NA,Garage - Detached,94105
+289,289,1 Daniel Burnham Ct,3500,1,1,600,Multi Family,Shared,Forced air,NA,"Cats, large dogs, small dogs","Garage - Detached, Off street",94109
+220,220,1 Bluxome St,4800,2,1.5,1361,Multi Family,In Unit,Forced air,Other,NA,Garage - Detached,94107
+222,222,NA,3095,1,1,600,Multi Family,Shared,NA,None,No,Garage - Attached,94123
+381,381,NA,4900,1,1,1035,Multi Family,Shared,Radiant,None,No,Garage - Detached,94133
