@@ -1,0 +1,352 @@
+"","House Type","Laundry","Heating","Cooling","Parking","Rent/Month","Beds","Baths","Square Feet","Address","Zipcode"
+"1","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"2","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"3","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"4","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"5","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"6","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"7","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"8","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"9","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"10","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"11","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"12","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"13","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"14","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"15","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"16","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"17","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"18","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"19","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"20","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"21","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"22","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"23","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"24","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"25","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"26","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"27","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"28","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"29","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"30","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"31","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"32","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"33","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"34","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"35","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"36","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"37","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"38","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"39","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"40","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"41","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"42","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"43","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"44","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"45","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"46","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"47","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"48","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"49","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"50","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"51","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"52","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"53","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"54","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"55","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"56","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"57","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"58","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"59","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"60","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"61","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"62","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"63","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"64","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"65","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"66","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"67","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"68","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"69","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"70","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"71","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"72","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"73","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"74","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"75","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"76","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"77","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"78","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"79","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"80","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"81","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"82","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"83","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"84","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"85","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"86","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"87","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"88","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"89","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"90","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"91","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"92","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"93","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"94","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"95","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"96","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"97","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"98","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"99","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"100","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"101","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"102","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"103","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"104","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"105","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"106","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"107","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"108","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"109","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"110","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"111","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"112","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"113","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"114","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"115","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"116","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"117","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"118","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"119","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"120","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"121","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"122","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"123","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"124","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"125","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"126","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"127","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"128","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"129","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"130","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"131","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"132","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"133","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"134","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"135","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"136","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"137","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"138","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"139","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"140","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"141","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"142","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"143","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"144","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"145","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"146","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"147","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"148","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"149","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"150","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"151","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"152","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"153","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"154","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"155","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"156","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"157","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"158","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"159","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"160","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"161","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"162","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"163","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"164","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"165","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"166","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"167","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"168","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"169","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"170","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"171","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"172","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"173","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"174","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"175","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"176","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"177","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"178","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"179","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"180","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"181","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"182","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"183","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"184","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"185","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"186","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"187","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"188","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"189","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"190","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"191","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"192","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"193","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"194","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"195","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"196","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"197","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"198","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"199","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"200","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"201","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"202","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"203","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"204","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"205","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"206","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"207","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"208","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"209","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"210","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"211","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"212","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"213","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"214","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"215","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"216","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"217","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"218","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"219","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"220","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"221","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"222","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"223","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"224","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"225","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"226","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"227","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"228","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"229","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"230","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"231","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"232","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"233","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"234","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"235","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"236","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"237","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"238","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"239","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"240","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"241","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"242","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"243","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"244","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"245","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"246","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"247","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"248","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"249","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"250","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"251","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"252","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"253","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"254","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"255","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"256","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"257","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"258","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"259","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"260","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"261","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"262","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"263","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"264","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"265","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"266","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"267","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"268","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"269","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"270","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"271","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"272","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"273","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"274","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"275","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"276","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"277","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"278","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"279","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"280","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"281","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"282","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"283","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"284","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"285","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"286","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"287","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"288","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"289","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"290","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"291","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"292","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"293","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"294","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"295","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"296","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"297","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"298","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"299","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"300","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"301","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"302","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"303","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"304","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"305","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"306","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"307","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"308","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"309","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"310","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"311","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"312","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"313","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"314","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"315","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"316","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"317","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"318","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"319","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"320","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"321","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"322","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"323","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"324","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
+"325","Single Family","In Unit","Forced air","None",NA,5400,3,2,NA,"21st Ave",94132
+"326","Single Family","In Unit",NA,NA,NA,4800,3,1,1320,"Rockdale Dr",94127
+"327","Single Family","Shared","Forced air",NA,"On street",2500,2,1,1075,"Orizaba Ave",94132
+"328","Townhouse",NA,"Forced air",NA,NA,4250,2,1,NA,"525 20th Avenue # Upper Floor",94121
+"329","Single Family",NA,"Forced air","Central","On street",2000,1,1,650,"268 Madison St",94134
+"330","Single Family",NA,NA,NA,NA,4900,2,2,1200,"848 N Point St",94109
+"331","Single Family",NA,"Radiant","Central",NA,14000,5,3,2830,"Central Ave",94117
+"332","Single Family","In Unit","Forced air","None","1 space",8900,3,2,2000,"1133 Kansas St",94107
+"333","Single Family","Shared",NA,NA,NA,5500,4,2,1450,"2351 33rd Ave",94116
+"334","Single Family",NA,NA,NA,NA,15000,3,2,2488,"Washington St",94115
+"335","Single Family","In Unit",NA,NA,NA,25000,4,35,3884,"Pierce St",94123
+"336","Single Family","In Unit","Forced air",NA,"On street",4700,3,15,1751,"459 Colon Ave",94127
+"337","Single Family","In Unit",NA,NA,NA,5000,3,25,1675,"243 Noriega St",94122
+"338","Single Family","In Unit","Forced air",NA,"On street",5880,5,3,1650,"135 Evelyn Way",94127
+"339","Single Family",NA,NA,NA,NA,6500,3,2,NA,"21 Summit Way",94132
+"340","Single Family","In Unit","Forced air",NA,NA,5500,3,2,1300,"1535 44th Ave",94122
+"341","Single Family",NA,NA,NA,NA,13500,3,4,2420,"831 Marina Blvd",94123
+"342","Single Family",NA,"Forced air",NA,"1 space",4950,2,1,1450,"869 Faxon Ave",94112
+"343","Townhouse","In Unit","Forced air","Central, Other","Garage - Attached",4500,3,25,1318,"253 Friedell St",94124
+"344","Townhouse",NA,NA,NA,NA,5500,4,5,1200,"727 Green St",94133
+"345","Townhouse","In Unit","Forced air",NA,"Carport, Garage - Detached, On street",9500,2,25,2400,"1731 Vallejo St",94123
+"346","Single Family","In Unit","Forced air","None","Garage - Attached",10000,4,3,NA,"Eureka St",94114
+"347","Single Family",NA,"Other",NA,"1 space",4300,2,1,1485,"220 Fairmount St",94131
+"348","Single Family","In Unit",NA,NA,NA,10000,3,2,2212,"3655 21st St",94114
+"349","Single Family",NA,NA,NA,"On street",2100,2,1,500,"2233 Santiago St",94116
+"350","Single Family","In Unit","Forced air",NA,"Garage - Attached",3900,3,2,1200,"Maddux Ave",94124
+"351","Single Family","In Unit","Forced air",NA,"Off street, On street",5400,5,3,NA,"2786 38th Ave",94116
