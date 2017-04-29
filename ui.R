@@ -1,28 +1,30 @@
 library(ggplot2)
-apartments <- read.csv("~/Desktop/SpringStat133/Stat133Project/data/apt_cleaned.csv")
-houses <- read.csv("~/Desktop/SpringStat133/Stat133Project/data/homes.csv")
-dataset1 <- houses
-dataset2 <- houses
-
+merged <- read.csv("~/Desktop/SpringStat133/Stat133Project/data/homes_apts.csv")
+dataset <- merged
 shinyUI(
   fluidPage(
-    titlePanel("Houseprice Variable Analysis"),
+    titlePanel("Renting in the Bay Area"),
     plotOutput('plot1'),
-    
     fluidRow(
       column(3, offset = 1,
-             selectInput('x1', 'X Variable', names(dataset1)),
-             selectInput('y1', 'Y Variable', names(dataset1), names(dataset1))
-      ),
-      column(4,
+             selectInput('x1', 'X Variable', names(dataset)),
+             selectInput('y1', 'Y Variable', names(dataset), names(dataset)),
+             selectInput('color', 'Color', c('None', names(dataset)))),
+      column(3,
              selectInput('facet_row1', 'Facet Variable (Rows)',
-                         c(None='.', names(dataset1[sapply(dataset1, is.factor)]))),
+                         c(None='.', names(dataset[sapply(dataset, is.factor)]))),
              selectInput('facet_col1', 'Facet Variable (Columns)',
-                         c(None='.', names(dataset1[sapply(dataset1, is.factor)])))
-      ),
-      column(width=3,
+                         c(None='.', names(dataset[sapply(dataset, is.factor)]))),
+             selectInput('shape', 'Shape', c('None', names(dataset)))),
+      column(2,
+             br(),
+             checkboxInput('jitter', 'Jitter Values')),
+      column(2,
              div(class = "option-group",
                  radioButtons("regression", "Model Type",
-                              choices = c("Linear", "Loess"))))
-    ))
-)
+                              choices = c("Linear", "Loess")))),
+      column(4,
+             sliderInput("size","Point Size",min=1,max=10,value=1))
+    )
+    )
+  )
