@@ -1,0 +1,46 @@
+---
+title: "San Francisco Rentals"
+author: "Vania Fong, Matthew Gunson, and Mia Nakajima"
+date: ""
+output: 
+  slidy_presentation:
+    incremental: true
+runtime: shiny
+
+---
+
+# Question and Data
+
+- How do various features of an apartment or house affect the rent in San Francisco and which features have the greatest effect on the rent?
+
+- We formed our data set by scraping listings from [zillow](www.zillow.com).
+Limiting the scrape to only houses and apartments for rent in San Francisco, CA on April 25, 2017.
+
+- We think the most highly correlated feature to price will be the size, but we also looking at the following features:
+
+- Zip Code
+- Building Type: House/Apartment
+- Number of Bedrooms/Bathrooms
+- Pet/Parking/Laundry Availability
+- Cooling and Heating
+
+---
+
+```{r, echo = FALSE}
+library(shiny)
+shinyAppDir("~/Desktop/SpringStat133/Stat133Project/Final_Shiny/",
+  options=list(
+    width="100%", height=700
+  )
+)
+```
+
+---
+
+# Methods and Conclusions
+
+- `rcurl` and other HTML webscraping techniques to obtain data from [zillow](www.zillow.com) 
+- Used `ggplot2` to make visualizations within the Shiny app.
+- Built linear and partitioned models using `lm` and `rpart` to show the effects of different variables on rent.
+- Used outside resources provided by RStudio to learn the frontend and backend of building a Shiny app. 
+- Some sort of conclusion about which variable has "strongest" relationship with price and how we're measuring the "strength" of this relationship.
