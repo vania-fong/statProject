@@ -1,0 +1,774 @@
+"","X.1","X","Address","Zip","Rent","Beds","Ba","Area","Bldg","Type","Laundry","Heating","Cooling","Pets","Parking","test"
+"1",1,1,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"2",2,2,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"3",3,3,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"4",4,4,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"5",5,5,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",0
+"6",6,6,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,1
+"7",7,7,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"8",8,8,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",0
+"9",9,9,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"10",10,10,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"11",11,11,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"12",12,12,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"13",13,13,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"14",14,14,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"15",15,15,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"16",16,16,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"17",17,17,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,0
+"18",18,18,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"19",19,19,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"20",20,20,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"21",21,21,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"22",22,22,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"23",23,23,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",0
+"24",24,24,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"25",25,25,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"26",26,26,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",1
+"27",27,27,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"28",28,28,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"29",29,29,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"30",30,30,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",1
+"31",31,31,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,1
+"32",32,32,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"33",33,33,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"34",34,34,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,0
+"35",35,35,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"36",36,36,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,0
+"37",37,37,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"38",38,38,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"39",39,39,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"40",40,40,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"41",41,41,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"42",42,42,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,1
+"43",43,43,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,0
+"44",44,44,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"45",45,45,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",0
+"46",46,46,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"47",47,47,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"48",48,48,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"49",49,49,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",1
+"50",50,50,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"51",51,51,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"52",52,52,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",0
+"53",53,53,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",1
+"54",54,54,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"55",55,55,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"56",56,56,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"57",57,57,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"58",58,58,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"59",59,59,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"60",60,60,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,1
+"61",61,61,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"62",62,62,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"63",63,63,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"64",64,64,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,0
+"65",65,65,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"66",66,66,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"67",67,67,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"68",68,68,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"69",69,69,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"70",70,70,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,0
+"71",71,71,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,0
+"72",72,72,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"73",73,73,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",0
+"74",74,74,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,0
+"75",75,75,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"76",76,76,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",1
+"77",77,77,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"78",78,78,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"79",79,79,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",0
+"80",80,80,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",1
+"81",81,81,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"82",82,82,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,0
+"83",83,83,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"84",84,84,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"85",85,85,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"86",86,86,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",0
+"87",87,87,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"88",88,88,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"89",89,89,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"90",90,90,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"91",91,91,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"92",92,92,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"93",93,93,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"94",94,94,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"95",95,95,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"96",96,96,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"97",97,97,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,0
+"98",98,98,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"99",99,99,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"100",100,100,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",0
+"101",101,101,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,0
+"102",102,102,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",1
+"103",103,103,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",1
+"104",104,104,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"105",105,105,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"106",106,106,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",0
+"107",107,107,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"108",108,108,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"109",109,109,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"110",110,110,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"111",111,111,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"112",112,112,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,1
+"113",113,113,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",0
+"114",114,114,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"115",115,115,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"116",116,116,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"117",117,117,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"118",118,118,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"119",119,119,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"120",120,120,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"121",121,121,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"122",122,122,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"123",123,123,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,1
+"124",124,124,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"125",125,125,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,0
+"126",126,126,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",0
+"127",127,127,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"128",128,128,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"129",129,129,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"130",130,130,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"131",131,131,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",0
+"132",132,132,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"133",133,133,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",0
+"134",134,134,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"135",135,135,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"136",136,136,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"137",137,137,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"138",138,138,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",1
+"139",139,139,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"140",140,140,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"141",141,141,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,1
+"142",142,142,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,0
+"143",143,143,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",0
+"144",144,144,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,0
+"145",145,145,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,0
+"146",146,146,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"147",147,147,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"148",148,148,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"149",149,149,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"150",150,150,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,1
+"151",151,151,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"152",152,152,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,0
+"153",153,153,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"154",154,154,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"155",155,155,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"156",156,156,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",1
+"157",157,157,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"158",158,158,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"159",159,159,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"160",160,160,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",0
+"161",161,161,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"162",162,162,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"163",163,163,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,0
+"164",164,164,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"165",165,165,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"166",166,166,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"167",167,167,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"168",168,168,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,1
+"169",169,169,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"170",170,170,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",0
+"171",171,171,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,0
+"172",172,172,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"173",173,173,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"174",174,174,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"175",175,175,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"176",176,176,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"177",177,177,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"178",178,178,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"179",179,179,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"180",180,180,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"181",181,181,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",0
+"182",182,182,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,0
+"183",183,183,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"184",184,184,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"185",185,185,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"186",186,186,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"187",187,187,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"188",188,188,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"189",189,189,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"190",190,190,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"191",191,191,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"192",192,192,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"193",193,193,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,1
+"194",194,194,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",0
+"195",195,195,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"196",196,196,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,0
+"197",197,197,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"198",198,198,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"199",199,199,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"200",200,200,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"201",201,201,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"202",202,202,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"203",203,203,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"204",204,204,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"205",205,205,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,0
+"206",206,206,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"207",207,207,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"208",208,208,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"209",209,209,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"210",210,210,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"211",211,211,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"212",212,212,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"213",213,213,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"214",214,214,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"215",215,215,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",1
+"216",216,216,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"217",217,217,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"218",218,218,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"219",219,219,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"220",220,220,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"221",221,221,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",0
+"222",222,222,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"223",223,223,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,0
+"224",224,224,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",0
+"225",225,225,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"226",226,226,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,0
+"227",227,227,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"228",228,228,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"229",229,229,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"230",230,230,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"231",231,231,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"232",232,232,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"233",233,233,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"234",234,234,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"235",235,235,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"236",236,236,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,0
+"237",237,237,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"238",238,238,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"239",239,239,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",0
+"240",240,240,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"241",241,241,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"242",242,242,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"243",243,243,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"244",244,244,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,0
+"245",245,245,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"246",246,246,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"247",247,247,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,1
+"248",248,248,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"249",249,249,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,1
+"250",250,250,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"251",251,251,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"252",252,252,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"253",253,253,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,0
+"254",254,254,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"255",255,255,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"256",256,256,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"257",257,257,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"258",258,258,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"259",259,259,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"260",260,260,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"261",261,261,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",0
+"262",262,262,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"263",263,263,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"264",264,264,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"265",265,265,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"266",266,266,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",0
+"267",267,267,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"268",268,268,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"269",269,269,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",1
+"270",270,270,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"271",271,271,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"272",272,272,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"273",273,273,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",0
+"274",274,274,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,1
+"275",275,275,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"276",276,276,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"277",277,277,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,0
+"278",278,278,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",0
+"279",279,279,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,0
+"280",280,280,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"281",281,281,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"282",282,282,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"283",283,283,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"284",284,284,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"285",285,285,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,1
+"286",286,286,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,1
+"287",287,287,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,1
+"288",288,288,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"289",289,289,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",0
+"290",290,290,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"291",291,291,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",1
+"292",292,292,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",0
+"293",293,293,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",0
+"294",294,294,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,0
+"295",295,295,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"296",296,296,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"297",297,297,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"298",298,298,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,0
+"299",299,299,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"300",300,300,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",1
+"301",301,301,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,0
+"302",302,302,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",1
+"303",303,303,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"304",304,304,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,0
+"305",305,305,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",0
+"306",306,306,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,1
+"307",307,307,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,1
+"308",308,308,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"309",309,309,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"310",310,310,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"311",311,311,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"312",312,312,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,0
+"313",313,313,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,0
+"314",314,314,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,0
+"315",315,315,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",0
+"316",316,316,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"317",317,317,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,1
+"318",318,318,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",0
+"319",319,319,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",1
+"320",320,320,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"321",321,321,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"322",322,322,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"323",323,323,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",0
+"324",324,324,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"325",325,325,6,94132,5400,3,2,NA,"House","Single Family","In Unit","Forced air","None","No",NA,1
+"326",326,326,26,94127,4800,3,1,1320,"House","Single Family","In Unit",NA,NA,"No",NA,0
+"327",327,327,24,94132,2500,2,1,1075,"House","Single Family","Shared","Forced air",NA,"No","Street",1
+"328",328,328,16,94121,4250,2,1,NA,"House","Townhouse",NA,"Forced air",NA,"Yes",NA,1
+"329",329,329,12,94134,2000,1,1,650,"House","Single Family",NA,"Forced air","Central","Yes","Street",0
+"330",330,330,19,94109,4900,2,2,1200,"House","Single Family",NA,NA,NA,"No",NA,0
+"331",331,331,21,94117,14000,5,3,2830,"House","Single Family",NA,"Radiant","Central","No",NA,1
+"332",332,332,1,94107,8900,3,2,2000,"House","Single Family","In Unit","Forced air","None","Yes","1 space",1
+"333",333,333,9,94116,5500,4,2,1450,"House","Single Family","Shared",NA,NA,"No",NA,0
+"334",334,334,27,94115,15000,3,2,2488,"House","Single Family",NA,NA,NA,"No",NA,0
+"335",335,335,25,94123,25000,4,3.5,3884,"House","Single Family","In Unit",NA,NA,"No",NA,1
+"336",336,336,15,94127,4700,3,1.5,1751,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"337",337,337,10,94122,5000,3,2.5,1675,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"338",338,338,2,94127,5880,5,3,1650,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",0
+"339",339,339,5,94132,6500,3,2,NA,"House","Single Family",NA,NA,NA,"No",NA,1
+"340",340,340,3,94122,5500,3,2,1300,"House","Single Family","In Unit","Forced air",NA,"Yes",NA,0
+"341",341,341,18,94123,13500,3,4,2420,"House","Single Family",NA,NA,NA,"Yes",NA,0
+"342",342,342,20,94112,4950,2,1,1450,"House","Single Family",NA,"Forced air",NA,"No","1 space",1
+"343",343,343,11,94124,4500,3,2.5,1318,"House","Townhouse","In Unit","Forced air","Central, Other","No","Garage",1
+"344",344,344,17,94133,5500,4,5,1200,"House","Townhouse",NA,NA,NA,"Yes",NA,0
+"345",345,345,4,94123,9500,2,2.5,2400,"House","Townhouse","In Unit","Forced air",NA,"No","Garage",1
+"346",346,346,22,94114,10000,4,3,NA,"House","Single Family","In Unit","Forced air","None","No","Garage",1
+"347",347,347,7,94131,4300,2,1,1485,"House","Single Family",NA,"Other",NA,"Yes","1 space",1
+"348",348,348,14,94114,10000,3,2,2212,"House","Single Family","In Unit",NA,NA,"Yes",NA,1
+"349",349,349,8,94116,2100,2,1,500,"House","Single Family",NA,NA,NA,"Yes","Street",1
+"350",350,350,23,94124,3900,3,2,1200,"House","Single Family","In Unit","Forced air",NA,"No","Garage",1
+"351",351,351,13,94116,5400,5,3,NA,"House","Single Family","In Unit","Forced air",NA,"Yes","Street",1
+"352",352,352,407,94117,4100,2,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"353",353,353,407,94117,3500,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"354",354,354,406,94102,NA,1,1,676,"Apt","Apartment","In Unit",NA,NA,"No",NA,0
+"355",355,355,405,94102,4700,1,1,830,"Apt","Multi Family","In Unit",NA,NA,"Yes",NA,0
+"356",356,356,404,94123,5350,2,2,1500,"Apt","Multi Family","Shared","Baseboard","Central","Yes","Garage",1
+"357",357,357,404,94123,3900,2,1,NA,"Apt","Multi Family","Shared","Wall","None","Yes","Garage",1
+"358",358,358,403,94123,5500,7,1,1500,"Apt","Multi Family","Shared","Forced air","None","Yes","Both",1
+"359",359,359,402,94105,4000,1,1,NA,"Apt","Multi Family",NA,"Forced air","None","Yes","None",1
+"360",360,360,401,94109,2295,7,1,NA,"Apt","Multi Family","Shared","Baseboard","None","Yes","Both",0
+"361",361,361,400,94115,5495,2,2,1550,"Apt","Multi Family","Shared","Radiant",NA,"Yes","Garage",0
+"362",362,362,399,94112,3000,2,1,940,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,0
+"363",363,363,398,94103,2550,1,1,NA,"Apt","Multi Family","In Unit","Wall","None","Yes","Both",0
+"364",364,364,397,94124,1900,1,1,650,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"365",365,365,396,94109,2295,1,1,NA,"Apt","Multi Family","Shared","Wall","None","Yes","Both",0
+"366",366,366,395,94109,4250,2,2,NA,"Apt","Multi Family","Shared","Forced air","None","Yes","Garage",1
+"367",367,367,394,94123,4200,2,2,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"368",368,368,393,94131,3499,2,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"369",369,369,392,94105,5500,1,1,700,"Apt","Multi Family","In Unit",NA,NA,"No",NA,1
+"370",370,370,391,94110,3800,3,1,NA,"Apt","Multi Family","Shared","Forced air",NA,"Yes","Both",1
+"371",371,371,390,94103,3095,1,1,765,"Apt","Multi Family","In Unit","Forced air","None","Yes","Garage",1
+"372",372,372,390,94103,3175,1,1,NA,"Apt","Multi Family","In Unit","Forced air","Central","Yes","Both",0
+"373",373,373,390,94103,4495,2,2,1075,"Apt","Multi Family","In Unit","Forced air","Central","Yes","Garage",0
+"374",374,374,390,94103,5900,2,2,1031,"Apt","Multi Family","In Unit","Forced air","Central","No",NA,1
+"375",375,375,390,94103,3195,1,1,756,"Apt","Multi Family","In Unit","Forced air","None","Yes","Both",1
+"376",376,376,389,94118,4500,1,1,645,"Apt","Multi Family","In Unit",NA,NA,"No",NA,1
+"377",377,377,388,94117,4675,2,2,1250,"Apt","Multi Family","Shared",NA,NA,"Yes","Garage",1
+"378",378,378,387,94123,2250,7,1,NA,"Apt","Multi Family","Shared","Forced air",NA,"Yes","Both",0
+"379",379,379,386,94122,2750,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"380",380,380,385,94123,2400,7,1,NA,"Apt","Multi Family","Shared","Baseboard","None","Yes","Garage",1
+"381",381,381,384,94102,5750,3,2,NA,"Apt","Multi Family","Shared","Wall","None","Yes","Both",1
+"382",382,382,383,94105,3299,1,1,658,"Apt","Multi Family","In Unit",NA,NA,"Yes","Garage",1
+"383",383,383,382,94123,2850,1,1,NA,"Apt","Multi Family","Shared","Forced air",NA,"Yes","Garage",0
+"384",384,384,382,94123,5900,2,1,1100,"Apt","Multi Family","In Unit",NA,NA,"No",NA,0
+"385",385,385,382,94123,4250,2,1,NA,"Apt","Multi Family","Shared","Forced air",NA,"Yes","Garage",0
+"386",386,386,381,94118,2150,1,1,NA,"Apt","Multi Family","Shared","Forced air","None","Yes","Both",1
+"387",387,387,380,94118,3600,2,2,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"388",388,388,379,94133,10000,2,2,1400,"Apt","Multi Family",NA,"Radiant","Central","Yes","Garage",1
+"389",389,389,378,94110,3000,1,1,1632,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"390",390,390,377,94115,4500,2,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"391",391,391,376,94115,6950,3,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"392",392,392,375,94127,2800,1,1,825,"Apt","Apartment","Shared","Forced air",NA,"Yes","Garage",0
+"393",393,393,374,94118,2495,1,1,NA,"Apt","Multi Family","Shared","Radiant","None","Yes","Both",0
+"394",394,394,374,94118,4500,4,2,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"395",395,395,373,94114,2800,1,1,NA,"Apt","Multi Family","Shared","Forced air","Central","Yes","Garage",0
+"396",396,396,372,94123,3900,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"397",397,397,371,94109,2795,1,1,NA,"Apt","Multi Family","Shared","Baseboard","Central","Yes","Garage",0
+"398",398,398,371,94109,2650,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"399",399,399,371,94109,3645,1,1,NA,"Apt","Multi Family","In Unit","Forced air",NA,"Yes","Garage",1
+"400",400,400,370,94117,5400,2,2,1100,"Apt","Multi Family","In Unit",NA,NA,"Yes",NA,0
+"401",401,401,369,94102,4750,2,2,NA,"Apt","Multi Family","In Unit","Forced air",NA,"Yes","Garage",0
+"402",402,402,369,94102,4650,1,1,600,"Apt","Multi Family","In Unit",NA,NA,"No","Garage",0
+"403",403,403,368,94103,8500,3,3.5,NA,"Apt","Multi Family","In Unit","Forced air","None","Yes","Garage",1
+"404",404,404,366,94109,4200,1,1,NA,"Apt","Multi Family","Shared","Radiant","None","Yes","Garage",0
+"405",405,405,367,94115,4500,1,1,NA,"Apt","Multi Family","Shared","Forced air","None","Yes","Garage",1
+"406",406,406,365,94107,6000,2,2,1200,"Apt","Multi Family",NA,"Forced air","Central","Yes","Garage",0
+"407",407,407,364,94133,2895,1,1,850,"Apt","Multi Family","Shared","Forced air","Central","Yes","Garage",1
+"408",408,408,363,94117,3595,2,1,NA,"Apt","Multi Family","Shared","Wall","None","Yes","Both",1
+"409",409,409,362,94117,3850,2,1,1200,"Apt","Apartment","Shared",NA,"Central","Yes","Garage",0
+"410",410,410,361,94110,2300,1,1,4882,"Apt","Apartment",NA,"Forced air","Wall","Yes",NA,1
+"411",411,411,360,94109,1850,7,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"412",412,412,359,94110,4600,2,1,NA,"Apt","Multi Family","In Unit",NA,NA,"Yes",NA,1
+"413",413,413,358,94114,3550,1,1,623,"Apt","Multi Family",NA,NA,NA,"No","Garage",0
+"414",414,414,357,94117,4595,2,1,879,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"415",415,415,356,94131,3900,1,1,1200,"Apt","Apartment","In Unit","Forced air",NA,"Yes","1",0
+"416",416,416,355,94109,1895,7,1,575,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"417",417,417,354,94131,3245,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Garage",0
+"418",418,418,353,94123,2330,7,1,480,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"419",419,419,352,94133,3400,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"420",420,420,351,94124,2850,2,2,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"421",421,421,350,94107,4799,2,2,1100,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"422",422,422,349,94110,2195,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"423",423,423,348,94117,2795,2,1,700,"Apt","Multi Family",NA,NA,NA,"Yes","Both",0
+"424",424,424,347,94109,2245,7,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"425",425,425,346,94117,4500,2,1,1000,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"426",426,426,345,94102,2995,1,1,409,"Apt","Multi Family","Shared",NA,NA,"Yes","Both",0
+"427",427,427,344,94109,4195,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"428",428,428,343,94109,2795,1,1,1000,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,0
+"429",429,429,342,94112,4600,3,2,NA,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,0
+"430",430,430,341,94107,2500,7,1,800,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"431",431,431,340,94109,2095,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"432",432,432,339,94132,2880,1,1,784,"Apt","Multi Family","In Unit",NA,NA,"Yes",NA,0
+"433",433,433,338,94114,3750,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"434",434,434,337,94109,2150,7,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"435",435,435,336,94131,5950,2,2,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Garage",1
+"436",436,436,335,94117,2250,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"437",437,437,334,94117,4100,1,1,640,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Garage",1
+"438",438,438,333,94108,2795,7,1,892,"Apt","Apartment","In Unit","Forced air","Other","No","Both",0
+"439",439,439,332,94118,2800,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"440",440,440,331,94108,2450,7,1,300,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"441",441,441,330,94121,2300,2,1,460,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"442",442,442,329,94110,3450,2,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"443",443,443,328,94109,3800,2,1,1000,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"444",444,444,327,94121,2595,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Garage",0
+"445",445,445,326,94103,3590,2,1,560,"Apt","Multi Family",NA,NA,NA,"Yes","Both",0
+"446",446,446,325,94107,2452,7,1,233,"Apt","Apartment",NA,NA,NA,"No",NA,1
+"447",447,447,324,94109,1850,7,NA,475,"Apt","Apartment",NA,NA,"Wall","No","Both",0
+"448",448,448,323,94118,5200,2,2,1600,"Apt","Apartment","In Unit","Forced air","Central","Yes","Garage",0
+"449",449,449,322,94117,5895,3,2,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"450",450,450,321,94109,2895,1,1,860,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"451",451,451,320,94118,4200,3,2,4351,"Apt","Apartment","Shared","Forced air","Central","Yes","Both",1
+"452",452,452,319,94118,4200,3,2,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"453",453,453,318,94158,5495,2,2,1210,"Apt","Multi Family",NA,"Forced air","Central","Yes",NA,1
+"454",454,454,317,94111,4295,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"455",455,455,316,94117,3195,1,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,0
+"456",456,456,315,94121,4500,2,1,1600,"Apt","Multi Family","In Unit","Forced air",NA,"Yes",NA,0
+"457",457,457,314,94109,2700,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"458",458,458,313,94118,3495,1,1,550,"Apt","Multi Family",NA,NA,NA,"Yes","1",0
+"459",459,459,312,94107,2500,1,1,550,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"460",460,460,311,94117,3450,1,1,800,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"461",461,461,310,94107,3900,1,1.5,1152,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"462",462,462,309,94117,6500,2,1,3110,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"463",463,463,308,94109,2400,7,1,550,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,1
+"464",464,464,307,94114,2200,7,1,200,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"465",465,465,306,94109,2095,7,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"466",466,466,305,94103,3500,2,1,650,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"467",467,467,304,94133,3900,1,1,NA,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,0
+"468",468,468,303,94118,2000,7,1,NA,"Apt","Apartment",NA,NA,NA,"No",NA,0
+"469",469,469,302,94118,2600,1,1,500,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"470",470,470,301,94111,3050,1,1,983,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"471",471,471,300,94131,3095,1,1,500,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"472",472,472,299,94103,5000,2,1,712,"Apt","Apartment",NA,NA,NA,"No",NA,1
+"473",473,473,298,94124,3490,2,2,1016,"Apt","Multi Family","In Unit",NA,NA,"Yes","Garage",1
+"474",474,474,297,94103,3795,2,2,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"475",475,475,296,94117,3795,2,1,850,"Apt","Multi Family","Shared",NA,NA,"Yes","Both",1
+"476",476,476,295,94121,3100,2,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"477",477,477,294,94133,4950,2,1,1180,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"478",478,478,293,94102,2500,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"479",479,479,292,94107,2250,1,1,350,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"480",480,480,291,94118,5800,4,2,2125,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,0
+"481",481,481,290,94110,7500,3,2,1750,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",1
+"482",482,482,289,94103,3346,1,1.5,756,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"483",483,483,288,94133,3595,2,1,600,"Apt","Apartment",NA,NA,NA,"No",NA,1
+"484",484,484,287,94114,4250,2,1,NA,"Apt","Apartment","In Unit","Forced air",NA,"Yes",NA,0
+"485",485,485,286,94102,2795,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"486",486,486,285,94121,3000,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Garage",0
+"487",487,487,284,94117,3750,1,1,962,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"488",488,488,283,94123,4000,1,1,1200,"Apt","Multi Family",NA,NA,NA,"Yes","18",1
+"489",489,489,282,94127,3200,2,1,2532,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"490",490,490,281,94133,2900,1,1,700,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"491",491,491,280,94158,5100,2,2,1226,"Apt","Apartment","In Unit","Forced air","Central","No","Garage",0
+"492",492,492,279,94121,3450,2,1,1000,"Apt","Apartment","In Unit",NA,NA,"Yes","Both",0
+"493",493,493,278,94121,2495,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes","Both",0
+"494",494,494,277,94114,3995,2,1,875,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"495",495,495,276,94103,3195,1,1,700,"Apt","Apartment","Shared","Forced air","Central","Yes","Garage",1
+"496",496,496,275,94118,2825,1,1,750,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,0
+"497",497,497,274,94117,4500,3,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"498",498,498,273,94114,3670,1,1,625,"Apt","Apartment","Shared","Forced air",NA,"Yes","Garage",1
+"499",499,499,272,94131,2800,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"500",500,500,271,94103,6495,3,2,NA,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,1
+"501",501,501,270,94133,2800,1,1,600,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"502",502,502,269,94121,5000,4,2,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"503",503,503,268,94118,4195,2,1.5,1000,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"504",504,504,267,94118,2950,1,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"505",505,505,265,94158,4800,2,2,1170,"Apt","Multi Family","In Unit","Forced air","Other","No","Garage",1
+"506",506,506,266,94158,4800,2,2,1185,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"507",507,507,264,94112,2300,2,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"508",508,508,263,94112,2700,2,1,900,"Apt","Apartment",NA,NA,"Central","Yes","Both",1
+"509",509,509,262,94114,3770,2,1,980,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"510",510,510,261,94123,20000,4,4,4610,"Apt","Multi Family","In Unit","Forced air","Central","No",NA,1
+"511",511,511,260,94117,3500,2,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"512",512,512,259,94131,3795,2,2,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"513",513,513,258,94115,4000,1,1,880,"Apt","Multi Family","In Unit",NA,NA,"No","Both",1
+"514",514,514,257,94114,2675,7,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"515",515,515,256,94102,4295,2,1,940,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"516",516,516,255,94114,5350,3,1,3540,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"517",517,517,254,94114,9000,3,3.5,2100,"Apt","Multi Family","In Unit",NA,NA,"No","Garage",1
+"518",518,518,253,94123,8950,3,2,1750,"Apt","Apartment","In Unit","Forced air",NA,"Yes",NA,1
+"519",519,519,252,94105,3150,1,1,483,"Apt","Multi Family","In Unit","Forced air","Central","Yes",NA,0
+"520",520,520,251,94131,3595,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"521",521,521,250,94127,3350,2,NA,NA,"Apt","Multi Family",NA,NA,NA,"Yes","Both",1
+"522",522,522,249,94118,2750,1,1,NA,"Apt","Multi Family","Shared","Wall","None","Yes","Both",1
+"523",523,523,248,94103,3850,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"524",524,524,247,94105,4184,1,1,808,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",1
+"525",525,525,247,94105,5897,2,2,1224,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",1
+"526",526,526,246,94123,3695,1,1,865,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"527",527,527,245,94123,3500,1,1,1100,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"528",528,528,244,94121,3100,2,1,1000,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"529",529,529,243,94123,3400,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"530",530,530,242,94123,3800,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes","15",0
+"531",531,531,241,94114,2495,7,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"532",532,532,240,94110,3800,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"533",533,533,239,94121,2395,1,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"534",534,534,238,94103,5700,3,2,1600,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,1
+"535",535,535,237,94118,3800,3,1,1300,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"536",536,536,236,94118,2900,2,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes","Garage",1
+"537",537,537,235,94110,4195,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"538",538,538,234,94114,2300,7,1,500,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"539",539,539,233,94110,3095,1,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes","Both",0
+"540",540,540,232,94114,1995,7,1,525,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"541",541,541,231,94102,2695,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"542",542,542,230,94105,3925,1,1,NA,"Apt","Apartment","In Unit","Forced air","Other","Yes","Both",0
+"543",543,543,229,94110,1495,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"544",544,544,228,94107,4200,2,1,3250,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"545",545,545,227,94108,2350,1,1,450,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,1
+"546",546,546,226,94116,3200,2,2,1200,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",1
+"547",547,547,225,94103,3950,1,1,673,"Apt","Multi Family","In Unit","Forced air","Other","No",NA,1
+"548",548,548,224,94110,3695,1,1,5210,"Apt","Apartment","In Unit","Forced air",NA,"Yes",NA,1
+"549",549,549,223,94118,14995,5,3,2754,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"550",550,550,222,94116,3795,3,2,NA,"Apt","Multi Family",NA,NA,NA,"Yes","Both",1
+"551",551,551,221,94123,3300,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes","27",1
+"552",552,552,220,94121,5800,4,2,1500,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,1
+"553",553,553,219,94158,4800,2,2,1100,"Apt","Multi Family","In Unit",NA,NA,"No","Garage",1
+"554",554,554,218,94107,3300,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes","Both",0
+"555",555,555,217,94114,4750,2,2,1100,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"556",556,556,216,94110,4500,4,1.5,800,"Apt","Apartment",NA,NA,NA,"No",NA,1
+"557",557,557,215,94123,5395,2,2,830,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",0
+"558",558,558,214,94121,5595,4,3.5,1600,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"559",559,559,213,94158,3600,1,1,732,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"560",560,560,212,94110,2525,7,1,NA,"Apt","Multi Family",NA,"Wall",NA,"Yes",NA,0
+"561",561,561,211,94122,1950,1,1,600,"Apt","Multi Family","Shared",NA,NA,"Yes","Both",1
+"562",562,562,210,94110,5000,3,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"563",563,563,209,94116,3995,3,2,1356,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"564",564,564,208,94134,2500,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"565",565,565,207,94118,4900,2,2,1600,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"566",566,566,206,94110,6695,5,1.5,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"567",567,567,205,94118,2550,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"568",568,568,204,94114,2995,1,1,500,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Garage",1
+"569",569,569,203,94115,6000,2,1,1200,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"570",570,570,202,94123,7995,5,2,1650,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,1
+"571",571,571,201,94114,3995,2,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"572",572,572,200,94123,3300,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"573",573,573,199,94118,2200,7,1,400,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"574",574,574,198,94123,2450,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"575",575,575,197,94115,3000,1,1,850,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"576",576,576,196,94115,3500,2,1,1000,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"577",577,577,195,94115,2650,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"578",578,578,194,94110,3895,1,1.5,NA,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Garage",1
+"579",579,579,193,94123,3000,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"580",580,580,192,94123,2195,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Garage",1
+"581",581,581,191,94133,2390,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"582",582,582,190,94110,2550,1,1,550,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"583",583,583,189,94116,3999,2,1,1250,"Apt","Apartment","Shared","Forced air",NA,"Yes","Garage",1
+"584",584,584,188,94109,5250,4,1,NA,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,0
+"585",585,585,187,94103,2850,1,1,600,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"586",586,586,186,94115,3000,1,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,1
+"587",587,587,185,94103,6950,7,1,4734,"Apt","Multi Family",NA,"Forced air",NA,"No",NA,1
+"588",588,588,184,94109,2575,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"589",589,589,183,94123,3499,1,1,900,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"590",590,590,182,94107,3800,1,1.5,892,"Apt","Multi Family","In Unit",NA,NA,"No","Garage",0
+"591",591,591,181,94115,4500,1,1,1100,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"592",592,592,180,94123,2550,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"593",593,593,179,94109,3900,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"594",594,594,178,94115,3200,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"595",595,595,177,94116,2095,1,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,0
+"596",596,596,176,94103,2600,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"597",597,597,175,94114,3295,1,1,650,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"598",598,598,174,94116,3197,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"599",599,599,173,94123,2450,7,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"600",600,600,172,94112,2850,2,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"601",601,601,171,94123,3495,1,1,700,"Apt","Multi Family",NA,NA,NA,"Yes","Both",0
+"602",602,602,170,94110,3650,1,1,900,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"603",603,603,169,94109,2495,7,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"604",604,604,168,94123,4195,2,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"605",605,605,167,94158,5995,2,2,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"606",606,606,166,94123,7195,4,2,1964,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"607",607,607,165,94123,3495,1,1,650,"Apt","Apartment","Shared","Forced air",NA,"Yes","Garage",1
+"608",608,608,164,94109,3400,2,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"609",609,609,163,94116,3750,2,2,1300,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",1
+"610",610,610,162,94114,2350,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,0
+"611",611,611,161,94115,3900,2,2,NA,"Apt","Multi Family",NA,NA,NA,"No","Both",0
+"612",612,612,160,94123,6950,4,2,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"613",613,613,159,94110,2595,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"614",614,614,158,94114,5995,3,2,1600,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,0
+"615",615,615,157,94114,4500,2,2,990,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"616",616,616,156,94116,2000,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"617",617,617,155,94115,4000,2,1,980,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"618",618,618,154,94115,3500,1,1,815,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"619",619,619,153,94115,3800,2,1,800,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"620",620,620,152,94109,2295,7,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,0
+"621",621,621,151,94131,5250,2,2,1000,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",0
+"622",622,622,150,94115,4500,2,2,1215,"Apt","Apartment",NA,"Baseboard",NA,"No","Both",0
+"623",623,623,149,94117,4900,3,2,1200,"Apt","Multi Family","Shared","Forced air",NA,"Yes",NA,0
+"624",624,624,148,94133,2495,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"625",625,625,147,94115,3095,1,1,700,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"626",626,626,146,94121,2850,2,1,868,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"627",627,627,145,94109,2995,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"628",628,628,144,94109,8000,3,3,NA,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Garage",1
+"629",629,629,143,94115,3100,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"630",630,630,142,94131,4995,2,2.5,1294,"Apt","Multi Family","In Unit",NA,NA,"Yes","2",0
+"631",631,631,141,94131,5185,3,2,1392,"Apt","Apartment","In Unit",NA,NA,"Yes","Both",0
+"632",632,632,140,94103,3400,1,1,658,"Apt","Multi Family",NA,"Forced air","Central","No","Both",0
+"633",633,633,139,94131,2495,1,1,NA,"Apt","Apartment",NA,NA,"Central","Yes","Both",0
+"634",634,634,138,94121,3695,2,1,NA,"Apt","Multi Family","Shared","Radiant","None","Yes","Garage",1
+"635",635,635,137,94109,4950,2,2,1030,"Apt","Multi Family","Shared",NA,NA,"Yes","Garage",1
+"636",636,636,136,94109,4600,1,1,900,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"637",637,637,135,94109,6200,2,2,1115,"Apt","Multi Family","In Unit",NA,NA,"Yes","Both",0
+"638",638,638,134,94116,2900,2,1,2200,"Apt","Apartment",NA,NA,NA,"Yes","Garage",1
+"639",639,639,133,94114,3250,1,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,0
+"640",640,640,132,94117,2250,7,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,0
+"641",641,641,131,94117,2695,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"642",642,642,130,94118,5195,2,2,1600,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"643",643,643,129,94109,2250,7,1,300,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"644",644,644,128,94109,3600,2,1.5,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"645",645,645,127,94122,4500,2,2,2278,"Apt","Apartment","Shared","Forced air","Other","Yes","Both",1
+"646",646,646,126,94109,4200,2,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"647",647,647,125,94109,3450,2,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,0
+"648",648,648,124,94115,2500,1,1,1396,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"649",649,649,123,94114,2995,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"650",650,650,122,94123,2350,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Both",1
+"651",651,651,121,94133,1900,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"652",652,652,120,94123,2800,1,1,775,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,0
+"653",653,653,119,94123,3499,2,1,700,"Apt","Apartment",NA,"Forced air",NA,"Yes","Garage",1
+"654",654,654,118,94123,2600,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes","9",0
+"655",655,655,117,94115,3995,2,2,NA,"Apt","Apartment","In Unit","Forced air",NA,"Yes",NA,0
+"656",656,656,116,94110,3000,1,1,300,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"657",657,657,115,94110,3900,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"658",658,658,114,94123,3000,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes","15",1
+"659",659,659,113,94118,2100,1,1,NA,"Apt","Multi Family","Shared","Radiant","None","Yes","Both",0
+"660",660,660,112,94122,2350,1,1,NA,"Apt","Apartment","Shared",NA,"Central","Yes","Both",0
+"661",661,661,111,94115,2975,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"662",662,662,110,94123,4500,2,1,1235,"Apt","Apartment","Shared","Forced air",NA,"Yes","Garage",1
+"663",663,663,109,94102,1700,7,1,225,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"664",664,664,108,94110,4300,2,1,3100,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Garage",1
+"665",665,665,107,94132,5000,4,3,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"666",666,666,106,94115,3395,1,1,775,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"667",667,667,105,94123,2845,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"668",668,668,104,94115,1750,7,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"669",669,669,103,94109,2895,1,1,775,"Apt","Multi Family",NA,NA,NA,"No","Garage",0
+"670",670,670,102,94109,2600,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"671",671,671,101,94117,5800,3,1.5,1640,"Apt","Multi Family","In Unit",NA,NA,"No",NA,1
+"672",672,672,100,94123,4000,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"673",673,673,99,94112,3195,2,1,1198,"Apt","Apartment",NA,NA,NA,"Yes","Both",0
+"674",674,674,98,94114,5850,3,1.5,1800,"Apt","Multi Family","In Unit","Forced air","None","Yes","Garage",1
+"675",675,675,97,94129,3775,3,1,840,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",1
+"676",676,676,96,94123,3950,2,1,725,"Apt","Multi Family",NA,NA,NA,"Yes","Garage",1
+"677",677,677,95,94123,3995,1,1,1000,"Apt","Apartment",NA,NA,NA,"Yes","Garage",0
+"678",678,678,94,94122,2750,2,1,840,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"679",679,679,93,94123,2495,7,1,600,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"680",680,680,92,94129,3385,2,1,835,"Apt","Apartment","In Unit",NA,NA,"Yes","Both",0
+"681",681,681,91,94122,2395,1,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,1
+"682",682,682,90,94109,2400,7,1,600,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"683",683,683,89,94110,4950,3,1,NA,"Apt","Apartment","In Unit","Forced air",NA,"Yes",NA,0
+"684",684,684,88,94122,2000,7,1,350,"Apt","Multi Family","Shared",NA,NA,"No",NA,0
+"685",685,685,87,94122,2350,1,1,600,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,1
+"686",686,686,86,94109,2975,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"687",687,687,85,94123,4000,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Garage",1
+"688",688,688,84,94103,3995,2,2,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"689",689,689,83,94107,6000,3,2,1516,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"690",690,690,82,94127,5995,3,2,1700,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",0
+"691",691,691,81,94109,3150,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"692",692,692,80,94109,3995,2,1,1250,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"693",693,693,79,94122,4600,3,1,1500,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"694",694,694,78,94122,3888,2,2,1400,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"695",695,695,77,94109,3550,2,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"696",696,696,76,94118,3995,3,2,825,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"697",697,697,75,94122,4000,2,2,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"698",698,698,74,94117,2895,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,0
+"699",699,699,73,94109,4850,2,1,1396,"Apt","Multi Family","In Unit","Forced air",NA,"No","Garage",0
+"700",700,700,72,94109,5995,3,2,NA,"Apt","Apartment","In Unit",NA,NA,"Yes",NA,1
+"701",701,701,71,94109,2195,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"702",702,702,70,94109,3000,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"703",703,703,69,94122,2600,1,1,NA,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"704",704,704,68,94109,3595,2,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"705",705,705,67,94109,2850,1,1,490,"Apt","Apartment",NA,NA,NA,"Yes","Garage",0
+"706",706,706,66,94122,3300,3,1,2279,"Apt","Apartment","Shared",NA,NA,"Yes","Both",0
+"707",707,707,65,94114,5195,3,1,1200,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",1
+"708",708,708,64,94110,2950,2,2,NA,"Apt","Apartment","In Unit",NA,NA,"Yes","Garage",0
+"709",709,709,63,94115,3999,2,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",1
+"710",710,710,62,94109,2900,7,1,500,"Apt","Multi Family",NA,"Forced air",NA,"No","Both",1
+"711",711,711,61,94115,3300,2,1,900,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"712",712,712,60,94127,5880,5,3,1650,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",0
+"713",713,713,59,94114,2795,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"714",714,714,58,94103,2995,2,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"715",715,715,57,94123,3600,1,1,567,"Apt","Apartment","Shared","Forced air","Other","Yes","Garage",0
+"716",716,716,56,94117,10895,5,2,1700,"Apt","Multi Family",NA,NA,NA,"Yes","Both",1
+"717",717,717,55,94109,2100,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,0
+"718",718,718,54,94109,12000,6,3,1635,"Apt","Apartment","In Unit","Forced air","Central","No","Both",0
+"719",719,719,53,94117,6290,3,1,1900,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"720",720,720,52,94114,4000,2,1,900,"Apt","Multi Family","In Unit",NA,NA,"Yes","Garage",1
+"721",721,721,51,94122,2700,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes","Both",0
+"722",722,722,50,94122,2650,2,1,NA,"Apt","Multi Family",NA,"Forced air",NA,"Yes","Both",1
+"723",723,723,49,94107,4650,2,2,1125,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"724",724,724,48,94109,3950,1,1,800,"Apt","Apartment",NA,NA,NA,"Yes","Both",1
+"725",725,725,47,94109,7000,7,1,NA,"Apt","Apartment","Shared",NA,NA,"No",NA,0
+"726",726,726,46,94108,3500,1,1,750,"Apt","Apartment",NA,"Forced air","Central","Yes","Both",1
+"727",727,727,45,94103,5000,2,2.5,1540,"Apt","Multi Family","In Unit","Forced air",NA,"No","Garage",0
+"728",728,728,44,94122,2795,1,1,800,"Apt","Multi Family","Shared",NA,NA,"No","Both",1
+"729",729,729,43,94109,2400,7,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"730",730,730,42,94103,2995,1,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"731",731,731,41,94123,3995,2,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",0
+"732",732,732,40,94122,2550,1,1,NA,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",1
+"733",733,733,39,94118,4000,2,2,1000,"Apt","Multi Family","Shared","Forced air","Central","Yes",NA,0
+"734",734,734,38,94117,2995,7,1,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"735",735,735,37,94110,3600,3,1,900,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,1
+"736",736,736,36,94108,5500,2,2.5,1399,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"737",737,737,35,94108,14000,2,2,2070,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"738",738,738,34,94117,2240,1,1,700,"Apt","Apartment","Shared","Forced air",NA,"Yes","Both",0
+"739",739,739,33,94103,3400,1,1,660,"Apt","Multi Family",NA,NA,NA,"No","1",0
+"740",740,740,32,94117,4500,3,1,2788,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,1
+"741",741,741,31,94131,2750,1,1,700,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"742",742,742,30,94109,3750,1,1,1800,"Apt","Multi Family",NA,NA,NA,"No","Garage",1
+"743",743,743,29,94109,17900,6,4,3451,"Apt","Apartment","In Unit","Forced air","Central","No","Both",1
+"744",744,744,28,94109,1800,7,1,NA,"Apt","Apartment",NA,"Forced air",NA,"Yes",NA,0
+"745",745,745,27,94112,5695,7,NA,19486,"Apt","Multi Family","In Unit, Shared","Forced air","Central","Yes","Both",1
+"746",746,746,26,94109,2495,1,1,500,"Apt","Multi Family",NA,NA,NA,"No","Both",1
+"747",747,747,25,94109,1695,7,1,350,"Apt","Apartment","Shared","Forced air",NA,"Yes",NA,0
+"748",748,748,24,94109,2700,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"749",749,749,23,94118,2975,2,1,NA,"Apt","Apartment",NA,NA,"Central","Yes","Both",1
+"750",750,750,22,94108,3595,1,1,650,"Apt","Multi Family","In Unit",NA,NA,"No","Garage",1
+"751",751,751,21,94117,5795,3,2,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"752",752,752,20,94131,2995,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes","Garage",1
+"753",753,753,19,94109,1895,7,1,380,"Apt","Apartment","Shared",NA,NA,"Yes",NA,1
+"754",754,754,18,94109,1800,7,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"755",755,755,17,94110,4395,3,2,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"756",756,756,16,94109,6200,3,2,1708,"Apt","Apartment","In Unit","Forced air",NA,"Yes","Both",1
+"757",757,757,15,94109,2995,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"758",758,758,14,94109,1895,7,1,NA,"Apt","Multi Family","Shared",NA,NA,"Yes","Both",1
+"759",759,759,13,94117,3500,2,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,1
+"760",760,760,12,94114,3900,2,1,722,"Apt","Multi Family",NA,NA,NA,"Yes",NA,1
+"761",761,761,10,94134,3650,3,2,800,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"762",762,762,11,94134,3500,3,2,1100,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"763",763,763,9,94134,3599,2,2,1337,"Apt","Multi Family",NA,NA,NA,"No",NA,1
+"764",764,764,8,94133,3200,1,1,NA,"Apt","Apartment","Shared",NA,NA,"Yes",NA,0
+"765",765,765,7,94108,2795,1,1,NA,"Apt","Apartment",NA,NA,NA,"Yes",NA,0
+"766",766,766,6,94122,2725,1,1,750,"Apt","Multi Family","Shared",NA,NA,"Yes",NA,1
+"767",767,767,5,94103,1699,1,1,420,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"768",768,768,4,94105,5850,2,2,NA,"Apt","Multi Family",NA,NA,NA,"No",NA,0
+"769",769,769,3,94105,3500,1,1,498,"Apt","Multi Family",NA,NA,NA,"No","Garage",0
+"770",770,770,2,94109,3500,1,1,600,"Apt","Multi Family","Shared","Forced air",NA,"Yes","Both",1
+"771",771,771,1,94107,4800,2,1.5,1361,"Apt","Multi Family","In Unit","Forced air","Other","No","Garage",0
+"772",772,772,NA,94123,3095,1,1,600,"Apt","Multi Family","Shared",NA,"None","Yes","Garage",0
+"773",773,773,NA,94133,4900,1,1,1035,"Apt","Multi Family","Shared","Radiant","None","Yes","Garage",0
