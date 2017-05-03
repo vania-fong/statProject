@@ -1,0 +1,64 @@
+---
+title: "San Francisco Rentals"
+author: "Buy R House: Vania Fong, Matthew Gunson, and Mia Nakajima"
+font-family: 'Helvetica'
+date: ""
+output: 
+  slidy_presentation:
+    incremental: true
+runtime: shiny
+
+---
+
+# Question and Data
+
+- How do various features of an apartment or house affect the rent in San Francisco and which features have the greatest effect on the rent?
+
+- We formed our data set by scraping listings from [zillow](www.zillow.com).
+Limiting the scrape to only houses and apartments for rent in San Francisco, CA on April 25, 2017.
+
+- We think the most highly correlated feature to price will be the size, but we also looking at the following features:
+
+a) Zip Code
+
+b) House vs. Apartment
+
+c) Number of Bedrooms/Bathrooms
+
+d) If Pets are allowed
+
+e) Parking
+
+f) Laundry Availability
+
+g) Cooling and/or Heating
+
+---
+
+```{r, echo = FALSE}
+library(shiny)
+shinyAppDir("~/College Academics/3rd Year/Stat 133/statProject/Shiny/",
+  options=list(
+    width="100%", height=700
+  )
+)
+```
+rent+sq feet
+facet w/ pets
+bathrooms vs price or facet
+
+---
+
+# Methods and Conclusions
+
+- Methods from class:`rcurl`, HTML webscraping, `ggplot2`, `lm` and `rpart`models
+- Data Source: [zillow](www.zillow.com) 
+- Methods from outside of class: Shiny app frontend and backend 
+
+Conclusions
+- Through visualizing our data in the Shiny app and modelling it with rpart, we found that Area had the most significant effect on the monthly Rent. The correlation coefficient between Rent ($/Month) and Area (square feet) is  0.58. 
+- Linear models and scatterplots are the most appropriate for visualizing continuous variables like Area, 
+- Rpart findings
+  - Pets
+  - bed/ba
+- Some sort of conclusion about which variable has "strongest" relationship with price and how we're measuring the "strength" of this relationship.
