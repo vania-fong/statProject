@@ -1,0 +1,119 @@
+---
+title: "San Francisco Rentals"
+author: "Buy R House: Vania Fong, Matthew Gunson, and Mia Nakajima"
+font-family: 'Helvetica'
+date: "May 4, 2017"
+output: 
+  slidy_presentation:
+    incremental: true
+runtime: shiny
+
+---
+
+## Questions, Data, and Methods
+
+- How do features of an apartment or house affect the rent in San Francisco and which features have the most measureably linear relationship with the rent?
+
+- We formed a data set of 773 observations by scraping listings from [zillow](www.zillow.com).
+Limited the scrape to only houses and apartments for rent in San Francisco, CA on April 25, 2017.  
+
+- Prior Assumption: The feature with the greatest correlation to price will be the square footage, we test this hypothesis by examining the following features:
+
+a) Zip Code
+
+b) House vs. Apartment
+
+c) Number of Bedrooms/Bathrooms
+
+d) If Pets are allowed
+
+e) Parking
+
+f) Laundry facilities
+
+g) Cooling and/or Heating
+
+---
+
+```{r, echo = FALSE, message=FALSE}
+setwd(dir="~/Desktop/SpringStat133/Stat133Project")
+getwd()
+library(shiny)
+library(DataComputing)
+library(dplyr)
+library(ggplot2)
+library(statisticalModeling)
+library(rpart)
+library(rpart.plot)
+shinyAppDir("~/Desktop/SpringStat133/Stat133Project",
+  options=list(
+    width="100%", height=700
+  )
+)
+```
+
+
+```{r,echo=FALSE,message=FALSE}
+df <- read.csv("tidy.csv")
+print("Rent by Pets and Building Type")
+rpart(Monthly_Rent_USD ~ Pets + Building, data=df, cp = 0.04) %>% rpart.plot::prp(type=3)
+```
+
+```{r,echo=FALSE,message=FALSE}
+print("Rent by Number of Bathrooms and Bedrooms")
+rpart(Monthly_Rent_USD ~ Bathrooms + Bedrooms, data=df, cp = 0.09) %>% rpart.plot::prp(type=3)
+```
+
+```{r,echo=FALSE,message=FALSE}
+print("Rent by Building Type, Cooling, and Heating appliances")
+rpart(Monthly_Rent_USD ~ Building + Cooling + Heating, data=df, cp = 0.03) %>% rpart.plot::prp(type=3)
+```
+
+---
+
+## Conclusions
+
+```{r, echo=FALSE, message=FALSE}
+data1 <- read.csv("tidy.csv")
+
+correlations <- c()
+for (i in c( 5, 6, 7)){
+  
+  df <- data.frame(data1$Monthly_Rent_USD, data1[[i]])
+  correlation <- cor(df, use = "pairwise.complete.obs")
+  correlations <- c(correlations, correlation[[2]])
+  
+}
+
+names(correlations) = c("Bedrooms", "Bathrooms", "Area_SqFt")
+correlations
+```
+
+Correlation of rent vs number of bathrooms is the greatest at r = .635
+
+
+```{r, echo=FALSE, message=FALSE}
+
+df <- read.csv("tidy.csv")
+coef <- coef(lm(df$Monthly_Rent_USD ~ df$Bathrooms))
+paste("Y Intercept = ", coef[1])
+paste("Slope = ", coef[2])
+
+```
+
+Linear Coefficients in Approximately Linear Association Between Rent and number of Bathrooms
+
+
+- We found that Bathrooms and Rent had the greatest correlation coefficient and the strongest linear association.
+
+a) Correlation and Least Squares Coefficients
+
+b) Approximately linear loess fit
+
+- Number of bathrooms are a better for predicting rent than number of bedrooms 
+
+- Places that do not allow pets tend to be more expensive according to the scatterplots and partitioned trees
+
+- Due to characteristics of the real estate market the relationship between rent and many of the variables we considered should not be modeled using linear least squares.
+
+a) Need more data to capture the relationship between the variables examined in this analysis.
