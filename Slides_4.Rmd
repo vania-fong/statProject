@@ -36,7 +36,7 @@ g) Cooling and/or Heating
 ---
 
 ```{r, echo = FALSE, message=FALSE}
-setwd(dir="~/Desktop/SpringStat133/Stat133Project/")
+setwd(dir="~/College Academics/3rd Year/Stat 133/statProject/Shiny/")
 getwd()
 library(shiny)
 library(DataComputing)
@@ -45,7 +45,7 @@ library(ggplot2)
 library(statisticalModeling)
 library(rpart)
 library(rpart.plot)
-shinyAppDir("~/Desktop/SpringStat133/Stat133Project/",
+shinyAppDir("~/College Academics/3rd Year/Stat 133/statProject/Shiny/",
   options=list(
     width="100%", height=700
   )
@@ -64,6 +64,7 @@ for (i in c( 5, 6, 7)){
   
 }
 
+names(correlations) = c("Bedrooms", "Bathrooms", "Area_SqFt")
 correlations
 ```
 
@@ -79,7 +80,7 @@ paste("Slope = ", coef[2])
 
 ```
 
-Linear Coefficients in Approximately Linear Association Between Rent and Bathrooms
+Linear Coefficients in Approximately Linear Association Between Rent and number of Bathrooms
 
 
 
@@ -98,5 +99,5 @@ rpart(Monthly_Rent_USD ~ Building + Cooling + Heating, data=df, cp = 0.03) %>% r
 
 - We found that Bathrooms and Rent had the greatest correlation coefficient
 - Bathrooms and Rent also seemed to be the variables most appropriately modeled by a linear function 
-- Rpart findings
+- Using regression trees to identify if residences with similar rents share certain characteristics
 
