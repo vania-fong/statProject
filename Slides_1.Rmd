@@ -1,6 +1,6 @@
 ---
 title: "San Francisco Rentals"
-author: "Vania Fong, Matthew Gunson, and Mia Nakajima"
+author: "Buy R House: Vania Fong, Matthew Gunson, and Mia Nakajima"
 date: ""
 output: 
   slidy_presentation:
@@ -18,11 +18,19 @@ Limiting the scrape to only houses and apartments for rent in San Francisco, CA 
 
 - We think the most highly correlated feature to price will be the size, but we also looking at the following features:
 
-- Zip Code
-- Building Type: House/Apartment
-- Number of Bedrooms/Bathrooms
-- Pet/Parking/Laundry Availability
-- Cooling and Heating
+a) Zip Code
+
+b) House vs. Apartment
+
+c) Number of Bedrooms/Bathrooms
+
+d) If Pets are allowed
+
+e) Parking
+
+f) Laundry Availability
+
+g) Cooling and/or Heating
 
 ---
 
