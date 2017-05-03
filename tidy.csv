@@ -1,774 +1,774 @@
 "","Address","Zip","Monthly_Rent_USD","Bedrooms","Bathrooms","Area_SqFt","Building","Laundry","Heating","Cooling","Pets","Parking"
-"1","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"2","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"3","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"4","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"5","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"6","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"7","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"8","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"9","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"10","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"11","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"12","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"13","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"14","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"15","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"16","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"17","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"18","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"19","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"20","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"21","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"22","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"23","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"24","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"25","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"26","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"27","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"28","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"29","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"30","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"31","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"32","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"33","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"34","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"35","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"36","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"37","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"38","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"39","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"40","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"41","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"42","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"43","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"44","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"45","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"46","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"47","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"48","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"49","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"50","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"51","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"52","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"53","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"54","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"55","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"56","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"57","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"58","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"59","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"60","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"61","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"62","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"63","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"64","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"65","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"66","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"67","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"68","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"69","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"70","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"71","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"72","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"73","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"74","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"75","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"76","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"77","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"78","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"79","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"80","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"81","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"82","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"83","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"84","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"85","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"86","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"87","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"88","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"89","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"90","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"91","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"92","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"93","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"94","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"95","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"96","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"97","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"98","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"99","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"100","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"101","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"102","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"103","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"104","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"105","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"106","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"107","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"108","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"109","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"110","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"111","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"112","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"113","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"114","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"115","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"116","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"117","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"118","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"119","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"120","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"121","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"122","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"123","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"124","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"125","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"126","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"127","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"128","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"129","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"130","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"131","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"132","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"133","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"134","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"135","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"136","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"137","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"138","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"139","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"140","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"141","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"142","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"143","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"144","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"145","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"146","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"147","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"148","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"149","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"150","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"151","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"152","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"153","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"154","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"155","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"156","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"157","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"158","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"159","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"160","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"161","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"162","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"163","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"164","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"165","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"166","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"167","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"168","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"169","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"170","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"171","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"172","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"173","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"174","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"175","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"176","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"177","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"178","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"179","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"180","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"181","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"182","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"183","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"184","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"185","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"186","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"187","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"188","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"189","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"190","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"191","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"192","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"193","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"194","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"195","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"196","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"197","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"198","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"199","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"200","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"201","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"202","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"203","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"204","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"205","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"206","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"207","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"208","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"209","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"210","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"211","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"212","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"213","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"214","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"215","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"216","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"217","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"218","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"219","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"220","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"221","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"222","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"223","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"224","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"225","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"226","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"227","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"228","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"229","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"230","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"231","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"232","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"233","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"234","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"235","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"236","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"237","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"238","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"239","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"240","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"241","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"242","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"243","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"244","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"245","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"246","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"247","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"248","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"249","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"250","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"251","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"252","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"253","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"254","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"255","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"256","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"257","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"258","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"259","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"260","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"261","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"262","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"263","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"264","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"265","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"266","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"267","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"268","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"269","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"270","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"271","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"272","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"273","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"274","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"275","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"276","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"277","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"278","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"279","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"280","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"281","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"282","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"283","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"284","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"285","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"286","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"287","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"288","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"289","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"290","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"291","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"292","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"293","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"294","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"295","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"296","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"297","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"298","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"299","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"300","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"301","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"302","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"303","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"304","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"305","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"306","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"307","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"308","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"309","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"310","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"311","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"312","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"313","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"314","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"315","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"316","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"317","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"318","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"319","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"320","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"321","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"322","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"323","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"324","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"325","21st Ave",94132,5400,3,2,NA,"Single Family","In Unit","Forced air","None","No",NA
-"326","Rockdale Dr",94127,4800,3,1,1320,"Single Family","In Unit",NA,NA,"No",NA
-"327","Orizaba Ave",94132,2500,2,1,1075,"Single Family","Shared","Forced air",NA,"No","Street"
-"328","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"Townhouse",NA,"Forced air",NA,"Yes",NA
-"329","268 Madison St",94134,2000,1,1,650,"Single Family",NA,"Forced air","Central","Yes","Street"
-"330","848 N Point St",94109,4900,2,2,1200,"Single Family",NA,NA,NA,"No",NA
-"331","Central Ave",94117,14000,5,3,2830,"Single Family",NA,"Radiant","Central","No",NA
-"332","1133 Kansas St",94107,8900,3,2,2000,"Single Family","In Unit","Forced air","None","Yes","1 space"
-"333","2351 33rd Ave",94116,5500,4,2,1450,"Single Family","Shared",NA,NA,"No",NA
-"334","Washington St",94115,15000,3,2,2488,"Single Family",NA,NA,NA,"No",NA
-"335","Pierce St",94123,25000,4,3.5,3884,"Single Family","In Unit",NA,NA,"No",NA
-"336","459 Colon Ave",94127,4700,3,1.5,1751,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"337","243 Noriega St",94122,5000,3,2.5,1675,"Single Family","In Unit",NA,NA,"Yes",NA
-"338","135 Evelyn Way",94127,5880,5,3,1650,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"339","21 Summit Way",94132,6500,3,2,NA,"Single Family",NA,NA,NA,"No",NA
-"340","1535 44th Ave",94122,5500,3,2,1300,"Single Family","In Unit","Forced air",NA,"Yes",NA
-"341","831 Marina Blvd",94123,13500,3,4,2420,"Single Family",NA,NA,NA,"Yes",NA
-"342","869 Faxon Ave",94112,4950,2,1,1450,"Single Family",NA,"Forced air",NA,"No","1 space"
-"343","253 Friedell St",94124,4500,3,2.5,1318,"Townhouse","In Unit","Forced air","Central, Other","No","Garage"
-"344","727 Green St",94133,5500,4,5,1200,"Townhouse",NA,NA,NA,"Yes",NA
-"345","1731 Vallejo St",94123,9500,2,2.5,2400,"Townhouse","In Unit","Forced air",NA,"No","Garage"
-"346","Eureka St",94114,10000,4,3,NA,"Single Family","In Unit","Forced air","None","No","Garage"
-"347","220 Fairmount St",94131,4300,2,1,1485,"Single Family",NA,"Other",NA,"Yes","1 space"
-"348","3655 21st St",94114,10000,3,2,2212,"Single Family","In Unit",NA,NA,"Yes",NA
-"349","2233 Santiago St",94116,2100,2,1,500,"Single Family",NA,NA,NA,"Yes","Street"
-"350","Maddux Ave",94124,3900,3,2,1200,"Single Family","In Unit","Forced air",NA,"No","Garage"
-"351","2786 38th Ave",94116,5400,5,3,NA,"Single Family","In Unit","Forced air",NA,"Yes","Street"
-"352","Waller St",94117,4100,2,1,NA,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"353","Waller St",94117,3500,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"354","Venn,The Haight Ashbury floorplan 1844 Market St",94102,NA,1,1,676,"Apartment","In Unit",NA,NA,"No",NA
-"355","Van Ness Ave",94102,4700,1,1,830,"Multi Family","In Unit",NA,NA,"Yes",NA
-"356","Vallejo St",94123,5350,2,2,1500,"Multi Family","Shared","Baseboard","Central","Yes","Garage"
-"357","Vallejo St",94123,3900,2,1,NA,"Multi Family","Shared","Wall","None","Yes","Garage"
-"358","Union St",94123,5500,7,1,1500,"Multi Family","Shared","Forced air","None","Yes","Both"
-"359","Tehama St",94105,4000,1,1,NA,"Multi Family",NA,"Forced air","None","Yes","None"
-"360","Sutter St",94109,2295,7,1,NA,"Multi Family","Shared","Baseboard","None","Yes","Both"
-"361","Sacramento St",94115,5495,2,2,1550,"Multi Family","Shared","Radiant",NA,"Yes","Garage"
-"362","Russia Ave",94112,3000,2,1,940,"Apartment","Shared","Forced air",NA,"Yes",NA
-"363","Rausch St",94103,2550,1,1,NA,"Multi Family","In Unit","Wall","None","Yes","Both"
-"364","Quesada Ave",94124,1900,1,1,650,"Apartment","Shared",NA,NA,"Yes","Both"
-"365","Pine St",94109,2295,1,1,NA,"Multi Family","Shared","Wall","None","Yes","Both"
-"366","Pacific Ave",94109,4250,2,2,NA,"Multi Family","Shared","Forced air","None","Yes","Garage"
-"367","Octavia St",94123,4200,2,2,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"368","Noe St",94131,3499,2,1,NA,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"369","New Montgomery St",94105,5500,1,1,700,"Multi Family","In Unit",NA,NA,"No",NA
-"370","Murray St",94110,3800,3,1,NA,"Multi Family","Shared","Forced air",NA,"Yes","Both"
-"371","Mission St",94103,3095,1,1,765,"Multi Family","In Unit","Forced air","None","Yes","Garage"
-"372","Mission St",94103,3175,1,1,NA,"Multi Family","In Unit","Forced air","Central","Yes","Both"
-"373","Mission St",94103,4495,2,2,1075,"Multi Family","In Unit","Forced air","Central","Yes","Garage"
-"374","Mission St",94103,5900,2,2,1031,"Multi Family","In Unit","Forced air","Central","No",NA
-"375","Mission St",94103,3195,1,1,756,"Multi Family","In Unit","Forced air","None","Yes","Both"
-"376","Mcallister St",94118,4500,1,1,645,"Multi Family","In Unit",NA,NA,"No",NA
-"377","Masonic Ave",94117,4675,2,2,1250,"Multi Family","Shared",NA,NA,"Yes","Garage"
-"378","Lombard St",94123,2250,7,1,NA,"Multi Family","Shared","Forced air",NA,"Yes","Both"
-"379","Lincoln Way",94122,2750,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"380","Laguna St",94123,2400,7,1,NA,"Multi Family","Shared","Baseboard","None","Yes","Garage"
-"381","Hayes St",94102,5750,3,2,NA,"Multi Family","Shared","Wall","None","Yes","Both"
-"382","Harrison St",94105,3299,1,1,658,"Multi Family","In Unit",NA,NA,"Yes","Garage"
-"383","Greenwich St",94123,2850,1,1,NA,"Multi Family","Shared","Forced air",NA,"Yes","Garage"
-"384","Greenwich St",94123,5900,2,1,1100,"Multi Family","In Unit",NA,NA,"No",NA
-"385","Greenwich St",94123,4250,2,1,NA,"Multi Family","Shared","Forced air",NA,"Yes","Garage"
-"386","Golden Gate Ave",94118,2150,1,1,NA,"Multi Family","Shared","Forced air","None","Yes","Both"
-"387","Funston Ave",94118,3600,2,2,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"388","Francisco St",94133,10000,2,2,1400,"Multi Family",NA,"Radiant","Central","Yes","Garage"
-"389","Folsom St",94110,3000,1,1,1632,"Apartment",NA,NA,NA,"Yes","Both"
-"390","Fillmore St",94115,4500,2,1,NA,"Apartment","Shared",NA,NA,"Yes","Garage"
-"391","Divisadero St",94115,6950,3,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"392","Dalewood Way #",94127,2800,1,1,825,"Apartment","Shared","Forced air",NA,"Yes","Garage"
-"393","Clement St",94118,2495,1,1,NA,"Multi Family","Shared","Radiant","None","Yes","Both"
-"394","Clement St",94118,4500,4,2,NA,"Apartment",NA,NA,NA,"Yes",NA
-"395","Clayton St",94114,2800,1,1,NA,"Multi Family","Shared","Forced air","Central","Yes","Garage"
-"396","Cervantes Blvd",94123,3900,1,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"397","California St",94109,2795,1,1,NA,"Multi Family","Shared","Baseboard","Central","Yes","Garage"
-"398","California St",94109,2650,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"399","California St",94109,3645,1,1,NA,"Multi Family","In Unit","Forced air",NA,"Yes","Garage"
-"400","Buena Vista Ter",94117,5400,2,2,1100,"Multi Family","In Unit",NA,NA,"Yes",NA
-"401","Buchanan St",94102,4750,2,2,NA,"Multi Family","In Unit","Forced air",NA,"Yes","Garage"
-"402","Buchanan St",94102,4650,1,1,600,"Multi Family","In Unit",NA,NA,"No","Garage"
-"403","Brosnan St",94103,8500,3,3.5,NA,"Multi Family","In Unit","Forced air","None","Yes","Garage"
-"404","Broadway",94109,4200,1,1,NA,"Multi Family","Shared","Radiant","None","Yes","Garage"
-"405","Broadway St",94115,4500,1,1,NA,"Multi Family","Shared","Forced air","None","Yes","Garage"
-"406","Brannan St",94107,6000,2,2,1200,"Multi Family",NA,"Forced air","Central","Yes","Garage"
-"407","Bay St",94133,2895,1,1,850,"Multi Family","Shared","Forced air","Central","Yes","Garage"
-"408","Ashbury St",94117,3595,2,1,NA,"Multi Family","Shared","Wall","None","Yes","Both"
-"409","995 Clayton St",94117,3850,2,1,1200,"Apartment","Shared",NA,"Central","Yes","Garage"
-"410","980 Capp St",94110,2300,1,1,4882,"Apartment",NA,"Forced air","Wall","Yes",NA
-"411","955 Bush St APT 506",94109,1850,7,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"412","95 Orange Aly # 101",94110,4600,2,1,NA,"Multi Family","In Unit",NA,NA,"Yes",NA
-"413","95 Grand View Ave",94114,3550,1,1,623,"Multi Family",NA,NA,NA,"No","Garage"
-"414","940-942 Hayes",94117,4595,2,1,879,"Multi Family",NA,NA,NA,"No",NA
-"415","94 Sussex St",94131,3900,1,1,1200,"Apartment","In Unit","Forced air",NA,"Yes","1"
-"416","919 Sutter St",94109,1895,7,1,575,"Apartment","Shared",NA,NA,"Yes","Both"
-"417","904 Corbett Ave",94131,3245,2,1,NA,"Apartment",NA,NA,NA,"Yes","Garage"
-"418","90 Alhambra St APT 201",94123,2330,7,1,480,"Apartment","Shared",NA,NA,"Yes","Garage"
-"419","899 Green St APT 110",94133,3400,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"420","875 Le Conte Avenue # First Floor",94124,2850,2,2,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"421","855 Folsom St APT 903",94107,4799,2,2,1100,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"422","85 Richland Ave APT 1",94110,2195,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"423","85 Carl St APT 14",94117,2795,2,1,700,"Multi Family",NA,NA,NA,"Yes","Both"
-"424","839 Jones St APT 11",94109,2245,7,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"425","833 Ashbury St APT 4",94117,4500,2,1,1000,"Apartment","Shared",NA,NA,"Yes",NA
-"426","83 Mcallister St APT 505",94102,2995,1,1,409,"Multi Family","Shared",NA,NA,"Yes","Both"
-"427","829 Leavenworth St APT 600",94109,4195,2,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"428","825 Geary St",94109,2795,1,1,1000,"Apartment","Shared","Forced air",NA,"Yes",NA
-"429","824 Brazil Ave",94112,4600,3,2,NA,"Multi Family","Shared",NA,NA,"Yes",NA
-"430","823 Carolina St",94107,2500,7,1,800,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"431","821 Geary St APT 4",94109,2095,7,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"432","8200 Oceanview Ter APT 213",94132,2880,1,1,784,"Multi Family","In Unit",NA,NA,"Yes",NA
-"433","811 14th St",94114,3750,2,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"434","810 Eddy St",94109,2150,7,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"435","807 Burnett Ave APT 3",94131,5950,2,2,NA,"Apartment","Shared","Forced air",NA,"Yes","Garage"
-"436","802 Hayes St APT 6",94117,2250,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"437","8 Steiner St",94117,4100,1,1,640,"Apartment","In Unit","Forced air",NA,"Yes","Garage"
-"438","795 Pine St",94108,2795,7,1,892,"Apartment","In Unit","Forced air","Other","No","Both"
-"439","791 7th Ave # 2ND",94118,2800,1,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"440","790 California St",94108,2450,7,1,300,"Apartment","Shared",NA,NA,"Yes",NA
-"441","790 43rd Ave # INLAW",94121,2300,2,1,460,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"442","781 Guerrero St",94110,3450,2,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"443","775 Post St",94109,3800,2,1,1000,"Apartment","Shared",NA,NA,"Yes",NA
-"444","7700 Geary Blvd",94121,2595,1,1,NA,"Apartment",NA,NA,NA,"Yes","Garage"
-"445","770 Natoma St APT 5",94103,3590,2,1,560,"Multi Family",NA,NA,NA,"Yes","Both"
-"446","77 Bluxome St",94107,2452,7,1,233,"Apartment",NA,NA,NA,"No",NA
-"447","765 Ofarrell St APT 7",94109,1850,7,NA,475,"Apartment",NA,NA,"Wall","No","Both"
-"448","760 12th Avenue # Top Floor",94118,5200,2,2,1600,"Apartment","In Unit","Forced air","Central","Yes","Garage"
-"449","756 Page St APT 5",94117,5895,3,2,NA,"Apartment",NA,NA,NA,"Yes",NA
-"450","747 Geary St",94109,2895,1,1,860,"Apartment","Shared",NA,NA,"Yes",NA
-"451","747 16th Ave",94118,4200,3,2,4351,"Apartment","Shared","Forced air","Central","Yes","Both"
-"452","74 Cook St",94118,4200,3,2,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"453","738 Long Bridge St APT 512",94158,5495,2,2,1210,"Multi Family",NA,"Forced air","Central","Yes",NA
-"454","733 Front St UNIT 507",94111,4295,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"455","731 Waller St # B",94117,3195,1,1,NA,"Apartment","Shared","Forced air",NA,"Yes",NA
-"456","729 18th Ave",94121,4500,2,1,1600,"Multi Family","In Unit","Forced air",NA,"Yes",NA
-"457","722 Larkin St APT 7",94109,2700,2,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"458","716 2nd Ave APT 3",94118,3495,1,1,550,"Multi Family",NA,NA,NA,"Yes","1"
-"459","711 22nd St",94107,2500,1,1,550,"Apartment","Shared",NA,NA,"Yes",NA
-"460","709 Clayton St",94117,3450,1,1,800,"Apartment",NA,NA,NA,"Yes",NA
-"461","690 Pennsylvania Ave APT 119",94107,3900,1,1.5,1152,"Multi Family",NA,NA,NA,"No",NA
-"462","633 Masonic Ave",94117,6500,2,1,3110,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"463","628 Hyde Street # FL GROUND",94109,2400,7,1,550,"Apartment",NA,"Forced air",NA,"Yes",NA
-"464","627 Corbett Ave APT 5",94114,2200,7,1,200,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"465","625 Leavenworth St APT 303",94109,2095,7,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"466","615 Minna St APT B",94103,3500,2,1,650,"Multi Family",NA,NA,NA,"Yes",NA
-"467","615 Greenwich St",94133,3900,1,1,NA,"Apartment","In Unit",NA,NA,"Yes",NA
-"468","615 15th Ave # B",94118,2000,7,1,NA,"Apartment",NA,NA,NA,"No",NA
-"469","614 4th Ave # A",94118,2600,1,1,500,"Apartment",NA,NA,NA,"Yes","Both"
-"470","605 Washington St",94111,3050,1,1,983,"Apartment",NA,NA,NA,"Yes","Both"
-"471","601 Burnett Ave APT 6",94131,3095,1,1,500,"Multi Family",NA,NA,NA,"Yes",NA
-"472","6 Mint Plz APT 303A",94103,5000,2,1,712,"Apartment",NA,NA,NA,"No",NA
-"473","5900 3rd St UNIT 2308",94124,3490,2,2,1016,"Multi Family","In Unit",NA,NA,"Yes","Garage"
-"474","571 Minna St",94103,3795,2,2,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"475","562 Belvedere St APT 4",94117,3795,2,1,850,"Multi Family","Shared",NA,NA,"Yes","Both"
-"476","560 26th Ave",94121,3100,2,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"477","549 Lombard St",94133,4950,2,1,1180,"Apartment",NA,NA,NA,"Yes","Both"
-"478","530 Grove St APT 3",94102,2500,7,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"479","527 3rd St APT 301",94107,2250,1,1,350,"Apartment","Shared",NA,NA,"Yes","Both"
-"480","525 7th Ave",94118,5800,4,2,2125,"Apartment",NA,"Forced air",NA,"Yes",NA
-"481","521 Dolores St",94110,7500,3,2,1750,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"482","52 Rausch St APT 103",94103,3346,1,1.5,756,"Multi Family",NA,NA,NA,"No",NA
-"483","52 Edith St",94133,3595,2,1,600,"Apartment",NA,NA,NA,"No",NA
-"484","509 Sanchez St",94114,4250,2,1,NA,"Apartment","In Unit","Forced air",NA,"Yes",NA
-"485","508 Octavia St APT 9",94102,2795,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"486","500A 19th Ave",94121,3000,2,1,NA,"Apartment",NA,NA,NA,"Yes","Garage"
-"487","5 Alma St APT 3",94117,3750,1,1,962,"Multi Family",NA,NA,NA,"Yes",NA
-"488","499 Marina Blvd APT 104",94123,4000,1,1,1200,"Multi Family",NA,NA,NA,"Yes","18"
-"489","497 Monterey Blvd",94127,3200,2,1,2532,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"490","495 Francisco St # D",94133,2900,1,1,700,"Apartment",NA,NA,NA,"Yes","Both"
-"491","480 Mission Bay Blvd N UNIT 512",94158,5100,2,2,1226,"Apartment","In Unit","Forced air","Central","No","Garage"
-"492","476 25th Ave",94121,3450,2,1,1000,"Apartment","In Unit",NA,NA,"Yes","Both"
-"493","4740 Balboa St APT 210",94121,2495,1,1,NA,"Multi Family",NA,NA,NA,"Yes","Both"
-"494","473 Elizabeth St APT 1",94114,3995,2,1,875,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"495","469 Clementina St",94103,3195,1,1,700,"Apartment","Shared","Forced air","Central","Yes","Garage"
-"496","467 8th Ave APT 1",94118,2825,1,1,750,"Multi Family","Shared",NA,NA,"Yes",NA
-"497","463 Central Ave",94117,4500,3,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"498","458 Sanchez St # B",94114,3670,1,1,625,"Apartment","Shared","Forced air",NA,"Yes","Garage"
-"499","455 Burnett Ave",94131,2800,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Garage"
-"500","455 14th St # 3RD",94103,6495,3,2,NA,"Apartment","In Unit",NA,NA,"Yes",NA
-"501","453 Union St # 453A",94133,2800,1,1,600,"Apartment",NA,NA,NA,"Yes",NA
-"502","451A 26th Ave",94121,5000,4,2,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"503","437 Spruce St",94118,4195,2,1.5,1000,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"504","435 Euclid Ave",94118,2950,1,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"505","435 China Basin St",94158,4800,2,2,1170,"Multi Family","In Unit","Forced air","Other","No","Garage"
-"506","435 China Basin St UNIT 428",94158,4800,2,2,1185,"Multi Family",NA,NA,NA,"No",NA
-"507","431 Capistrano Ave",94112,2300,2,1,NA,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"508","43 Lobos St",94112,2700,2,1,900,"Apartment",NA,NA,"Central","Yes","Both"
-"509","429 Corbett Avenue # FL 3RD",94114,3770,2,1,980,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"510","425 Marina Blvd",94123,20000,4,4,4610,"Multi Family","In Unit","Forced air","Central","No",NA
-"511","423 Waller Street 9 423 Waller St # 9",94117,3500,2,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"512","4220 Cesar Chavez St APT 105",94131,3795,2,2,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"513","42 Terra Vista Ave APT 3",94115,4000,1,1,880,"Multi Family","In Unit",NA,NA,"No","Both"
-"514","42 Castro St APT 6",94114,2675,7,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"515","419 Fulton St APT G",94102,4295,2,1,940,"Multi Family",NA,NA,NA,"Yes",NA
-"516","4156 25th St",94114,5350,3,1,3540,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"517","4126 17th St",94114,9000,3,3.5,2100,"Multi Family","In Unit",NA,NA,"No","Garage"
-"518","41 Cervantes Blvd",94123,8950,3,2,1750,"Apartment","In Unit","Forced air",NA,"Yes",NA
-"519","403 Main St APT 504N",94105,3150,1,1,483,"Multi Family","In Unit","Forced air","Central","Yes",NA
-"520","401 Duncan St",94131,3595,2,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"521","400 Monterey Blvd APT 1",94127,3350,2,NA,NA,"Multi Family",NA,NA,NA,"Yes","Both"
-"522","3rd AveIncomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property",94118,2750,1,1,NA,"Multi Family","Shared","Wall","None","Yes","Both"
-"523","388 Potrero Ave # 306",94103,3850,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"524","388 Beale",94105,4184,1,1,808,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"525","388 Beale",94105,5897,2,2,1224,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"526","3825 Scott St APT 203",94123,3695,1,1,865,"Multi Family",NA,NA,NA,"Yes",NA
-"527","3789 Fillmore St",94123,3500,1,1,1100,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"528","375 27th Ave APT 2",94121,3100,2,1,1000,"Apartment","Shared",NA,NA,"Yes","Garage"
-"529","3726 Broderick St APT 2",94123,3400,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Garage"
-"530","3711 Fillmore St APT 304",94123,3800,2,1,NA,"Multi Family",NA,NA,NA,"Yes","15"
-"531","37 States St APT 8",94114,2495,7,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"532","3673-3675 19th Street 3673a 19th St",94110,3800,2,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"533","366 22nd Ave # A1",94121,2395,1,1,NA,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"534","36 Sheridan St",94103,5700,3,2,1600,"Apartment","In Unit",NA,NA,"Yes",NA
-"535","358 12th Ave",94118,3800,3,1,1300,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"536","356 12th Ave APT 6",94118,2900,2,1,NA,"Multi Family","Shared",NA,NA,"Yes","Garage"
-"537","3550 23rd St APT 6",94110,4195,2,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"538","3546 21st St",94114,2300,7,1,500,"Apartment","Shared",NA,NA,"Yes",NA
-"539","3543 23rd St # B",94110,3095,1,1,NA,"Multi Family","Shared",NA,NA,"Yes","Both"
-"540","3518 16th St APT 2",94114,1995,7,1,525,"Apartment",NA,NA,NA,"Yes",NA
-"541","351 Grove St APT 4",94102,2695,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"542","350 Fremont St",94105,3925,1,1,NA,"Apartment","In Unit","Forced air","Other","Yes","Both"
-"543","3476 18th St APT 26",94110,1495,7,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"544","345 Texas St",94107,4200,2,1,3250,"Apartment",NA,NA,NA,"Yes",NA
-"545","34 Joice St APT 2",94108,2350,1,1,450,"Apartment",NA,"Forced air",NA,"Yes",NA
-"546","33rd Ave",94116,3200,2,2,1200,"Apartment","Shared",NA,NA,"Yes","Garage"
-"547","338 Potrero Ave #402",94103,3950,1,1,673,"Multi Family","In Unit","Forced air","Other","No",NA
-"548","3350 21st St # A",94110,3695,1,1,5210,"Apartment","In Unit","Forced air",NA,"Yes",NA
-"549","3346 Clay St",94118,14995,5,3,2754,"Multi Family",NA,NA,NA,"Yes",NA
-"550","3340 Taraval St",94116,3795,3,2,NA,"Multi Family",NA,NA,NA,"Yes","Both"
-"551","3322 Buchanan St APT 311",94123,3300,1,1,NA,"Multi Family",NA,NA,NA,"Yes","27"
-"552","3317 Anza St",94121,5800,4,2,1500,"Apartment",NA,"Forced air",NA,"Yes",NA
-"553","330 Mission Bay Blvd N",94158,4800,2,2,1100,"Multi Family","In Unit",NA,NA,"No","Garage"
-"554","328 Pennsylvania Ave APT 3",94107,3300,2,1,NA,"Multi Family",NA,NA,NA,"Yes","Both"
-"555","3250 Market St APT 5",94114,4750,2,2,1100,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"556","3158 Mission St APT 1",94110,4500,4,1.5,800,"Apartment",NA,NA,NA,"No",NA
-"557","3035 Baker St",94123,5395,2,2,830,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"558","3026 Clement St",94121,5595,4,3.5,1600,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"559","300 Berry St 1503 300 Berry St # 1503",94158,3600,1,1,732,"Multi Family",NA,NA,NA,"No",NA
-"560","30 Liberty St",94110,2525,7,1,NA,"Multi Family",NA,"Wall",NA,"Yes",NA
-"561","29th Ave",94122,1950,1,1,600,"Multi Family","Shared",NA,NA,"Yes","Both"
-"562","2995 22nd St",94110,5000,3,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"563","2919 Pacheco St",94116,3995,3,2,1356,"Apartment","Shared",NA,NA,"Yes","Garage"
-"564","291 Santos St APT 08",94134,2500,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"565","2900 Turk Blvd",94118,4900,2,2,1600,"Multi Family",NA,NA,NA,"No",NA
-"566","2844 Harrison Street # Top Floor",94110,6695,5,1.5,NA,"Apartment",NA,NA,NA,"Yes",NA
-"567","283 4th Ave APT 4",94118,2550,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"568","2808 Market St",94114,2995,1,1,500,"Apartment","In Unit","Forced air",NA,"Yes","Garage"
-"569","2801 Jackson St APT 304",94115,6000,2,1,1200,"Apartment","Shared",NA,NA,"Yes","Both"
-"570","2801 Greenwich St",94123,7995,5,2,1650,"Apartment","In Unit",NA,NA,"Yes",NA
-"571","2775 Market St",94114,3995,2,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"572","2755 Franklin St APT 4",94123,3300,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Garage"
-"573","2750 Mcallister St APT 302",94118,2200,7,1,400,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"574","2703 Laguna St # 1",94123,2450,7,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"575","2669 California St APT 1",94115,3000,1,1,850,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"576","2661 California St APT 4",94115,3500,2,1,1000,"Apartment",NA,NA,NA,"Yes",NA
-"577","2655 Pine St",94115,2650,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"578","2652 Harrison St APT 306",94110,3895,1,1.5,NA,"Apartment","In Unit","Forced air",NA,"Yes","Garage"
-"579","2652 Greenwich St # 1",94123,3000,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"580","2650 Franklin St",94123,2195,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Garage"
-"581","265 N Point St",94133,2390,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"582","2629 Folsom St",94110,2550,1,1,550,"Apartment","Shared",NA,NA,"Yes","Both"
-"583","2626 Great Hwy",94116,3999,2,1,1250,"Apartment","Shared","Forced air",NA,"Yes","Garage"
-"584","2625 Hyde St",94109,5250,4,1,NA,"Apartment","In Unit",NA,NA,"Yes",NA
-"585","259 Dolores Street # FL 3RD",94103,2850,1,1,600,"Apartment","Shared",NA,NA,"Yes","Both"
-"586","2576 Washington St APT 4",94115,3000,1,1,NA,"Apartment","Shared","Forced air",NA,"Yes",NA
-"587","257 S Van Ness Ave",94103,6950,7,1,4734,"Multi Family",NA,"Forced air",NA,"No",NA
-"588","2539 Polk St APT 5",94109,2575,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"589","2539 Lombard St",94123,3499,1,1,900,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"590","249 Shipley St APT 9",94107,3800,1,1.5,892,"Multi Family","In Unit",NA,NA,"No","Garage"
-"591","2477 California St",94115,4500,1,1,1100,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"592","2450 Greenwich St # A",94123,2550,7,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"593","2433 Polk St APT 4",94109,3900,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"594","2425 Buchanan St APT 101",94115,3200,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"595","2401 23rd Ave APT 4",94116,2095,1,1,NA,"Multi Family","Shared",NA,NA,"Yes",NA
-"596","240 Clinton Park # A",94103,2600,1,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"597","240 Chattanooga St",94114,3295,1,1,650,"Apartment","Shared",NA,NA,"Yes","Both"
-"598","2379 20th Ave APT 6",94116,3197,2,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"599","2370 Chestnut St",94123,2450,7,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"600","237 Miramar Ave",94112,2850,2,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"601","2369 Union St APT 4",94123,3495,1,1,700,"Multi Family",NA,NA,NA,"Yes","Both"
-"602","2358 Bryant Street # FL 3RD",94110,3650,1,1,900,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"603","2350 Van Ness Ave",94109,2495,7,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"604","2350 Union St APT 7",94123,4195,2,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"605","235 Berry St APT 518",94158,5995,2,2,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"606","2342 Franklin St",94123,7195,4,2,1964,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"607","2341 Union St APT 3",94123,3495,1,1,650,"Apartment","Shared","Forced air",NA,"Yes","Garage"
-"608","2323 Larkin St APT 2",94109,3400,2,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"609","2311 24th Ave # 1",94116,3750,2,2,1300,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"610","227 Sanchez Street # FL 3RD",94114,2350,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes",NA
-"611","2266 Washington St APT 8",94115,3900,2,2,NA,"Multi Family",NA,NA,NA,"No","Both"
-"612","2261 Filbert 2261 Filbert",94123,6950,4,2,NA,"Multi Family",NA,NA,NA,"No",NA
-"613","2240 Bryant St APT 31",94110,2595,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"614","2192 15th St",94114,5995,3,2,1600,"Apartment","In Unit",NA,NA,"Yes",NA
-"615","2189 Market St APT 5",94114,4500,2,2,990,"Multi Family",NA,NA,NA,"Yes",NA
-"616","2125 20th Ave # IN",94116,2000,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"617","2121 Turk Blvd APT 4",94115,4000,2,1,980,"Apartment","Shared",NA,NA,"Yes","Garage"
-"618","2101 Baker St APT 8",94115,3500,1,1,815,"Multi Family",NA,NA,NA,"Yes",NA
-"619","2086 Bush St # 5",94115,3800,2,1,800,"Apartment",NA,NA,NA,"Yes","Both"
-"620","2085 Sacramento St",94109,2295,7,1,NA,"Multi Family","Shared",NA,NA,"Yes",NA
-"621","208 28th St APT 203",94131,5250,2,2,1000,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"622","2060 Sutter St APT 205",94115,4500,2,2,1215,"Apartment",NA,"Baseboard",NA,"No","Both"
-"623","2033 Oak St # B",94117,4900,3,2,1200,"Multi Family","Shared","Forced air",NA,"Yes",NA
-"624","2025 Stockton St APT 5",94133,2495,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"625","2025 Pine St APT 10",94115,3095,1,1,700,"Apartment",NA,NA,NA,"Yes","Both"
-"626","2025 Balboa St # 1",94121,2850,2,1,868,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"627","2016 California St APT 2",94109,2995,1,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"628","2010 Pacific Ave APT 12",94109,8000,3,3,NA,"Apartment","In Unit","Forced air",NA,"Yes","Garage"
-"629","2001 Pierce St APT 64",94115,3100,7,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"630","200 29th St UNIT 2",94131,4995,2,2.5,1294,"Multi Family","In Unit",NA,NA,"Yes","2"
-"631","20 Natick St # 1A",94131,5185,3,2,1392,"Apartment","In Unit",NA,NA,"Yes","Both"
-"632","2 Mint Plz STE 407",94103,3400,1,1,658,"Multi Family",NA,"Forced air","Central","No","Both"
-"633","2 Crestline Dr APT 4",94131,2495,1,1,NA,"Apartment",NA,NA,"Central","Yes","Both"
-"634","19th Ave",94121,3695,2,1,NA,"Multi Family","Shared","Radiant","None","Yes","Garage"
-"635","1998 Broadway APT 701",94109,4950,2,2,1030,"Multi Family","Shared",NA,NA,"Yes","Garage"
-"636","1980 Washington St",94109,4600,1,1,900,"Apartment","Shared",NA,NA,"Yes","Garage"
-"637","1966 Pacific Ave",94109,6200,2,2,1115,"Multi Family","In Unit",NA,NA,"Yes","Both"
-"638","1951 48th Ave",94116,2900,2,1,2200,"Apartment",NA,NA,NA,"Yes","Garage"
-"639","195 Collingwood St",94114,3250,1,1,NA,"Apartment",NA,"Forced air",NA,"Yes",NA
-"640","191 Frederick St APT 14",94117,2250,7,1,NA,"Multi Family","Shared",NA,NA,"Yes",NA
-"641","1887 Hayes St",94117,2695,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"642","188 15th Ave",94118,5195,2,2,1600,"Multi Family",NA,NA,NA,"Yes",NA
-"643","1870 Washington St",94109,2250,7,1,300,"Multi Family",NA,NA,NA,"No",NA
-"644","1865 Bush St APT 104",94109,3600,2,1.5,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"645","1862 23rd Ave",94122,4500,2,2,2278,"Apartment","Shared","Forced air","Other","Yes","Both"
-"646","1849 Clay St APT 5",94109,4200,2,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"647","1845 Gough St",94109,3450,2,1,NA,"Apartment","Shared","Forced air",NA,"Yes",NA
-"648","1834 Eddy St",94115,2500,1,1,1396,"Multi Family",NA,NA,NA,"No",NA
-"649","183 Castro St",94114,2995,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"650","1816 Filbert St",94123,2350,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Both"
-"651","1815 Powell St APT 11",94133,1900,7,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"652","1769 Lombard St # A",94123,2800,1,1,775,"Apartment",NA,"Forced air",NA,"Yes",NA
-"653","1740 Filbert St # 1ST",94123,3499,2,1,700,"Apartment",NA,"Forced air",NA,"Yes","Garage"
-"654","1740 Beach St APT 16",94123,2600,1,1,NA,"Multi Family",NA,NA,NA,"Yes","9"
-"655","1737 Scott St",94115,3995,2,2,NA,"Apartment","In Unit","Forced air",NA,"Yes",NA
-"656","1735 Dolores St # A",94110,3000,1,1,300,"Apartment","Shared",NA,NA,"Yes",NA
-"657","1728 Bryant St # COMMERCIAL",94110,3900,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"658","1700 Beach St APT 304",94123,3000,1,1,NA,"Multi Family",NA,NA,NA,"Yes","15"
-"659","16th Ave",94118,2100,1,1,NA,"Multi Family","Shared","Radiant","None","Yes","Both"
-"660","1695 10th Ave APT 2",94122,2350,1,1,NA,"Apartment","Shared",NA,"Central","Yes","Both"
-"661","1690 Golden Gate Ave APT 03",94115,2975,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"662","1681 Union St",94123,4500,2,1,1235,"Apartment","Shared","Forced air",NA,"Yes","Garage"
-"663","168 Hyde St APT 407",94102,1700,7,1,225,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"664","1678 Dolores St",94110,4300,2,1,3100,"Apartment","In Unit","Forced air",NA,"Yes","Garage"
-"665","166 Middlefield Dr # 166",94132,5000,4,3,NA,"Multi Family",NA,NA,NA,"No",NA
-"666","1645 Golden Gate Ave APT 2",94115,3395,1,1,775,"Apartment","Shared",NA,NA,"Yes",NA
-"667","1640 Vallejo St APT 2",94123,2845,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"668","1640 Golden Gate Ave # 10",94115,1750,7,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"669","1635 Gough St APT 501",94109,2895,1,1,775,"Multi Family",NA,NA,NA,"No","Garage"
-"670","1633 California St APT 114",94109,2600,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"671","1619 Fulton St",94117,5800,3,1.5,1640,"Multi Family","In Unit",NA,NA,"No",NA
-"672","1611 Vallejo St APT 402",94123,4000,2,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"673","1608 Cayuga Ave",94112,3195,2,1,1198,"Apartment",NA,NA,NA,"Yes","Both"
-"674","15th StIncomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property",94114,5850,3,1.5,1800,"Multi Family","In Unit","Forced air","None","Yes","Garage"
-"675","1588 Stillwell Rd APT F",94129,3775,3,1,840,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"676","1580 Lombard St APT 1",94123,3950,2,1,725,"Multi Family",NA,NA,NA,"Yes","Garage"
-"677","1580 Beach St APT 104",94123,3995,1,1,1000,"Apartment",NA,NA,NA,"Yes","Garage"
-"678","1573 48th Ave APT 6",94122,2750,2,1,840,"Apartment","Shared",NA,NA,"Yes","Garage"
-"679","1531 Francisco St",94123,2495,7,1,600,"Apartment",NA,NA,NA,"Yes","Both"
-"680","1530 Pershing Dr APT A",94129,3385,2,1,835,"Apartment","In Unit",NA,NA,"Yes","Both"
-"681","1530 Irving St APT 1",94122,2395,1,1,NA,"Multi Family","Shared",NA,NA,"Yes",NA
-"682","1530 Gough St APT 405",94109,2400,7,1,600,"Multi Family",NA,NA,NA,"No",NA
-"683","1530 Dolores St APT 2",94110,4950,3,1,NA,"Apartment","In Unit","Forced air",NA,"Yes",NA
-"684","1522 46th Ave # STUDIO",94122,2000,7,1,350,"Multi Family","Shared",NA,NA,"No",NA
-"685","1512 Great Hwy # 1",94122,2350,1,1,600,"Apartment","Shared","Forced air",NA,"Yes",NA
-"686","1499 Union St APT 05",94109,2975,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"687","1493 Francisco St",94123,4000,2,1,NA,"Apartment",NA,NA,NA,"Yes","Garage"
-"688","149 Dore St",94103,3995,2,2,NA,"Apartment",NA,NA,NA,"Yes",NA
-"689","146 Connecticut St APT 2",94107,6000,3,2,1516,"Multi Family",NA,NA,NA,"Yes",NA
-"690","145 Bella Vista Way # A",94127,5995,3,2,1700,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"691","1446 Washington St",94109,3150,1,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"692","1446 Jackson St APT 6",94109,3995,2,1,1250,"Multi Family",NA,NA,NA,"Yes",NA
-"693","1446 18th Ave",94122,4600,3,1,1500,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"694","1443 17th Ave",94122,3888,2,2,1400,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"695","1441 Clay St",94109,3550,2,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"696","1440 Clement St",94118,3995,3,2,825,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"697","1437 17th Avenue # FL 1ST",94122,4000,2,2,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"698","1435 Fulton St APT A",94117,2895,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"699","1434 Washington St",94109,4850,2,1,1396,"Multi Family","In Unit","Forced air",NA,"No","Garage"
-"700","1433 Clay St APT 15",94109,5995,3,2,NA,"Apartment","In Unit",NA,NA,"Yes",NA
-"701","1429 Leavenworth St APT 304",94109,2195,7,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"702","1420 Jones St",94109,3000,1,1,NA,"Apartment",NA,NA,NA,"Yes","Both"
-"703","1415 5th Ave APT 2",94122,2600,1,1,NA,"Multi Family",NA,NA,NA,"Yes",NA
-"704","1405 Van Ness Ave",94109,3595,2,1,NA,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"705","1403 Jackson St",94109,2850,1,1,490,"Apartment",NA,NA,NA,"Yes","Garage"
-"706","1401 41st Ave",94122,3300,3,1,2279,"Apartment","Shared",NA,NA,"Yes","Both"
-"707","140 Jersey St",94114,5195,3,1,1200,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"708","139 Porter St",94110,2950,2,2,NA,"Apartment","In Unit",NA,NA,"Yes","Garage"
-"709","1386 Mcallister St # 5",94115,3999,2,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"710","1375 Green St APT 10",94109,2900,7,1,500,"Multi Family",NA,"Forced air",NA,"No","Both"
-"711","1351 Divisadero St APT 1",94115,3300,2,1,900,"Apartment","Shared",NA,NA,"Yes",NA
-"712","135 Evelyn Way # DETACH",94127,5880,5,3,1650,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"713","135 Corwin St",94114,2795,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"714","135 8th St APT 5",94103,2995,2,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"715","1335 Bay St APT 3",94123,3600,1,1,567,"Apartment","Shared","Forced air","Other","Yes","Garage"
-"716","1333 Hayes St",94117,10895,5,2,1700,"Multi Family",NA,NA,NA,"Yes","Both"
-"717","1330 Pine St APT 8",94109,2100,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes",NA
-"718","1328 Larkin St # TOP",94109,12000,6,3,1635,"Apartment","In Unit","Forced air","Central","No","Both"
-"719","1315 Cole St",94117,6290,3,1,1900,"Multi Family",NA,NA,NA,"Yes",NA
-"720","131 Hartford St # B",94114,4000,2,1,900,"Multi Family","In Unit",NA,NA,"Yes","Garage"
-"721","1293 6th Ave",94122,2700,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes","Both"
-"722","1289 22nd Ave APT 103",94122,2650,2,1,NA,"Multi Family",NA,"Forced air",NA,"Yes","Both"
-"723","1280 Minnesota St APT 103",94107,4650,2,2,1125,"Multi Family",NA,NA,NA,"Yes",NA
-"724","1278 Jackson St",94109,3950,1,1,800,"Apartment",NA,NA,NA,"Yes","Both"
-"725","1257 Bush St",94109,7000,7,1,NA,"Apartment","Shared",NA,NA,"No",NA
-"726","1255 Taylor St APT 1",94108,3500,1,1,750,"Apartment",NA,"Forced air","Central","Yes","Both"
-"727","125 Gilbert St APT 8",94103,5000,2,2.5,1540,"Multi Family","In Unit","Forced air",NA,"No","Garage"
-"728","124 Locksley Ave APT 1",94122,2795,1,1,800,"Multi Family","Shared",NA,NA,"No","Both"
-"729","1233 California St APT 306",94109,2400,7,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"730","123 Guerrero St APT 3",94103,2995,1,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"731","1225 Bay St",94123,3995,2,1,NA,"Apartment","Shared",NA,NA,"Yes","Garage"
-"732","1220 14th Ave",94122,2550,1,1,NA,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"733","120 Parker Ave APT 301",94118,4000,2,2,1000,"Multi Family","Shared","Forced air","Central","Yes",NA
-"734","1190 Haight Street 10 Lyon # 208",94117,2995,7,1,NA,"Multi Family",NA,NA,NA,"No",NA
-"735","1184 Alabama St",94110,3600,3,1,900,"Apartment",NA,"Forced air",NA,"Yes",NA
-"736","1177 California St APT 814",94108,5500,2,2.5,1399,"Multi Family",NA,NA,NA,"No",NA
-"737","1170 Sacramento St APT 16A",94108,14000,2,2,2070,"Multi Family",NA,NA,NA,"Yes",NA
-"738","1161 Stanyan St APT 1B",94117,2240,1,1,700,"Apartment","Shared","Forced air",NA,"Yes","Both"
-"739","1160 Mission St UNIT 1212",94103,3400,1,1,660,"Multi Family",NA,NA,NA,"No","1"
-"740","1153 Fell St",94117,4500,3,1,2788,"Apartment","Shared","Forced air",NA,"Yes",NA
-"741","113 Laidley St # A",94131,2750,1,1,700,"Multi Family",NA,NA,NA,"Yes",NA
-"742","1124 Greenwich St",94109,3750,1,1,1800,"Multi Family",NA,NA,NA,"No","Garage"
-"743","1123 Green St",94109,17900,6,4,3451,"Apartment","In Unit","Forced air","Central","No","Both"
-"744","1122 Sutter St APT 12",94109,1800,7,1,NA,"Apartment",NA,"Forced air",NA,"Yes",NA
-"745","1117 Ocean Ave",94112,5695,7,NA,19486,"Multi Family","In Unit, Shared","Forced air","Central","Yes","Both"
-"746","1115 Polk St APT 31",94109,2495,1,1,500,"Multi Family",NA,NA,NA,"No","Both"
-"747","1114 Sutter St APT 503",94109,1695,7,1,350,"Apartment","Shared","Forced air",NA,"Yes",NA
-"748","1114 Broadway # 2",94109,2700,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"749","1108 Lake St",94118,2975,2,1,NA,"Apartment",NA,NA,"Central","Yes","Both"
-"750","1101 999 Pine St # 1101",94108,3595,1,1,650,"Multi Family","In Unit",NA,NA,"No","Garage"
-"751","1100-1104 Fell Street 1100 Fell Street 501-505 S",94117,5795,3,2,NA,"Apartment",NA,NA,NA,"Yes",NA
-"752","110 Gardenside Drive # Top Floor",94131,2995,1,1,NA,"Apartment","Shared",NA,NA,"Yes","Garage"
-"753","1096 Pine St APT 106",94109,1895,7,1,380,"Apartment","Shared",NA,NA,"Yes",NA
-"754","1091 Bush St",94109,1800,7,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"755","1078 Potrero Ave",94110,4395,3,2,NA,"Apartment",NA,NA,NA,"Yes",NA
-"756","1069 Francisco St",94109,6200,3,2,1708,"Apartment","In Unit","Forced air",NA,"Yes","Both"
-"757","1065 Bush St # 211",94109,2995,1,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"758","1053 Bush St APT B",94109,1895,7,1,NA,"Multi Family","Shared",NA,NA,"Yes","Both"
-"759","1049A Page St",94117,3500,2,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"760","1023 Church St APT 4",94114,3900,2,1,722,"Multi Family",NA,NA,NA,"Yes",NA
-"761","101 Leland Ave",94134,3650,3,2,800,"Apartment",NA,NA,NA,"Yes",NA
-"762","101 Leland Ave # 99101",94134,3500,3,2,1100,"Apartment","Shared",NA,NA,"Yes",NA
-"763","101 Crescent Way APT 2315",94134,3599,2,2,1337,"Multi Family",NA,NA,NA,"No",NA
-"764","1000 Union St APT 106",94133,3200,1,1,NA,"Apartment","Shared",NA,NA,"Yes",NA
-"765","1000 Powell St APT 43",94108,2795,1,1,NA,"Apartment",NA,NA,NA,"Yes",NA
-"766","1000 Judah St APT 303",94122,2725,1,1,750,"Multi Family","Shared",NA,NA,"Yes",NA
-"767","1000 Howard St APT 408",94103,1699,1,1,420,"Multi Family",NA,NA,NA,"No",NA
-"768","1 Hawthorne Street 23c # 23C",94105,5850,2,2,NA,"Multi Family",NA,NA,NA,"No",NA
-"769","1 Hawthorne St UNIT 3F",94105,3500,1,1,498,"Multi Family",NA,NA,NA,"No","Garage"
-"770","1 Daniel Burnham Ct",94109,3500,1,1,600,"Multi Family","Shared","Forced air",NA,"Yes","Both"
-"771","1 Bluxome St",94107,4800,2,1.5,1361,"Multi Family","In Unit","Forced air","Other","No","Garage"
-"772",NA,94123,3095,1,1,600,"Multi Family","Shared",NA,"None","Yes","Garage"
-"773",NA,94133,4900,1,1,1035,"Multi Family","Shared","Radiant","None","Yes","Garage"
+"1","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"2","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"3","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"4","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"5","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"6","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"7","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"8","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"9","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"10","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"11","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"12","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"13","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"14","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"15","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"16","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"17","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"18","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"19","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"20","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"21","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"22","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"23","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"24","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"25","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"26","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"27","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"28","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"29","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"30","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"31","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"32","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"33","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"34","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"35","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"36","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"37","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"38","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"39","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"40","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"41","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"42","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"43","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"44","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"45","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"46","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"47","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"48","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"49","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"50","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"51","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"52","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"53","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"54","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"55","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"56","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"57","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"58","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"59","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"60","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"61","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"62","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"63","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"64","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"65","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"66","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"67","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"68","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"69","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"70","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"71","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"72","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"73","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"74","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"75","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"76","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"77","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"78","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"79","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"80","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"81","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"82","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"83","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"84","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"85","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"86","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"87","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"88","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"89","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"90","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"91","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"92","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"93","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"94","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"95","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"96","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"97","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"98","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"99","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"100","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"101","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"102","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"103","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"104","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"105","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"106","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"107","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"108","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"109","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"110","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"111","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"112","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"113","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"114","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"115","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"116","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"117","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"118","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"119","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"120","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"121","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"122","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"123","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"124","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"125","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"126","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"127","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"128","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"129","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"130","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"131","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"132","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"133","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"134","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"135","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"136","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"137","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"138","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"139","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"140","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"141","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"142","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"143","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"144","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"145","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"146","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"147","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"148","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"149","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"150","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"151","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"152","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"153","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"154","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"155","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"156","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"157","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"158","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"159","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"160","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"161","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"162","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"163","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"164","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"165","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"166","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"167","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"168","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"169","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"170","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"171","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"172","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"173","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"174","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"175","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"176","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"177","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"178","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"179","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"180","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"181","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"182","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"183","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"184","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"185","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"186","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"187","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"188","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"189","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"190","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"191","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"192","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"193","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"194","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"195","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"196","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"197","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"198","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"199","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"200","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"201","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"202","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"203","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"204","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"205","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"206","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"207","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"208","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"209","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"210","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"211","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"212","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"213","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"214","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"215","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"216","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"217","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"218","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"219","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"220","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"221","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"222","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"223","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"224","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"225","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"226","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"227","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"228","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"229","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"230","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"231","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"232","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"233","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"234","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"235","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"236","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"237","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"238","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"239","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"240","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"241","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"242","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"243","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"244","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"245","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"246","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"247","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"248","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"249","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"250","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"251","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"252","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"253","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"254","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"255","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"256","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"257","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"258","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"259","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"260","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"261","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"262","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"263","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"264","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"265","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"266","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"267","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"268","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"269","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"270","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"271","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"272","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"273","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"274","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"275","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"276","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"277","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"278","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"279","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"280","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"281","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"282","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"283","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"284","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"285","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"286","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"287","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"288","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"289","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"290","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"291","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"292","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"293","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"294","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"295","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"296","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"297","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"298","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"299","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"300","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"301","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"302","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"303","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"304","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"305","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"306","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"307","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"308","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"309","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"310","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"311","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"312","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"313","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"314","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"315","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"316","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"317","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"318","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"319","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"320","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"321","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"322","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"323","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"324","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"325","21st Ave",94132,5400,3,2,NA,"House","In Unit","Forced air","None","No",NA
+"326","Rockdale Dr",94127,4800,3,1,1320,"House","In Unit",NA,NA,"No",NA
+"327","Orizaba Ave",94132,2500,2,1,1075,"House","Shared","Forced air",NA,"No","Street"
+"328","525 20th Avenue # Upper Floor",94121,4250,2,1,NA,"House",NA,"Forced air",NA,"Yes",NA
+"329","268 Madison St",94134,2000,1,1,650,"House",NA,"Forced air","Central","Yes","Street"
+"330","848 N Point St",94109,4900,2,2,1200,"House",NA,NA,NA,"No",NA
+"331","Central Ave",94117,14000,5,3,2830,"House",NA,"Radiant","Central","No",NA
+"332","1133 Kansas St",94107,8900,3,2,2000,"House","In Unit","Forced air","None","Yes","Available "
+"333","2351 33rd Ave",94116,5500,4,2,1450,"House","Shared",NA,NA,"No",NA
+"334","Washington St",94115,15000,3,2,2488,"House",NA,NA,NA,"No",NA
+"335","Pierce St",94123,25000,4,3.5,3884,"House","In Unit",NA,NA,"No",NA
+"336","459 Colon Ave",94127,4700,3,1.5,1751,"House","In Unit","Forced air",NA,"Yes","Street"
+"337","243 Noriega St",94122,5000,3,2.5,1675,"House","In Unit",NA,NA,"Yes",NA
+"338","135 Evelyn Way",94127,5880,5,3,1650,"House","In Unit","Forced air",NA,"Yes","Street"
+"339","21 Summit Way",94132,6500,3,2,NA,"House",NA,NA,NA,"No",NA
+"340","1535 44th Ave",94122,5500,3,2,1300,"House","In Unit","Forced air",NA,"Yes",NA
+"341","831 Marina Blvd",94123,13500,3,4,2420,"House",NA,NA,NA,"Yes",NA
+"342","869 Faxon Ave",94112,4950,2,1,1450,"House",NA,"Forced air",NA,"No","Available "
+"343","253 Friedell St",94124,4500,3,2.5,1318,"House","In Unit","Forced air","Central, Other","No","Garage"
+"344","727 Green St",94133,5500,4,5,1200,"House",NA,NA,NA,"Yes",NA
+"345","1731 Vallejo St",94123,9500,2,2.5,2400,"House","In Unit","Forced air",NA,"No","Garage"
+"346","Eureka St",94114,10000,4,3,NA,"House","In Unit","Forced air","None","No","Garage"
+"347","220 Fairmount St",94131,4300,2,1,1485,"House",NA,"Other",NA,"Yes","Available "
+"348","3655 21st St",94114,10000,3,2,2212,"House","In Unit",NA,NA,"Yes",NA
+"349","2233 Santiago St",94116,2100,2,1,500,"House",NA,NA,NA,"Yes","Street"
+"350","Maddux Ave",94124,3900,3,2,1200,"House","In Unit","Forced air",NA,"No","Garage"
+"351","2786 38th Ave",94116,5400,5,3,NA,"House","In Unit","Forced air",NA,"Yes","Street"
+"352","Waller St",94117,4100,2,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"353","Waller St",94117,3500,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"354","Venn,The Haight Ashbury floorplan 1844 Market St",94102,NA,1,1,676,"Apt","In Unit",NA,NA,"No",NA
+"355","Van Ness Ave",94102,4700,1,1,830,"Apt","In Unit",NA,NA,"Yes",NA
+"356","Vallejo St",94123,5350,2,2,1500,"Apt","Shared","Baseboard","Central","Yes","Garage"
+"357","Vallejo St",94123,3900,2,1,NA,"Apt","Shared","Wall","None","Yes","Garage"
+"358","Union St",94123,5500,7,1,1500,"Apt","Shared","Forced air","None","Yes","Both"
+"359","Tehama St",94105,4000,1,1,NA,"Apt",NA,"Forced air","None","Yes","None"
+"360","Sutter St",94109,2295,7,1,NA,"Apt","Shared","Baseboard","None","Yes","Both"
+"361","Sacramento St",94115,5495,2,2,1550,"Apt","Shared","Radiant",NA,"Yes","Garage"
+"362","Russia Ave",94112,3000,2,1,940,"Apt","Shared","Forced air",NA,"Yes",NA
+"363","Rausch St",94103,2550,1,1,NA,"Apt","In Unit","Wall","None","Yes","Both"
+"364","Quesada Ave",94124,1900,1,1,650,"Apt","Shared",NA,NA,"Yes","Both"
+"365","Pine St",94109,2295,1,1,NA,"Apt","Shared","Wall","None","Yes","Both"
+"366","Pacific Ave",94109,4250,2,2,NA,"Apt","Shared","Forced air","None","Yes","Garage"
+"367","Octavia St",94123,4200,2,2,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"368","Noe St",94131,3499,2,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"369","New Montgomery St",94105,5500,1,1,700,"Apt","In Unit",NA,NA,"No",NA
+"370","Murray St",94110,3800,3,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"371","Mission St",94103,3095,1,1,765,"Apt","In Unit","Forced air","None","Yes","Garage"
+"372","Mission St",94103,3175,1,1,NA,"Apt","In Unit","Forced air","Central","Yes","Both"
+"373","Mission St",94103,4495,2,2,1075,"Apt","In Unit","Forced air","Central","Yes","Garage"
+"374","Mission St",94103,5900,2,2,1031,"Apt","In Unit","Forced air","Central","No",NA
+"375","Mission St",94103,3195,1,1,756,"Apt","In Unit","Forced air","None","Yes","Both"
+"376","Mcallister St",94118,4500,1,1,645,"Apt","In Unit",NA,NA,"No",NA
+"377","Masonic Ave",94117,4675,2,2,1250,"Apt","Shared",NA,NA,"Yes","Garage"
+"378","Lombard St",94123,2250,7,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"379","Lincoln Way",94122,2750,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"380","Laguna St",94123,2400,7,1,NA,"Apt","Shared","Baseboard","None","Yes","Garage"
+"381","Hayes St",94102,5750,3,2,NA,"Apt","Shared","Wall","None","Yes","Both"
+"382","Harrison St",94105,3299,1,1,658,"Apt","In Unit",NA,NA,"Yes","Garage"
+"383","Greenwich St",94123,2850,1,1,NA,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"384","Greenwich St",94123,5900,2,1,1100,"Apt","In Unit",NA,NA,"No",NA
+"385","Greenwich St",94123,4250,2,1,NA,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"386","Golden Gate Ave",94118,2150,1,1,NA,"Apt","Shared","Forced air","None","Yes","Both"
+"387","Funston Ave",94118,3600,2,2,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"388","Francisco St",94133,10000,2,2,1400,"Apt",NA,"Radiant","Central","Yes","Garage"
+"389","Folsom St",94110,3000,1,1,1632,"Apt",NA,NA,NA,"Yes","Both"
+"390","Fillmore St",94115,4500,2,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"391","Divisadero St",94115,6950,3,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"392","Dalewood Way #",94127,2800,1,1,825,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"393","Clement St",94118,2495,1,1,NA,"Apt","Shared","Radiant","None","Yes","Both"
+"394","Clement St",94118,4500,4,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"395","Clayton St",94114,2800,1,1,NA,"Apt","Shared","Forced air","Central","Yes","Garage"
+"396","Cervantes Blvd",94123,3900,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"397","California St",94109,2795,1,1,NA,"Apt","Shared","Baseboard","Central","Yes","Garage"
+"398","California St",94109,2650,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"399","California St",94109,3645,1,1,NA,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"400","Buena Vista Ter",94117,5400,2,2,1100,"Apt","In Unit",NA,NA,"Yes",NA
+"401","Buchanan St",94102,4750,2,2,NA,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"402","Buchanan St",94102,4650,1,1,600,"Apt","In Unit",NA,NA,"No","Garage"
+"403","Brosnan St",94103,8500,3,3.5,NA,"Apt","In Unit","Forced air","None","Yes","Garage"
+"404","Broadway",94109,4200,1,1,NA,"Apt","Shared","Radiant","None","Yes","Garage"
+"405","Broadway St",94115,4500,1,1,NA,"Apt","Shared","Forced air","None","Yes","Garage"
+"406","Brannan St",94107,6000,2,2,1200,"Apt",NA,"Forced air","Central","Yes","Garage"
+"407","Bay St",94133,2895,1,1,850,"Apt","Shared","Forced air","Central","Yes","Garage"
+"408","Ashbury St",94117,3595,2,1,NA,"Apt","Shared","Wall","None","Yes","Both"
+"409","995 Clayton St",94117,3850,2,1,1200,"Apt","Shared",NA,"Central","Yes","Garage"
+"410","980 Capp St",94110,2300,1,1,4882,"Apt",NA,"Forced air","Wall","Yes",NA
+"411","955 Bush St APT 506",94109,1850,7,1,NA,"Apt",NA,NA,NA,"No",NA
+"412","95 Orange Aly # 101",94110,4600,2,1,NA,"Apt","In Unit",NA,NA,"Yes",NA
+"413","95 Grand View Ave",94114,3550,1,1,623,"Apt",NA,NA,NA,"No","Garage"
+"414","940-942 Hayes",94117,4595,2,1,879,"Apt",NA,NA,NA,"No",NA
+"415","94 Sussex St",94131,3900,1,1,1200,"Apt","In Unit","Forced air",NA,"Yes","Available"
+"416","919 Sutter St",94109,1895,7,1,575,"Apt","Shared",NA,NA,"Yes","Both"
+"417","904 Corbett Ave",94131,3245,2,1,NA,"Apt",NA,NA,NA,"Yes","Garage"
+"418","90 Alhambra St APT 201",94123,2330,7,1,480,"Apt","Shared",NA,NA,"Yes","Garage"
+"419","899 Green St APT 110",94133,3400,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"420","875 Le Conte Avenue # First Floor",94124,2850,2,2,NA,"Apt",NA,NA,NA,"Yes","Both"
+"421","855 Folsom St APT 903",94107,4799,2,2,1100,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"422","85 Richland Ave APT 1",94110,2195,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"423","85 Carl St APT 14",94117,2795,2,1,700,"Apt",NA,NA,NA,"Yes","Both"
+"424","839 Jones St APT 11",94109,2245,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"425","833 Ashbury St APT 4",94117,4500,2,1,1000,"Apt","Shared",NA,NA,"Yes",NA
+"426","83 Mcallister St APT 505",94102,2995,1,1,409,"Apt","Shared",NA,NA,"Yes","Both"
+"427","829 Leavenworth St APT 600",94109,4195,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"428","825 Geary St",94109,2795,1,1,1000,"Apt","Shared","Forced air",NA,"Yes",NA
+"429","824 Brazil Ave",94112,4600,3,2,NA,"Apt","Shared",NA,NA,"Yes",NA
+"430","823 Carolina St",94107,2500,7,1,800,"Apt","Shared","Forced air",NA,"Yes","Both"
+"431","821 Geary St APT 4",94109,2095,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"432","8200 Oceanview Ter APT 213",94132,2880,1,1,784,"Apt","In Unit",NA,NA,"Yes",NA
+"433","811 14th St",94114,3750,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"434","810 Eddy St",94109,2150,7,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"435","807 Burnett Ave APT 3",94131,5950,2,2,NA,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"436","802 Hayes St APT 6",94117,2250,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"437","8 Steiner St",94117,4100,1,1,640,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"438","795 Pine St",94108,2795,7,1,892,"Apt","In Unit","Forced air","Other","No","Both"
+"439","791 7th Ave # 2ND",94118,2800,1,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"440","790 California St",94108,2450,7,1,300,"Apt","Shared",NA,NA,"Yes",NA
+"441","790 43rd Ave # INLAW",94121,2300,2,1,460,"Apt",NA,"Forced air",NA,"Yes","Both"
+"442","781 Guerrero St",94110,3450,2,1,NA,"Apt",NA,NA,NA,"No",NA
+"443","775 Post St",94109,3800,2,1,1000,"Apt","Shared",NA,NA,"Yes",NA
+"444","7700 Geary Blvd",94121,2595,1,1,NA,"Apt",NA,NA,NA,"Yes","Garage"
+"445","770 Natoma St APT 5",94103,3590,2,1,560,"Apt",NA,NA,NA,"Yes","Both"
+"446","77 Bluxome St",94107,2452,7,1,233,"Apt",NA,NA,NA,"No",NA
+"447","765 Ofarrell St APT 7",94109,1850,7,NA,475,"Apt",NA,NA,"Wall","No","Both"
+"448","760 12th Avenue # Top Floor",94118,5200,2,2,1600,"Apt","In Unit","Forced air","Central","Yes","Garage"
+"449","756 Page St APT 5",94117,5895,3,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"450","747 Geary St",94109,2895,1,1,860,"Apt","Shared",NA,NA,"Yes",NA
+"451","747 16th Ave",94118,4200,3,2,4351,"Apt","Shared","Forced air","Central","Yes","Both"
+"452","74 Cook St",94118,4200,3,2,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"453","738 Long Bridge St APT 512",94158,5495,2,2,1210,"Apt",NA,"Forced air","Central","Yes",NA
+"454","733 Front St UNIT 507",94111,4295,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"455","731 Waller St # B",94117,3195,1,1,NA,"Apt","Shared","Forced air",NA,"Yes",NA
+"456","729 18th Ave",94121,4500,2,1,1600,"Apt","In Unit","Forced air",NA,"Yes",NA
+"457","722 Larkin St APT 7",94109,2700,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"458","716 2nd Ave APT 3",94118,3495,1,1,550,"Apt",NA,NA,NA,"Yes","Available"
+"459","711 22nd St",94107,2500,1,1,550,"Apt","Shared",NA,NA,"Yes",NA
+"460","709 Clayton St",94117,3450,1,1,800,"Apt",NA,NA,NA,"Yes",NA
+"461","690 Pennsylvania Ave APT 119",94107,3900,1,1.5,1152,"Apt",NA,NA,NA,"No",NA
+"462","633 Masonic Ave",94117,6500,2,1,3110,"Apt",NA,"Forced air",NA,"Yes","Both"
+"463","628 Hyde Street # FL GROUND",94109,2400,7,1,550,"Apt",NA,"Forced air",NA,"Yes",NA
+"464","627 Corbett Ave APT 5",94114,2200,7,1,200,"Apt","Shared","Forced air",NA,"Yes","Both"
+"465","625 Leavenworth St APT 303",94109,2095,7,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"466","615 Minna St APT B",94103,3500,2,1,650,"Apt",NA,NA,NA,"Yes",NA
+"467","615 Greenwich St",94133,3900,1,1,NA,"Apt","In Unit",NA,NA,"Yes",NA
+"468","615 15th Ave # B",94118,2000,7,1,NA,"Apt",NA,NA,NA,"No",NA
+"469","614 4th Ave # A",94118,2600,1,1,500,"Apt",NA,NA,NA,"Yes","Both"
+"470","605 Washington St",94111,3050,1,1,983,"Apt",NA,NA,NA,"Yes","Both"
+"471","601 Burnett Ave APT 6",94131,3095,1,1,500,"Apt",NA,NA,NA,"Yes",NA
+"472","6 Mint Plz APT 303A",94103,5000,2,1,712,"Apt",NA,NA,NA,"No",NA
+"473","5900 3rd St UNIT 2308",94124,3490,2,2,1016,"Apt","In Unit",NA,NA,"Yes","Garage"
+"474","571 Minna St",94103,3795,2,2,NA,"Apt","Shared",NA,NA,"Yes",NA
+"475","562 Belvedere St APT 4",94117,3795,2,1,850,"Apt","Shared",NA,NA,"Yes","Both"
+"476","560 26th Ave",94121,3100,2,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"477","549 Lombard St",94133,4950,2,1,1180,"Apt",NA,NA,NA,"Yes","Both"
+"478","530 Grove St APT 3",94102,2500,7,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"479","527 3rd St APT 301",94107,2250,1,1,350,"Apt","Shared",NA,NA,"Yes","Both"
+"480","525 7th Ave",94118,5800,4,2,2125,"Apt",NA,"Forced air",NA,"Yes",NA
+"481","521 Dolores St",94110,7500,3,2,1750,"Apt","In Unit",NA,NA,"Yes","Garage"
+"482","52 Rausch St APT 103",94103,3346,1,1.5,756,"Apt",NA,NA,NA,"No",NA
+"483","52 Edith St",94133,3595,2,1,600,"Apt",NA,NA,NA,"No",NA
+"484","509 Sanchez St",94114,4250,2,1,NA,"Apt","In Unit","Forced air",NA,"Yes",NA
+"485","508 Octavia St APT 9",94102,2795,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"486","500A 19th Ave",94121,3000,2,1,NA,"Apt",NA,NA,NA,"Yes","Garage"
+"487","5 Alma St APT 3",94117,3750,1,1,962,"Apt",NA,NA,NA,"Yes",NA
+"488","499 Marina Blvd APT 104",94123,4000,1,1,1200,"Apt",NA,NA,NA,"Yes","Available"
+"489","497 Monterey Blvd",94127,3200,2,1,2532,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"490","495 Francisco St # D",94133,2900,1,1,700,"Apt",NA,NA,NA,"Yes","Both"
+"491","480 Mission Bay Blvd N UNIT 512",94158,5100,2,2,1226,"Apt","In Unit","Forced air","Central","No","Garage"
+"492","476 25th Ave",94121,3450,2,1,1000,"Apt","In Unit",NA,NA,"Yes","Both"
+"493","4740 Balboa St APT 210",94121,2495,1,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"494","473 Elizabeth St APT 1",94114,3995,2,1,875,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"495","469 Clementina St",94103,3195,1,1,700,"Apt","Shared","Forced air","Central","Yes","Garage"
+"496","467 8th Ave APT 1",94118,2825,1,1,750,"Apt","Shared",NA,NA,"Yes",NA
+"497","463 Central Ave",94117,4500,3,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"498","458 Sanchez St # B",94114,3670,1,1,625,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"499","455 Burnett Ave",94131,2800,1,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"500","455 14th St # 3RD",94103,6495,3,2,NA,"Apt","In Unit",NA,NA,"Yes",NA
+"501","453 Union St # 453A",94133,2800,1,1,600,"Apt",NA,NA,NA,"Yes",NA
+"502","451A 26th Ave",94121,5000,4,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"503","437 Spruce St",94118,4195,2,1.5,1000,"Apt","Shared","Forced air",NA,"Yes","Both"
+"504","435 Euclid Ave",94118,2950,1,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"505","435 China Basin St",94158,4800,2,2,1170,"Apt","In Unit","Forced air","Other","No","Garage"
+"506","435 China Basin St UNIT 428",94158,4800,2,2,1185,"Apt",NA,NA,NA,"No",NA
+"507","431 Capistrano Ave",94112,2300,2,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"508","43 Lobos St",94112,2700,2,1,900,"Apt",NA,NA,"Central","Yes","Both"
+"509","429 Corbett Avenue # FL 3RD",94114,3770,2,1,980,"Apt","Shared","Forced air",NA,"Yes","Both"
+"510","425 Marina Blvd",94123,20000,4,4,4610,"Apt","In Unit","Forced air","Central","No",NA
+"511","423 Waller Street 9 423 Waller St # 9",94117,3500,2,1,NA,"Apt",NA,NA,NA,"No",NA
+"512","4220 Cesar Chavez St APT 105",94131,3795,2,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"513","42 Terra Vista Ave APT 3",94115,4000,1,1,880,"Apt","In Unit",NA,NA,"No","Both"
+"514","42 Castro St APT 6",94114,2675,7,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"515","419 Fulton St APT G",94102,4295,2,1,940,"Apt",NA,NA,NA,"Yes",NA
+"516","4156 25th St",94114,5350,3,1,3540,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"517","4126 17th St",94114,9000,3,3.5,2100,"Apt","In Unit",NA,NA,"No","Garage"
+"518","41 Cervantes Blvd",94123,8950,3,2,1750,"Apt","In Unit","Forced air",NA,"Yes",NA
+"519","403 Main St APT 504N",94105,3150,1,1,483,"Apt","In Unit","Forced air","Central","Yes",NA
+"520","401 Duncan St",94131,3595,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"521","400 Monterey Blvd APT 1",94127,3350,2,NA,NA,"Apt",NA,NA,NA,"Yes","Both"
+"522","3rd AveIncomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property",94118,2750,1,1,NA,"Apt","Shared","Wall","None","Yes","Both"
+"523","388 Potrero Ave # 306",94103,3850,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"524","388 Beale",94105,4184,1,1,808,"Apt","In Unit",NA,NA,"Yes","Garage"
+"525","388 Beale",94105,5897,2,2,1224,"Apt","In Unit",NA,NA,"Yes","Garage"
+"526","3825 Scott St APT 203",94123,3695,1,1,865,"Apt",NA,NA,NA,"Yes",NA
+"527","3789 Fillmore St",94123,3500,1,1,1100,"Apt","Shared","Forced air",NA,"Yes","Both"
+"528","375 27th Ave APT 2",94121,3100,2,1,1000,"Apt","Shared",NA,NA,"Yes","Garage"
+"529","3726 Broderick St APT 2",94123,3400,1,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"530","3711 Fillmore St APT 304",94123,3800,2,1,NA,"Apt",NA,NA,NA,"Yes","Available"
+"531","37 States St APT 8",94114,2495,7,1,NA,"Apt",NA,NA,NA,"No",NA
+"532","3673-3675 19th Street 3673a 19th St",94110,3800,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"533","366 22nd Ave # A1",94121,2395,1,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"534","36 Sheridan St",94103,5700,3,2,1600,"Apt","In Unit",NA,NA,"Yes",NA
+"535","358 12th Ave",94118,3800,3,1,1300,"Apt","Shared","Forced air",NA,"Yes","Both"
+"536","356 12th Ave APT 6",94118,2900,2,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"537","3550 23rd St APT 6",94110,4195,2,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"538","3546 21st St",94114,2300,7,1,500,"Apt","Shared",NA,NA,"Yes",NA
+"539","3543 23rd St # B",94110,3095,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"540","3518 16th St APT 2",94114,1995,7,1,525,"Apt",NA,NA,NA,"Yes",NA
+"541","351 Grove St APT 4",94102,2695,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"542","350 Fremont St",94105,3925,1,1,NA,"Apt","In Unit","Forced air","Other","Yes","Both"
+"543","3476 18th St APT 26",94110,1495,7,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"544","345 Texas St",94107,4200,2,1,3250,"Apt",NA,NA,NA,"Yes",NA
+"545","34 Joice St APT 2",94108,2350,1,1,450,"Apt",NA,"Forced air",NA,"Yes",NA
+"546","33rd Ave",94116,3200,2,2,1200,"Apt","Shared",NA,NA,"Yes","Garage"
+"547","338 Potrero Ave #402",94103,3950,1,1,673,"Apt","In Unit","Forced air","Other","No",NA
+"548","3350 21st St # A",94110,3695,1,1,5210,"Apt","In Unit","Forced air",NA,"Yes",NA
+"549","3346 Clay St",94118,14995,5,3,2754,"Apt",NA,NA,NA,"Yes",NA
+"550","3340 Taraval St",94116,3795,3,2,NA,"Apt",NA,NA,NA,"Yes","Both"
+"551","3322 Buchanan St APT 311",94123,3300,1,1,NA,"Apt",NA,NA,NA,"Yes","Available"
+"552","3317 Anza St",94121,5800,4,2,1500,"Apt",NA,"Forced air",NA,"Yes",NA
+"553","330 Mission Bay Blvd N",94158,4800,2,2,1100,"Apt","In Unit",NA,NA,"No","Garage"
+"554","328 Pennsylvania Ave APT 3",94107,3300,2,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"555","3250 Market St APT 5",94114,4750,2,2,1100,"Apt",NA,"Forced air",NA,"Yes","Both"
+"556","3158 Mission St APT 1",94110,4500,4,1.5,800,"Apt",NA,NA,NA,"No",NA
+"557","3035 Baker St",94123,5395,2,2,830,"Apt","In Unit",NA,NA,"Yes","Garage"
+"558","3026 Clement St",94121,5595,4,3.5,1600,"Apt",NA,"Forced air",NA,"Yes","Both"
+"559","300 Berry St 1503 300 Berry St # 1503",94158,3600,1,1,732,"Apt",NA,NA,NA,"No",NA
+"560","30 Liberty St",94110,2525,7,1,NA,"Apt",NA,"Wall",NA,"Yes",NA
+"561","29th Ave",94122,1950,1,1,600,"Apt","Shared",NA,NA,"Yes","Both"
+"562","2995 22nd St",94110,5000,3,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"563","2919 Pacheco St",94116,3995,3,2,1356,"Apt","Shared",NA,NA,"Yes","Garage"
+"564","291 Santos St APT 08",94134,2500,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"565","2900 Turk Blvd",94118,4900,2,2,1600,"Apt",NA,NA,NA,"No",NA
+"566","2844 Harrison Street # Top Floor",94110,6695,5,1.5,NA,"Apt",NA,NA,NA,"Yes",NA
+"567","283 4th Ave APT 4",94118,2550,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"568","2808 Market St",94114,2995,1,1,500,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"569","2801 Jackson St APT 304",94115,6000,2,1,1200,"Apt","Shared",NA,NA,"Yes","Both"
+"570","2801 Greenwich St",94123,7995,5,2,1650,"Apt","In Unit",NA,NA,"Yes",NA
+"571","2775 Market St",94114,3995,2,1,NA,"Apt",NA,NA,NA,"No",NA
+"572","2755 Franklin St APT 4",94123,3300,1,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"573","2750 Mcallister St APT 302",94118,2200,7,1,400,"Apt",NA,"Forced air",NA,"Yes","Both"
+"574","2703 Laguna St # 1",94123,2450,7,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"575","2669 California St APT 1",94115,3000,1,1,850,"Apt","Shared","Forced air",NA,"Yes","Both"
+"576","2661 California St APT 4",94115,3500,2,1,1000,"Apt",NA,NA,NA,"Yes",NA
+"577","2655 Pine St",94115,2650,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"578","2652 Harrison St APT 306",94110,3895,1,1.5,NA,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"579","2652 Greenwich St # 1",94123,3000,7,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"580","2650 Franklin St",94123,2195,7,1,NA,"Apt",NA,"Forced air",NA,"Yes","Garage"
+"581","265 N Point St",94133,2390,7,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"582","2629 Folsom St",94110,2550,1,1,550,"Apt","Shared",NA,NA,"Yes","Both"
+"583","2626 Great Hwy",94116,3999,2,1,1250,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"584","2625 Hyde St",94109,5250,4,1,NA,"Apt","In Unit",NA,NA,"Yes",NA
+"585","259 Dolores Street # FL 3RD",94103,2850,1,1,600,"Apt","Shared",NA,NA,"Yes","Both"
+"586","2576 Washington St APT 4",94115,3000,1,1,NA,"Apt","Shared","Forced air",NA,"Yes",NA
+"587","257 S Van Ness Ave",94103,6950,7,1,4734,"Apt",NA,"Forced air",NA,"No",NA
+"588","2539 Polk St APT 5",94109,2575,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"589","2539 Lombard St",94123,3499,1,1,900,"Apt","Shared","Forced air",NA,"Yes","Both"
+"590","249 Shipley St APT 9",94107,3800,1,1.5,892,"Apt","In Unit",NA,NA,"No","Garage"
+"591","2477 California St",94115,4500,1,1,1100,"Apt","Shared","Forced air",NA,"Yes","Both"
+"592","2450 Greenwich St # A",94123,2550,7,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"593","2433 Polk St APT 4",94109,3900,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"594","2425 Buchanan St APT 101",94115,3200,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"595","2401 23rd Ave APT 4",94116,2095,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"596","240 Clinton Park # A",94103,2600,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"597","240 Chattanooga St",94114,3295,1,1,650,"Apt","Shared",NA,NA,"Yes","Both"
+"598","2379 20th Ave APT 6",94116,3197,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"599","2370 Chestnut St",94123,2450,7,1,NA,"Apt",NA,NA,NA,"No",NA
+"600","237 Miramar Ave",94112,2850,2,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"601","2369 Union St APT 4",94123,3495,1,1,700,"Apt",NA,NA,NA,"Yes","Both"
+"602","2358 Bryant Street # FL 3RD",94110,3650,1,1,900,"Apt","Shared","Forced air",NA,"Yes","Both"
+"603","2350 Van Ness Ave",94109,2495,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"604","2350 Union St APT 7",94123,4195,2,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"605","235 Berry St APT 518",94158,5995,2,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"606","2342 Franklin St",94123,7195,4,2,1964,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"607","2341 Union St APT 3",94123,3495,1,1,650,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"608","2323 Larkin St APT 2",94109,3400,2,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"609","2311 24th Ave # 1",94116,3750,2,2,1300,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"610","227 Sanchez Street # FL 3RD",94114,2350,7,1,NA,"Apt",NA,"Forced air",NA,"Yes",NA
+"611","2266 Washington St APT 8",94115,3900,2,2,NA,"Apt",NA,NA,NA,"No","Both"
+"612","2261 Filbert 2261 Filbert",94123,6950,4,2,NA,"Apt",NA,NA,NA,"No",NA
+"613","2240 Bryant St APT 31",94110,2595,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"614","2192 15th St",94114,5995,3,2,1600,"Apt","In Unit",NA,NA,"Yes",NA
+"615","2189 Market St APT 5",94114,4500,2,2,990,"Apt",NA,NA,NA,"Yes",NA
+"616","2125 20th Ave # IN",94116,2000,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"617","2121 Turk Blvd APT 4",94115,4000,2,1,980,"Apt","Shared",NA,NA,"Yes","Garage"
+"618","2101 Baker St APT 8",94115,3500,1,1,815,"Apt",NA,NA,NA,"Yes",NA
+"619","2086 Bush St # 5",94115,3800,2,1,800,"Apt",NA,NA,NA,"Yes","Both"
+"620","2085 Sacramento St",94109,2295,7,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"621","208 28th St APT 203",94131,5250,2,2,1000,"Apt","In Unit",NA,NA,"Yes","Garage"
+"622","2060 Sutter St APT 205",94115,4500,2,2,1215,"Apt",NA,"Baseboard",NA,"No","Both"
+"623","2033 Oak St # B",94117,4900,3,2,1200,"Apt","Shared","Forced air",NA,"Yes",NA
+"624","2025 Stockton St APT 5",94133,2495,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"625","2025 Pine St APT 10",94115,3095,1,1,700,"Apt",NA,NA,NA,"Yes","Both"
+"626","2025 Balboa St # 1",94121,2850,2,1,868,"Apt",NA,"Forced air",NA,"Yes","Both"
+"627","2016 California St APT 2",94109,2995,1,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"628","2010 Pacific Ave APT 12",94109,8000,3,3,NA,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"629","2001 Pierce St APT 64",94115,3100,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"630","200 29th St UNIT 2",94131,4995,2,2.5,1294,"Apt","In Unit",NA,NA,"Yes","Available"
+"631","20 Natick St # 1A",94131,5185,3,2,1392,"Apt","In Unit",NA,NA,"Yes","Both"
+"632","2 Mint Plz STE 407",94103,3400,1,1,658,"Apt",NA,"Forced air","Central","No","Both"
+"633","2 Crestline Dr APT 4",94131,2495,1,1,NA,"Apt",NA,NA,"Central","Yes","Both"
+"634","19th Ave",94121,3695,2,1,NA,"Apt","Shared","Radiant","None","Yes","Garage"
+"635","1998 Broadway APT 701",94109,4950,2,2,1030,"Apt","Shared",NA,NA,"Yes","Garage"
+"636","1980 Washington St",94109,4600,1,1,900,"Apt","Shared",NA,NA,"Yes","Garage"
+"637","1966 Pacific Ave",94109,6200,2,2,1115,"Apt","In Unit",NA,NA,"Yes","Both"
+"638","1951 48th Ave",94116,2900,2,1,2200,"Apt",NA,NA,NA,"Yes","Garage"
+"639","195 Collingwood St",94114,3250,1,1,NA,"Apt",NA,"Forced air",NA,"Yes",NA
+"640","191 Frederick St APT 14",94117,2250,7,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"641","1887 Hayes St",94117,2695,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"642","188 15th Ave",94118,5195,2,2,1600,"Apt",NA,NA,NA,"Yes",NA
+"643","1870 Washington St",94109,2250,7,1,300,"Apt",NA,NA,NA,"No",NA
+"644","1865 Bush St APT 104",94109,3600,2,1.5,NA,"Apt",NA,NA,NA,"Yes",NA
+"645","1862 23rd Ave",94122,4500,2,2,2278,"Apt","Shared","Forced air","Other","Yes","Both"
+"646","1849 Clay St APT 5",94109,4200,2,1,NA,"Apt",NA,NA,NA,"No",NA
+"647","1845 Gough St",94109,3450,2,1,NA,"Apt","Shared","Forced air",NA,"Yes",NA
+"648","1834 Eddy St",94115,2500,1,1,1396,"Apt",NA,NA,NA,"No",NA
+"649","183 Castro St",94114,2995,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"650","1816 Filbert St",94123,2350,1,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"651","1815 Powell St APT 11",94133,1900,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"652","1769 Lombard St # A",94123,2800,1,1,775,"Apt",NA,"Forced air",NA,"Yes",NA
+"653","1740 Filbert St # 1ST",94123,3499,2,1,700,"Apt",NA,"Forced air",NA,"Yes","Garage"
+"654","1740 Beach St APT 16",94123,2600,1,1,NA,"Apt",NA,NA,NA,"Yes","Available"
+"655","1737 Scott St",94115,3995,2,2,NA,"Apt","In Unit","Forced air",NA,"Yes",NA
+"656","1735 Dolores St # A",94110,3000,1,1,300,"Apt","Shared",NA,NA,"Yes",NA
+"657","1728 Bryant St # COMMERCIAL",94110,3900,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"658","1700 Beach St APT 304",94123,3000,1,1,NA,"Apt",NA,NA,NA,"Yes","Available"
+"659","16th Ave",94118,2100,1,1,NA,"Apt","Shared","Radiant","None","Yes","Both"
+"660","1695 10th Ave APT 2",94122,2350,1,1,NA,"Apt","Shared",NA,"Central","Yes","Both"
+"661","1690 Golden Gate Ave APT 03",94115,2975,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"662","1681 Union St",94123,4500,2,1,1235,"Apt","Shared","Forced air",NA,"Yes","Garage"
+"663","168 Hyde St APT 407",94102,1700,7,1,225,"Apt","Shared","Forced air",NA,"Yes","Both"
+"664","1678 Dolores St",94110,4300,2,1,3100,"Apt","In Unit","Forced air",NA,"Yes","Garage"
+"665","166 Middlefield Dr # 166",94132,5000,4,3,NA,"Apt",NA,NA,NA,"No",NA
+"666","1645 Golden Gate Ave APT 2",94115,3395,1,1,775,"Apt","Shared",NA,NA,"Yes",NA
+"667","1640 Vallejo St APT 2",94123,2845,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"668","1640 Golden Gate Ave # 10",94115,1750,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"669","1635 Gough St APT 501",94109,2895,1,1,775,"Apt",NA,NA,NA,"No","Garage"
+"670","1633 California St APT 114",94109,2600,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"671","1619 Fulton St",94117,5800,3,1.5,1640,"Apt","In Unit",NA,NA,"No",NA
+"672","1611 Vallejo St APT 402",94123,4000,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"673","1608 Cayuga Ave",94112,3195,2,1,1198,"Apt",NA,NA,NA,"Yes","Both"
+"674","15th StIncomplete address or missing price?Sometimes listing partners send Zillow listings that do not include a full address or price.To get more details on this property",94114,5850,3,1.5,1800,"Apt","In Unit","Forced air","None","Yes","Garage"
+"675","1588 Stillwell Rd APT F",94129,3775,3,1,840,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"676","1580 Lombard St APT 1",94123,3950,2,1,725,"Apt",NA,NA,NA,"Yes","Garage"
+"677","1580 Beach St APT 104",94123,3995,1,1,1000,"Apt",NA,NA,NA,"Yes","Garage"
+"678","1573 48th Ave APT 6",94122,2750,2,1,840,"Apt","Shared",NA,NA,"Yes","Garage"
+"679","1531 Francisco St",94123,2495,7,1,600,"Apt",NA,NA,NA,"Yes","Both"
+"680","1530 Pershing Dr APT A",94129,3385,2,1,835,"Apt","In Unit",NA,NA,"Yes","Both"
+"681","1530 Irving St APT 1",94122,2395,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"682","1530 Gough St APT 405",94109,2400,7,1,600,"Apt",NA,NA,NA,"No",NA
+"683","1530 Dolores St APT 2",94110,4950,3,1,NA,"Apt","In Unit","Forced air",NA,"Yes",NA
+"684","1522 46th Ave # STUDIO",94122,2000,7,1,350,"Apt","Shared",NA,NA,"No",NA
+"685","1512 Great Hwy # 1",94122,2350,1,1,600,"Apt","Shared","Forced air",NA,"Yes",NA
+"686","1499 Union St APT 05",94109,2975,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"687","1493 Francisco St",94123,4000,2,1,NA,"Apt",NA,NA,NA,"Yes","Garage"
+"688","149 Dore St",94103,3995,2,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"689","146 Connecticut St APT 2",94107,6000,3,2,1516,"Apt",NA,NA,NA,"Yes",NA
+"690","145 Bella Vista Way # A",94127,5995,3,2,1700,"Apt","In Unit",NA,NA,"Yes","Garage"
+"691","1446 Washington St",94109,3150,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"692","1446 Jackson St APT 6",94109,3995,2,1,1250,"Apt",NA,NA,NA,"Yes",NA
+"693","1446 18th Ave",94122,4600,3,1,1500,"Apt","Shared","Forced air",NA,"Yes","Both"
+"694","1443 17th Ave",94122,3888,2,2,1400,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"695","1441 Clay St",94109,3550,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"696","1440 Clement St",94118,3995,3,2,825,"Apt",NA,"Forced air",NA,"Yes","Both"
+"697","1437 17th Avenue # FL 1ST",94122,4000,2,2,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"698","1435 Fulton St APT A",94117,2895,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"699","1434 Washington St",94109,4850,2,1,1396,"Apt","In Unit","Forced air",NA,"No","Garage"
+"700","1433 Clay St APT 15",94109,5995,3,2,NA,"Apt","In Unit",NA,NA,"Yes",NA
+"701","1429 Leavenworth St APT 304",94109,2195,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"702","1420 Jones St",94109,3000,1,1,NA,"Apt",NA,NA,NA,"Yes","Both"
+"703","1415 5th Ave APT 2",94122,2600,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"704","1405 Van Ness Ave",94109,3595,2,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"705","1403 Jackson St",94109,2850,1,1,490,"Apt",NA,NA,NA,"Yes","Garage"
+"706","1401 41st Ave",94122,3300,3,1,2279,"Apt","Shared",NA,NA,"Yes","Both"
+"707","140 Jersey St",94114,5195,3,1,1200,"Apt","In Unit",NA,NA,"Yes","Garage"
+"708","139 Porter St",94110,2950,2,2,NA,"Apt","In Unit",NA,NA,"Yes","Garage"
+"709","1386 Mcallister St # 5",94115,3999,2,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"710","1375 Green St APT 10",94109,2900,7,1,500,"Apt",NA,"Forced air",NA,"No","Both"
+"711","1351 Divisadero St APT 1",94115,3300,2,1,900,"Apt","Shared",NA,NA,"Yes",NA
+"712","135 Evelyn Way # DETACH",94127,5880,5,3,1650,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"713","135 Corwin St",94114,2795,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"714","135 8th St APT 5",94103,2995,2,1,NA,"Apt",NA,NA,NA,"No",NA
+"715","1335 Bay St APT 3",94123,3600,1,1,567,"Apt","Shared","Forced air","Other","Yes","Garage"
+"716","1333 Hayes St",94117,10895,5,2,1700,"Apt",NA,NA,NA,"Yes","Both"
+"717","1330 Pine St APT 8",94109,2100,7,1,NA,"Apt",NA,"Forced air",NA,"Yes",NA
+"718","1328 Larkin St # TOP",94109,12000,6,3,1635,"Apt","In Unit","Forced air","Central","No","Both"
+"719","1315 Cole St",94117,6290,3,1,1900,"Apt",NA,NA,NA,"Yes",NA
+"720","131 Hartford St # B",94114,4000,2,1,900,"Apt","In Unit",NA,NA,"Yes","Garage"
+"721","1293 6th Ave",94122,2700,7,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"722","1289 22nd Ave APT 103",94122,2650,2,1,NA,"Apt",NA,"Forced air",NA,"Yes","Both"
+"723","1280 Minnesota St APT 103",94107,4650,2,2,1125,"Apt",NA,NA,NA,"Yes",NA
+"724","1278 Jackson St",94109,3950,1,1,800,"Apt",NA,NA,NA,"Yes","Both"
+"725","1257 Bush St",94109,7000,7,1,NA,"Apt","Shared",NA,NA,"No",NA
+"726","1255 Taylor St APT 1",94108,3500,1,1,750,"Apt",NA,"Forced air","Central","Yes","Both"
+"727","125 Gilbert St APT 8",94103,5000,2,2.5,1540,"Apt","In Unit","Forced air",NA,"No","Garage"
+"728","124 Locksley Ave APT 1",94122,2795,1,1,800,"Apt","Shared",NA,NA,"No","Both"
+"729","1233 California St APT 306",94109,2400,7,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"730","123 Guerrero St APT 3",94103,2995,1,1,NA,"Apt",NA,NA,NA,"No",NA
+"731","1225 Bay St",94123,3995,2,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"732","1220 14th Ave",94122,2550,1,1,NA,"Apt","Shared","Forced air",NA,"Yes","Both"
+"733","120 Parker Ave APT 301",94118,4000,2,2,1000,"Apt","Shared","Forced air","Central","Yes",NA
+"734","1190 Haight Street 10 Lyon # 208",94117,2995,7,1,NA,"Apt",NA,NA,NA,"No",NA
+"735","1184 Alabama St",94110,3600,3,1,900,"Apt",NA,"Forced air",NA,"Yes",NA
+"736","1177 California St APT 814",94108,5500,2,2.5,1399,"Apt",NA,NA,NA,"No",NA
+"737","1170 Sacramento St APT 16A",94108,14000,2,2,2070,"Apt",NA,NA,NA,"Yes",NA
+"738","1161 Stanyan St APT 1B",94117,2240,1,1,700,"Apt","Shared","Forced air",NA,"Yes","Both"
+"739","1160 Mission St UNIT 1212",94103,3400,1,1,660,"Apt",NA,NA,NA,"No","Available"
+"740","1153 Fell St",94117,4500,3,1,2788,"Apt","Shared","Forced air",NA,"Yes",NA
+"741","113 Laidley St # A",94131,2750,1,1,700,"Apt",NA,NA,NA,"Yes",NA
+"742","1124 Greenwich St",94109,3750,1,1,1800,"Apt",NA,NA,NA,"No","Garage"
+"743","1123 Green St",94109,17900,6,4,3451,"Apt","In Unit","Forced air","Central","No","Both"
+"744","1122 Sutter St APT 12",94109,1800,7,1,NA,"Apt",NA,"Forced air",NA,"Yes",NA
+"745","1117 Ocean Ave",94112,5695,7,NA,19486,"Apt","In Unit, Shared","Forced air","Central","Yes","Both"
+"746","1115 Polk St APT 31",94109,2495,1,1,500,"Apt",NA,NA,NA,"No","Both"
+"747","1114 Sutter St APT 503",94109,1695,7,1,350,"Apt","Shared","Forced air",NA,"Yes",NA
+"748","1114 Broadway # 2",94109,2700,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"749","1108 Lake St",94118,2975,2,1,NA,"Apt",NA,NA,"Central","Yes","Both"
+"750","1101 999 Pine St # 1101",94108,3595,1,1,650,"Apt","In Unit",NA,NA,"No","Garage"
+"751","1100-1104 Fell Street 1100 Fell Street 501-505 S",94117,5795,3,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"752","110 Gardenside Drive # Top Floor",94131,2995,1,1,NA,"Apt","Shared",NA,NA,"Yes","Garage"
+"753","1096 Pine St APT 106",94109,1895,7,1,380,"Apt","Shared",NA,NA,"Yes",NA
+"754","1091 Bush St",94109,1800,7,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"755","1078 Potrero Ave",94110,4395,3,2,NA,"Apt",NA,NA,NA,"Yes",NA
+"756","1069 Francisco St",94109,6200,3,2,1708,"Apt","In Unit","Forced air",NA,"Yes","Both"
+"757","1065 Bush St # 211",94109,2995,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"758","1053 Bush St APT B",94109,1895,7,1,NA,"Apt","Shared",NA,NA,"Yes","Both"
+"759","1049A Page St",94117,3500,2,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"760","1023 Church St APT 4",94114,3900,2,1,722,"Apt",NA,NA,NA,"Yes",NA
+"761","101 Leland Ave",94134,3650,3,2,800,"Apt",NA,NA,NA,"Yes",NA
+"762","101 Leland Ave # 99101",94134,3500,3,2,1100,"Apt","Shared",NA,NA,"Yes",NA
+"763","101 Crescent Way APT 2315",94134,3599,2,2,1337,"Apt",NA,NA,NA,"No",NA
+"764","1000 Union St APT 106",94133,3200,1,1,NA,"Apt","Shared",NA,NA,"Yes",NA
+"765","1000 Powell St APT 43",94108,2795,1,1,NA,"Apt",NA,NA,NA,"Yes",NA
+"766","1000 Judah St APT 303",94122,2725,1,1,750,"Apt","Shared",NA,NA,"Yes",NA
+"767","1000 Howard St APT 408",94103,1699,1,1,420,"Apt",NA,NA,NA,"No",NA
+"768","1 Hawthorne Street 23c # 23C",94105,5850,2,2,NA,"Apt",NA,NA,NA,"No",NA
+"769","1 Hawthorne St UNIT 3F",94105,3500,1,1,498,"Apt",NA,NA,NA,"No","Garage"
+"770","1 Daniel Burnham Ct",94109,3500,1,1,600,"Apt","Shared","Forced air",NA,"Yes","Both"
+"771","1 Bluxome St",94107,4800,2,1.5,1361,"Apt","In Unit","Forced air","Other","No","Garage"
+"772",NA,94123,3095,1,1,600,"Apt","Shared",NA,"None","Yes","Garage"
+"773",NA,94133,4900,1,1,1035,"Apt","Shared","Radiant","None","Yes","Garage"
